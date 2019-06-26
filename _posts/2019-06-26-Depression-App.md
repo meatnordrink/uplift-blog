@@ -9,6 +9,7 @@ description: "We break down depression science and review treatment apps."
 featured: true
 hidden: false
 comments: false
+permalink: /could-a-depression-app-work
 ---
 
 Have you searched “depression” in an app store recently? There are a mind-boggling number of apps to choose from. You may be wanting to [give one a try](http://www.uplift.app)---but how do you know if an app would make you feel better? How do you choose one from the masses? 
