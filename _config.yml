@@ -1,9 +1,9 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: "UpLift"
+title: "UpLift"
+description: "the depression app that works"
+logo: 'assets/images/logo.svg'
+favicon: 'assets/images/logo.svg'
 # baseurl: "/"
 # google_analytics: 'UA-46278016-1'
 # disqus: 'demowebsite'
@@ -33,6 +33,8 @@ authors:
   aislinn:
     name: Aislinn
     display_name: Aislinn
+    avatar: "assets/images/aislinn.png"
+    description: "Aislinn Pluta has a B.A. in Psychology and a Master's in Applied Positive Psychology, the scientific study of the factors that lead to a full and meaningful life, from the University of Pennsylvania. She has extensive experience in project management and research."
 
 # Plugins
 plugins:
