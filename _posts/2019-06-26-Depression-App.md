@@ -36,11 +36,11 @@ These benefits are appealing, but not all apps are created equal and not every p
 
 ## Find an app that’s science-backed or better
 
-Unfortunately for those trying to make sense of all the options, a recent study examining 73 of the top-ranking mental health apps in Google Play and iTunes found the science behind apps to be low[^i]:
+Unfortunately for those trying to make sense of all the options, a recent study examining 73 of the top-ranking mental health apps in Google Play and iTunes found the science behind apps to be low<sup>i</sup>]:
   - 44% of the apps use scientific language to describe their effectiveness, but 25% of these use at least one “scientific” technique for which evidence could not be found.
   - 64% claim to be effective at diagnosing or improving a mental health condition, but only 2 had done their own studies to show that their app works.
 
-The two apps with their own studies were a chat-bot called [Wysa] and a happiness app called [Happify]; at the time the paper was written, [UpLift](http://www.uplift.app), a depression app, which has conducted its own research[^vi], had only recently been launched. 
+The two apps with their own studies were a chat-bot called [Wysa](https://www.wysa.io/) and a happiness app called [Happify](https://www.happify.com/); at the time the paper was written, [UpLift](http://www.uplift.app), a depression app, which has conducted its own research[^vi], had only recently been launched. 
 
 That said, more app developers are hard at work to show their apps can be effective. The authors stated that five additional apps had research underway. 
 
