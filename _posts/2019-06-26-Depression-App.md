@@ -131,29 +131,32 @@ To give a depression app a try, receive the first session and tool of UpLift for
 
 <div class='grey_box'>
 
-**For those having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone.** 
+<strong>For those having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone.</strong> 
 
 In the US:
-  - Call 1-800-273-8255; it’s the number for the [National Suicide Prevention Lifeline](http://www.suicidepreventionlifeline.org/). 
-  - Text START to 741741, the [Crisis Text Line](http://www.crisistextline.org/).
-  - Download the [MY3] app to plan a way to stay safe when you’re having thoughts of suicide.
-  - For emergencies call 911. 
-
+<ul>
+  <li>Call 1-800-273-8255; it’s the number for the [National Suicide Prevention Lifeline](http://www.suicidepreventionlifeline.org/). </li>
+  <li>Text START to 741741, the [Crisis Text Line](http://www.crisistextline.org/).</li>
+  <li>Download the [MY3] app to plan a way to stay safe when you’re having thoughts of suicide.</li>
+  <li>For emergencies call 911. </li>
+</ul>
 Those outside of the US:
-  - Visit [Befrienders Worldwide](http://befrienders.org) for hotlines and other resources available throughout the world.
-  - Use your local emergency services.
+<ul>
+  <li>Visit [Befrienders Worldwide](http://befrienders.org) for hotlines and other resources available throughout the world.</li>
+  <li>Use your local emergency services.</li>
+</ul>
 </div>
 
 <div class='references'>
-<li>
-i : https://www.nature.com/articles/s41746-019-0093-1#Tab3
-ii : https://www.psychiatry.org/psychiatrists/practice/mental-health-apps/app-evaluation-model
-iii : http://www.ncbi.nlm.nih.gov/pubmed/16199119
-iv : http://www.ncbi.nlm.nih.gov/pubmed/18752112
-v : https://www.ncbi.nlm.nih.gov/pubmed/29422409
-vi : Liu, E., & Pluta, A., & Dobson, K. (2018, November). Pilot Study on UpLift---A Computerized Cognitive Behavioral Therapy Mobile App for Depression. Poster session presented at the 52nd Annual Convention for the Association for Behavioral and Cognitive Therapies (ABCT), Washington, D.C.
-vii : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608852/
-viii : Big White Wall is not technically an app, but is optimized for mobile use and worth a mention
-</li>
+<ul>
+<li><sup>i</sup>: https://www.nature.com/articles/s41746-019-0093-1#Tab3</li>
+<li><sup>ii</sup>: https://www.psychiatry.org/psychiatrists/practice/mental-health-apps/app-evaluation-model</li>
+<li><sup>iii</sup>: http://www.ncbi.nlm.nih.gov/pubmed/16199119</li>
+<li><sup>iv</sup>: http://www.ncbi.nlm.nih.gov/pubmed/18752112</li>
+<li><sup>v</sup>: https://www.ncbi.nlm.nih.gov/pubmed/29422409</li>
+<li><sup>vi</sup>: Liu, E., & Pluta, A., & Dobson, K. (2018, November). Pilot Study on UpLift---A Computerized Cognitive Behavioral Therapy Mobile App for Depression. Poster session presented at the 52nd Annual Convention for the Association for Behavioral and Cognitive Therapies (ABCT), Washington, D.C.</li>
+<li><sup>vii</sup>: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608852/</li>
+<li><sup>viii</sup>: Big White Wall is not technically an app, but is optimized for mobile use and worth a mention</li>
+</ul>
 
 <div>  
