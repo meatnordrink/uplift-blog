@@ -15,7 +15,7 @@ permalink: /could-a-depression-app-work
 
 [Wysa]: <https://www.wysa.io/>
 [Happify]: <http://www.happify.com/>
-[UpLift]: <http://run.uplift.app/>
+[UpLift]: <http://run.uplift.app?utm_source=blog/>
 [Youper]: <https://www.youper.ai/>
 [BetterHelp]: <https://www.betterhelp.com/>
 [Talkspace]: <https://www.talkspace.com/>
@@ -73,7 +73,7 @@ Using the above model can help you decide if an app is likely to be useful. An a
 
 ## A CBT-based app may be the best choice
 
-Cognitive behavioral therapy (CBT) has more evidence that it reduces depression than any other psychological treatment in existence<sup>iii][^iv</sup>. Unlike traditional talk therapy, which often tries to pinpoint past events that have *caused* depression, CBT focuses on what’s happening now in your life to *maintain* depression.
+Cognitive behavioral therapy (CBT) has more evidence that it reduces depression than any other psychological treatment in existence<sup>iii,iv</sup>. Unlike traditional talk therapy, which often tries to pinpoint past events that have *caused* depression, CBT focuses on what’s happening now in your life to *maintain* depression.
 
 CBT teaches skills like confronting negative thoughts, scheduling enjoyable activities into your day, and problem solving. Compared to other therapies, CBT is typically of shorter duration, between 10 and 20 sessions.
 
@@ -125,7 +125,7 @@ While most depression apps lack scientific backing, there are a few quality opti
 
 However, do first consider more traditional forms of care such as in-person therapy, particularly if you have severe depression, bipolar disorder, suicidal thoughts, or believe your depression symptoms have a physical cause.
 
-To give a depression app a try, receive the first session and tool of UpLift for free. [Get started here](http://run.uplift.app/).
+To give a depression app a try, receive the first session and tool of UpLift for free. [Get started here](http://run.uplift.app?utm_source=blog).
 
 {% include call_to_action.html %}
 
