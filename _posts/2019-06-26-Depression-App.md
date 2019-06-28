@@ -110,11 +110,9 @@ However, do first consider more traditional forms of care such as in-person ther
 
 To give a depression app a try, receive the first session and tool of UpLift for free. [Get started here](http://run.uplift.app/).
 
-# Big call to action box!
+{% include call_to_action.html %}
 
-light-colored box:
-
----
+<div class = grey_box>
 
 For those having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone. 
 
@@ -127,8 +125,9 @@ In the US:
 Those outside of the US:
   - Visit [Befrienders Worldwide](http://befrienders.org) for hotlines and other resources available throughout the world.
   - Use your local emergency services.
+</div>
 
-
+<div class = references>
 [^i]: https://www.nature.com/articles/s41746-019-0093-1#Tab3
 [^ii]: https://www.psychiatry.org/psychiatrists/practice/mental-health-apps/app-evaluation-model
 [^iii]: http://www.ncbi.nlm.nih.gov/pubmed/16199119
@@ -153,4 +152,4 @@ Those outside of the US:
    [Big White Wall]: <https://www.bigwhitewall.com/>
    [MY3]: <https://my3app.org/>
    [SuperBetter]: <https://www.superbetter.com/>
-  
+<div>  
