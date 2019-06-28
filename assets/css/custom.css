@@ -1,5 +1,5 @@
 .hide{
-    display: none;
+    display: none !important;
 }
 .grey_box{
     background-color:#80808026;
