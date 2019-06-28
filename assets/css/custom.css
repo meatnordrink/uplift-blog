@@ -1,3 +1,6 @@
+.hide{
+    display: none;
+}
 .grey_box{
     background-color: #80808042;
     border-radius: 4px;
