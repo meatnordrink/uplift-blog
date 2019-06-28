@@ -1,9 +1,19 @@
-.grey-box{
-    background-color: gray;
+.grey_box{
+    background-color: #80808042;
     border-radius: 4px;
+    padding: 1em;
+    font-size:.8em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+
 }
 
 .references{
-    font-size: .5em;
+    font-size: .7em;
     color: darkslategray;
 }
+
+/*.btn {
+    background-color: orange;
+    border: solid 1px orange;
+}*/

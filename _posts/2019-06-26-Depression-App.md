@@ -114,7 +114,7 @@ To give a depression app a try, receive the first session and tool of UpLift for
 
 <div class='grey_box'>
 
-For those having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone. 
+**For those having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone.** 
 
 In the US:
   - Call 1-800-273-8255; it’s the number for the [National Suicide Prevention Lifeline](http://www.suicidepreventionlifeline.org/). 
@@ -128,14 +128,14 @@ Those outside of the US:
 </div>
 
 <div class='references'>
-[^i]: https://www.nature.com/articles/s41746-019-0093-1#Tab3
-[^ii]: https://www.psychiatry.org/psychiatrists/practice/mental-health-apps/app-evaluation-model
-[^iii]: http://www.ncbi.nlm.nih.gov/pubmed/16199119
-[^iv]: http://www.ncbi.nlm.nih.gov/pubmed/18752112
-[^v]: https://www.ncbi.nlm.nih.gov/pubmed/29422409
-[^vi]: Liu, E., & Pluta, A., & Dobson, K. (2018, November). Pilot Study on UpLift---A Computerized Cognitive Behavioral Therapy Mobile App for Depression. Poster session presented at the 52nd Annual Convention for the Association for Behavioral and Cognitive Therapies (ABCT), Washington, D.C.
-[^vii]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608852/
-[^viii]: Big White Wall is not technically an app, but is optimized for mobile use and worth a mention
+1 : https://www.nature.com/articles/s41746-019-0093-1#Tab3
+2 : https://www.psychiatry.org/psychiatrists/practice/mental-health-apps/app-evaluation-model
+3 : http://www.ncbi.nlm.nih.gov/pubmed/16199119
+4 : http://www.ncbi.nlm.nih.gov/pubmed/18752112
+5 : https://www.ncbi.nlm.nih.gov/pubmed/29422409
+6 : Liu, E., & Pluta, A., & Dobson, K. (2018, November). Pilot Study on UpLift---A Computerized Cognitive Behavioral Therapy Mobile App for Depression. Poster session presented at the 52nd Annual Convention for the Association for Behavioral and Cognitive Therapies (ABCT), Washington, D.C.
+7 : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608852/
+8 : Big White Wall is not technically an app, but is optimized for mobile use and worth a mention
 
 
    [Wysa]: <https://www.wysa.io/>
