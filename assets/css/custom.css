@@ -1,0 +1,9 @@
+.grey-box{
+    background-color: gray;
+    border-radius: 4px;
+}
+
+.references{
+    font-size: .5em;
+    color: darkslategray;
+}
