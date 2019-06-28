@@ -112,7 +112,7 @@ To give a depression app a try, receive the first session and tool of UpLift for
 
 {% include call_to_action.html %}
 
-<div class = grey_box>
+<div class='grey_box'>
 
 For those having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone. 
 
@@ -127,7 +127,7 @@ Those outside of the US:
   - Use your local emergency services.
 </div>
 
-<div class = references>
+<div class='references'>
 [^i]: https://www.nature.com/articles/s41746-019-0093-1#Tab3
 [^ii]: https://www.psychiatry.org/psychiatrists/practice/mental-health-apps/app-evaluation-model
 [^iii]: http://www.ncbi.nlm.nih.gov/pubmed/16199119
