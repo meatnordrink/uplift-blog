@@ -34,7 +34,7 @@ Then there’s the issue of quality---many apps claim to be able to help you red
 
 Read on to learn the current state of science behind depression apps, get a better idea of whether an app could work for you, and have a list of a few, higher-quality apps to explore [like UpLift](http://www.uplift.app), our own depression app (full disclosure: we made UpLift and we hope you think it's the best app out there; this article should still be useful way to discover other apps too).
 
-## People use depression apps for many reasons
+## Why a depression app may help you feel better
 
 Having depression is hard. One of the key symptoms is a lack of motivation. While finding a face-to-face therapist is a worthwhile task (one we recommend you pursue first!), it can take some effort to find someone with whom you’re compatible.
 
