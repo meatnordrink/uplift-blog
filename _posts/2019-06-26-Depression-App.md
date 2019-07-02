@@ -135,14 +135,14 @@ To give a depression app a try, receive the first session and tool of UpLift for
 
 In the US:
 <ul>
-  <li>Call 1-800-273-8255; it’s the number for the [National Suicide Prevention Lifeline](http://www.suicidepreventionlifeline.org/). </li>
-  <li>Text START to 741741, the [Crisis Text Line](http://www.crisistextline.org/).</li>
-  <li>Download the [MY3] app to plan a way to stay safe when you’re having thoughts of suicide.</li>
+  <li>Call 1-800-273-8255; it’s the number for the <a href="http://www.suicidepreventionlifeline.org">National Suicide Prevention Lifeline.</a></li>
+  <li>Text START to 741741, the <a href="http://www.crisistextline.org/">Crisis Text Line.</a></li>
+  <li>Download the <a href="https://my3app.org/">MY3<a> app to plan a way to stay safe when you’re having thoughts of suicide.</li>
   <li>For emergencies call 911. </li>
 </ul>
 Those outside of the US:
 <ul>
-  <li>Visit [Befrienders Worldwide](http://befrienders.org) for hotlines and other resources available throughout the world.</li>
+  <li>Visit <a href="http://befrienders.org">Befrienders Worldwide</a> for hotlines and other resources available throughout the world.</li>
   <li>Use your local emergency services.</li>
 </ul>
 </div>
