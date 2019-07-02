@@ -20,7 +20,7 @@ permalink: /could-a-depression-app-work
 [Talkspace]: <https://www.talkspace.com/>
 [Pacifica]: <https://www.thinkpacifica.com/>
 [Headspace]: <https://www.headspace.com/>
-[Daylio]: <https://daylio.webflow.io/>
+[Moodnotes]: <https://moodnotes.thriveport.com>
 [MoodTools]: <http://www.moodtools.org/>
 [Elevatr]: <http://www.elevatr.com/>
 [Big White Wall]: <https://www.bigwhitewall.com/>
@@ -28,11 +28,11 @@ permalink: /could-a-depression-app-work
 [SuperBetter]: <https://www.superbetter.com/>
 
 
-Have you searched “depression” in an app store recently? There are a mind-boggling number of apps to choose from. You may be wanting to [give one a try](http://www.uplift.app)---but how do you know if an app would make you feel better? How do you choose one from the masses?
+Have you searched “depression” in an app store recently? There are a mind-boggling number of apps to choose from. You may be wanting to give one a try---but how do you know if an app would make you feel better? How do you choose one from the masses?
 
 Then there’s the issue of quality---many apps claim to be able to help you reduce symptoms, but is there real science behind those claims?
 
-Read on to learn the current state of science behind depression apps, get a better idea of whether an app could work for you, and have a list of a few, higher-quality apps to explore.
+Read on to learn the current state of science behind depression apps, get a better idea of whether an app could work for you, and have a list of a few, higher-quality apps to explore [like UpLift](http://www.uplift.app), our own depression app (full disclosure: we made UpLift and we hope you think it's the best app out there; this article should still be useful way to discover other apps too).
 
 ## People use depression apps for many reasons
 
@@ -50,13 +50,13 @@ People use depression apps for the following additional reasons:
 
 These benefits are appealing, but not all apps are created equal and not every person benefits from an app.
 
-## Find an app that’s science-backed or better
+## Tip 1: Find an app that’s science-backed or better
 
 Unfortunately for those trying to make sense of all the options, a recent study examining 73 of the top-ranking mental health apps in Google Play and iTunes found the science behind apps to be low<sup>i</sup>:
   - 44% of the apps use scientific language to describe their effectiveness, but 25% of these use at least one “scientific” technique for which evidence could not be found.
   - 64% claim to be effective at diagnosing or improving a mental health condition, but only 2 had done their own studies to show that their app works.
 
-The two apps with their own studies were a chat-bot called [Wysa](https://www.wysa.io/) and a happiness app called [Happify](https://www.happify.com/); at the time the paper was written, [UpLift](http://www.uplift.app), a depression app, which has conducted its own research<sup>vi</sup>, had only recently been launched.
+The two apps with their own studies were a chat-bot called [Wysa](https://www.wysa.io/) and a happiness app called [Happify](https://www.happify.com/); at the time the paper was written, [UpLift](http://www.uplift.app), our own depression app, which has conducted its own research<sup>vi</sup>, had only recently been launched.
 
 That said, more app developers are hard at work to show their apps can be effective. The authors stated that five additional apps had research underway.
 
@@ -70,7 +70,7 @@ So how can you tell if an app has good science behind it and is likely to be eff
 
 Using the above model can help you decide if an app is likely to be useful. An app that is based on cognitive behavioral therapy (CBT), described next, is one that is also likely to be higher quality.
 
-## A CBT-based app may be the best choice
+## Tip 2: A CBT-based app may be the best choice
 
 Cognitive behavioral therapy (CBT) has more evidence that it reduces depression than any other psychological treatment in existence<sup>iii,iv</sup>. Unlike traditional talk therapy, which often tries to pinpoint past events that have *caused* depression, CBT focuses on what’s happening now in your life to *maintain* depression.
 
@@ -84,33 +84,33 @@ Some countries, such as the UK, Netherlands, New Zealand, and Australia, even pr
 
 While many apps contain some elements of CBT, currently, [UpLift] is the only mobile app that includes a complete course of CBT. It’s modeled off the first wave of iCBT programs but is more advanced and interactive. Pilot data has shown UpLift can reduce depressive symptoms by 50% in as little as one month<sup>vi</sup>.
 
-## Are you a good fit for a depression app?
+## Tip 3: Check if you're a good fit for a depression app
 
 An iCBT-based app can be quite beneficial for people experiencing depression and may even help reduce symptoms of anxiety. However, there are some people for whom these types of apps (and many other types of depression apps) may be less effective.  
 
 Using a depression app may not suitable if you have any of the following:
   - **Bipolar disorder**: An iCBT app may be helpful, but it may not be the most evidence-based option in all cases. Check with a professional to see what types of apps could work for you.
-  - **Severe depression**: You may still benefit from using a depression app, though studies have been mixed on whether mobile apps are helpful for those with severe depression<sup>vii</sup>. Do consider face-to-face therapy with a trained clinician. Medication is often helpful for those with severe depression.
+  - **Severe depression**: You may still benefit from using a depression app, particularly an iCBT-based app<sup>vii</sup>, though some studies have been mixed on whether mobile apps are helpful for those with severe depression<sup>viii</sup>. Do consider face-to-face therapy with a trained clinician. Medication is often helpful for those with severe depression.
   - **Depression from a physical cause**: Surprisingly, 10% of people diagnosed with depression are actually suffering from other *undiagnosed* medical conditions that cause or contribute to depression, such as hypothyroidism, anemia, sleep apnea, and vitamin D deficiency. In these cases, treating depression will be less effective than addressing the underlying issue.
   - **Suicidal thoughts or behaviors**: Suicidal thoughts are not uncommon for people with depression. However, having plans to harm yourself or attempting to do so requires immediate action. Most depression apps are not capable of dealing with crises, or in creating safety plans to prevent them. (If you’re having suicidal thoughts, see the resources at the bottom of this article, including one app that may be helpful).
 
 Additionally, most depression apps are self-paced. This means **to unlock the best results, you have to put in the effort**. There are some guided apps out there that may help you stick with the recommended tools, but in general you decide when and how often to practice the skills you learn.
 
-## What about depression apps other than those based on iCBT?
+## Tip 4: iCBT apps are great, and here are some alternatives
 
 There are several other types of depression apps out there besides [UpLift](http://www.uplift.app), and many do incorporate some elements of CBT. Some of the common depression app types are listed below, with some higher quality examples.
 
   - **Chatbots**: Have a conversation with a bot that can also guide you through techniques or meditations. Examples: [Wysa] and [Youper]
   - **E-therapy/text therapy**: Connect with a licensed therapist and communicate primarily via text, with some phone or video time. Examples: [BetterHelp] and [Talkspace].
   - **Mindfulness apps**: Focus your attention while acknowledging and accepting negative thoughts and emotions. Examples: [Pacifica] and [Headspace]
-  - **Mood trackers/thought diaries**: Track your moods to better notice patterns in your ups and downs. Examples: [Daylio] and [MoodTools]
-  - **Peer support**: Connect with others working toward improving their mental health. Example: [Elevatr] and [Big White Wall]<sup>viii</sup>
+  - **Mood trackers/thought diaries**: Track your moods to better notice patterns in your ups and downs. Examples: [Moodnotes] and [MoodTools]
+  - **Peer support**: Connect with others working toward improving their mental health. Example: [Elevatr] and [Big White Wall]<sup>ix</sup>
   - **Suicide prevention**: Make a plan to stay safe and define who you can reach out to when you’re having thoughts of suicide. Example: [MY3]
   - **Other**: Not necessarily designed for those with depression, some apps involve well-being techniques and goal setting that may be helpful. Examples: [Happify] and [SuperBetter]
 
 While the above alternatives to iCBT may be beneficial, they’re newer to the scene and there is less scientific evidence so far to support them. Nevertheless, if one app doesn’t work for you, you may find another that does.
 
-## Don’t let an app replace professional care
+## Tip 5: Don’t let an app replace professional care
 
 Medication and therapy are highly beneficial to many people and are options worth seriously considering, particularly from a CBT-based practitioner (check out the [Academy of Cognitive Therapy](https://www.academyofct.org/) or the [Association for Behavioral and Cognitive Therapies](http://www.findcbt.org/FAT/) to find a CBT practitioner).
 
@@ -154,8 +154,9 @@ Those outside of the US:
 <li><sup>iv</sup>: http://www.ncbi.nlm.nih.gov/pubmed/18752112</li>
 <li><sup>v</sup>: https://www.ncbi.nlm.nih.gov/pubmed/29422409</li>
 <li><sup>vi</sup>: Liu, E., & Pluta, A., & Dobson, K. (2018, November). Pilot Study on UpLift---A Computerized Cognitive Behavioral Therapy Mobile App for Depression. Poster session presented at the 52nd Annual Convention for the Association for Behavioral and Cognitive Therapies (ABCT), Washington, D.C.</li>
-<li><sup>vii</sup>: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608852/</li>
-<li><sup>viii</sup>: Big White Wall is not technically an app, but is optimized for mobile use and worth a mention</li>
+<li><sup>vii</sup>: https://www.jmir.org/2018/11/e10113/</li>
+<li><sup>viii</sup>: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608852/</li>
+<li><sup>ix</sup>: Big White Wall is not technically an app, but is optimized for mobile use and worth a mention</li>
 </ul>
 
 <div>  
