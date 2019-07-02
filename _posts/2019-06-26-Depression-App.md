@@ -137,7 +137,7 @@ In the US:
 <ul>
   <li>Call 1-800-273-8255; it’s the number for the <a href="http://www.suicidepreventionlifeline.org">National Suicide Prevention Lifeline.</a></li>
   <li>Text START to 741741, the <a href="http://www.crisistextline.org/">Crisis Text Line.</a></li>
-  <li>Download the <a href="https://my3app.org/">MY3<a> app to plan a way to stay safe when you’re having thoughts of suicide.</li>
+  <li>Download the <a href="https://my3app.org/">MY3</a> app to plan a way to stay safe when you’re having thoughts of suicide.</li>
   <li>For emergencies call 911. </li>
 </ul>
 Those outside of the US:
