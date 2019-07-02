@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Could a depression app really work for you?"
+title:  "5 Tips For Starting a Depression App Today"
 author: aislinn
-categories: [depression, technology, apps]
 tags: []
 image: assets/images/GettyImages-1094477016.jpg
-description: "We break down depression science and review treatment apps."
+description: "Feeling depressed? Here's important information about depression apps and how they can help."
 featured: true
 hidden: false
 comments: false
@@ -22,24 +21,24 @@ permalink: /could-a-depression-app-work
 [Pacifica]: <https://www.thinkpacifica.com/>
 [Headspace]: <https://www.headspace.com/>
 [Daylio]: <https://daylio.webflow.io/>
-[MoodTools]: <http://www.moodtools.org/> 
+[MoodTools]: <http://www.moodtools.org/>
 [Elevatr]: <http://www.elevatr.com/>
 [Big White Wall]: <https://www.bigwhitewall.com/>
 [MY3]: <https://my3app.org/>
 [SuperBetter]: <https://www.superbetter.com/>
 
 
-Have you searched “depression” in an app store recently? There are a mind-boggling number of apps to choose from. You may be wanting to [give one a try](http://www.uplift.app)---but how do you know if an app would make you feel better? How do you choose one from the masses? 
+Have you searched “depression” in an app store recently? There are a mind-boggling number of apps to choose from. You may be wanting to [give one a try](http://www.uplift.app)---but how do you know if an app would make you feel better? How do you choose one from the masses?
 
 Then there’s the issue of quality---many apps claim to be able to help you reduce symptoms, but is there real science behind those claims?
 
-Read on to learn the current state of science behind depression apps, get a better idea of whether an app could work for you, and have a list of a few, higher-quality apps to explore. 
+Read on to learn the current state of science behind depression apps, get a better idea of whether an app could work for you, and have a list of a few, higher-quality apps to explore.
 
 ## People use depression apps for many reasons
 
-Having depression is hard. One of the key symptoms is a lack of motivation. While finding a face-to-face therapist is a worthwhile task (one we recommend you pursue first!), it can take some effort to find someone with whom you’re compatible. 
+Having depression is hard. One of the key symptoms is a lack of motivation. While finding a face-to-face therapist is a worthwhile task (one we recommend you pursue first!), it can take some effort to find someone with whom you’re compatible.
 
-Using a depression app may provide relief while you wait for your first appointment. If you do see a therapist, it can provide added support between sessions. And if the very idea of seeing a therapist is something you’re putting off, an app can be better than receiving no support at all. 
+Using a depression app may provide relief while you wait for your first appointment. If you do see a therapist, it can provide added support between sessions. And if the very idea of seeing a therapist is something you’re putting off, an app can be better than receiving no support at all.
 
 People use depression apps for the following additional reasons:
   - **Convenience**: You can use an app around your schedule, when and where it suits you.
@@ -57,9 +56,9 @@ Unfortunately for those trying to make sense of all the options, a recent study 
   - 44% of the apps use scientific language to describe their effectiveness, but 25% of these use at least one “scientific” technique for which evidence could not be found.
   - 64% claim to be effective at diagnosing or improving a mental health condition, but only 2 had done their own studies to show that their app works.
 
-The two apps with their own studies were a chat-bot called [Wysa](https://www.wysa.io/) and a happiness app called [Happify](https://www.happify.com/); at the time the paper was written, [UpLift](http://www.uplift.app), a depression app, which has conducted its own research<sup>vi</sup>, had only recently been launched. 
+The two apps with their own studies were a chat-bot called [Wysa](https://www.wysa.io/) and a happiness app called [Happify](https://www.happify.com/); at the time the paper was written, [UpLift](http://www.uplift.app), a depression app, which has conducted its own research<sup>vi</sup>, had only recently been launched.
 
-That said, more app developers are hard at work to show their apps can be effective. The authors stated that five additional apps had research underway. 
+That said, more app developers are hard at work to show their apps can be effective. The authors stated that five additional apps had research underway.
 
 So how can you tell if an app has good science behind it and is likely to be effective? The American Psychiatric Association recommends checking for the following things in an app, as best you can<sup>ii</sup>:
 
@@ -67,7 +66,7 @@ So how can you tell if an app has good science behind it and is likely to be eff
 2.	**Assess your privacy**: Is there a privacy policy? (If not, you can probably avoid this app). What kind of data is collected, and is it shared? Can you delete your data? Is the data encrypted?
 3.	**Check for evidence**: Are there any published studies on the app or the science behind it? Are there positive reviews left by others? Does the content seem valuable?
 4.	**Ease of use**: Would it be easy to use on a long-term basis? Can you customize it to better suit your needs?
-5.	**Sharing with your therapist**: Can you share your data with your therapist, if you wanted to? 
+5.	**Sharing with your therapist**: Can you share your data with your therapist, if you wanted to?
 
 Using the above model can help you decide if an app is likely to be useful. An app that is based on cognitive behavioral therapy (CBT), described next, is one that is also likely to be higher quality.
 
@@ -77,13 +76,13 @@ Cognitive behavioral therapy (CBT) has more evidence that it reduces depression 
 
 CBT teaches skills like confronting negative thoughts, scheduling enjoyable activities into your day, and problem solving. Compared to other therapies, CBT is typically of shorter duration, between 10 and 20 sessions.
 
-Over the last 20+ years, internet-delivered CBT programs (iCBT) have undergone extensive scientific scrutiny and are regarded as “effective, acceptable, and practical<sup>v</sup>.” Outcomes with iCBT programs are comparable to traditional face-to-face CBT. 
+Over the last 20+ years, internet-delivered CBT programs (iCBT) have undergone extensive scientific scrutiny and are regarded as “effective, acceptable, and practical<sup>v</sup>.” Outcomes with iCBT programs are comparable to traditional face-to-face CBT.
 
 With an iCBT program, you complete “sessions:” 20- to 60-minute skills-based lessons that you complete on your own and at your own pace. Between sessions you do homework challenges and practice skills learned.
 
 Some countries, such as the UK, Netherlands, New Zealand, and Australia, even provide iCBT programs free for residents (frequently through physician referral). Beating the Blues is an example of such a program. However, [Beating the Blues](http://www.beatingtheblues.co.uk/) and many similar iCBT programs are available for web browsers only rather than apps, and are not optimized for smartphone browsers.
 
-While many apps contain some elements of CBT, currently, [UpLift] is the only mobile app that includes a complete course of CBT. It’s modeled off the first wave of iCBT programs but is more advanced and interactive. Pilot data has shown UpLift can reduce depressive symptoms by 50% in as little as one month<sup>vi</sup>. 
+While many apps contain some elements of CBT, currently, [UpLift] is the only mobile app that includes a complete course of CBT. It’s modeled off the first wave of iCBT programs but is more advanced and interactive. Pilot data has shown UpLift can reduce depressive symptoms by 50% in as little as one month<sup>vi</sup>.
 
 ## Are you a good fit for a depression app?
 
@@ -91,9 +90,9 @@ An iCBT-based app can be quite beneficial for people experiencing depression and
 
 Using a depression app may not suitable if you have any of the following:
   - **Bipolar disorder**: An iCBT app may be helpful, but it may not be the most evidence-based option in all cases. Check with a professional to see what types of apps could work for you.
-  - **Severe depression**: You may still benefit from using a depression app, though studies have been mixed on whether mobile apps are helpful for those with severe depression<sup>vii</sup>. Do consider face-to-face therapy with a trained clinician. Medication is often helpful for those with severe depression. 
+  - **Severe depression**: You may still benefit from using a depression app, though studies have been mixed on whether mobile apps are helpful for those with severe depression<sup>vii</sup>. Do consider face-to-face therapy with a trained clinician. Medication is often helpful for those with severe depression.
   - **Depression from a physical cause**: Surprisingly, 10% of people diagnosed with depression are actually suffering from other *undiagnosed* medical conditions that cause or contribute to depression, such as hypothyroidism, anemia, sleep apnea, and vitamin D deficiency. In these cases, treating depression will be less effective than addressing the underlying issue.
-  - **Suicidal thoughts or behaviors**: Suicidal thoughts are not uncommon for people with depression. However, having plans to harm yourself or attempting to do so requires immediate action. Most depression apps are not capable of dealing with crises, or in creating safety plans to prevent them. (If you’re having suicidal thoughts, see the resources at the bottom of this article, including one app that may be helpful). 
+  - **Suicidal thoughts or behaviors**: Suicidal thoughts are not uncommon for people with depression. However, having plans to harm yourself or attempting to do so requires immediate action. Most depression apps are not capable of dealing with crises, or in creating safety plans to prevent them. (If you’re having suicidal thoughts, see the resources at the bottom of this article, including one app that may be helpful).
 
 Additionally, most depression apps are self-paced. This means **to unlock the best results, you have to put in the effort**. There are some guided apps out there that may help you stick with the recommended tools, but in general you decide when and how often to practice the skills you learn.
 
@@ -113,7 +112,7 @@ While the above alternatives to iCBT may be beneficial, they’re newer to the s
 
 ## Don’t let an app replace professional care
 
-Medication and therapy are highly beneficial to many people and are options worth seriously considering, particularly from a CBT-based practitioner (check out the [Academy of Cognitive Therapy](https://www.academyofct.org/) or the [Association for Behavioral and Cognitive Therapies](http://www.findcbt.org/FAT/) to find a CBT practitioner). 
+Medication and therapy are highly beneficial to many people and are options worth seriously considering, particularly from a CBT-based practitioner (check out the [Academy of Cognitive Therapy](https://www.academyofct.org/) or the [Association for Behavioral and Cognitive Therapies](http://www.findcbt.org/FAT/) to find a CBT practitioner).
 
 An app isn’t meant to be a substitute for professional care. And you definitely shouldn’t alter your therapy or medication on account of starting an app.
 
@@ -121,7 +120,7 @@ If you don’t have a formal diagnosis, it’s also worth noting that you won’
 
 ## Summary
 
-While most depression apps lack scientific backing, there are a few quality options out there. In particular, iCBT programs have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy. 
+While most depression apps lack scientific backing, there are a few quality options out there. In particular, iCBT programs have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy.
 
 However, do first consider more traditional forms of care such as in-person therapy, particularly if you have severe depression, bipolar disorder, suicidal thoughts, or believe your depression symptoms have a physical cause.
 
@@ -131,7 +130,7 @@ To give a depression app a try, receive the first session and tool of UpLift for
 
 <div class='grey_box'>
 
-<strong>For those having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone.</strong> 
+<strong>For those having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone.</strong>
 
 In the US:
 <ul>
