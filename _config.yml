@@ -1,7 +1,7 @@
 # Site
 name: "UpLift"
-title: "UpLift"
-description: "the depression app that works"
+title: "UpLift | The Depression App That Works"
+description: "Blog for essential depression information - created by UpLift, a science-based and effective app for depression relief."
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.svg'
 # baseurl: "/"
@@ -23,7 +23,7 @@ authors:
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
-    display_name: John    
+    display_name: John
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
@@ -32,9 +32,9 @@ authors:
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   aislinn:
     name: Aislinn
-    display_name: Aislinn
+    display_name: Aislinn Pluta
     avatar: "assets/images/aislinn.png"
-    description: " Aislinn Pluta is UpLift's Content Director. She has a B.A. in Psychology and a Master's in Applied Positive Psychology, the scientific study of the factors that lead to a full and meaningful life."
+    description: " Aislinn is UpLift's Content Director. She has a B.A. in Psychology and a Master's in Applied Positive Psychology, the scientific study of the factors that lead to a full and meaningful life."
 
 # Plugins
 plugins:
@@ -43,7 +43,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+  - jekyll-target-blank
+
 # Archives
 jekyll-archives:
   enabled:
@@ -51,11 +52,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 
