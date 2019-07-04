@@ -17,6 +17,7 @@
 
     gtag('config', 'UA-97118261-3');
 </script>
+
 <!-- Google Analytics. Note that they now recommend Tag Manager. It seems like it wouldn't work well with GT, so I never looked at it, but it might be appropriate for this use case.-->
 <script>
     window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
@@ -25,6 +26,21 @@
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 <!-- End Google Analytics -->
+
+<!--function for sending an event with pageview, for easy conversion calculations-->
+<script>
+function viewedPage(){
+    ga('send', 'event', 'blog', 'viewed', 'viewed');
+}
+viewedPage();
+</script>
+
+<!--Function for sending conversion event with page click-->
+<script>
+    function sendClick() {
+        ga('send', 'event', 'blog', 'clicked', 'clicked');
+    }
+</script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -47,7 +63,7 @@
 </head>
 
 {% if jekyll.environment == 'production' %}
-<!-- change your GA id in _config.yml -->
+<!-- change your GA id in _config.yml  (I disabled this, as it conflicts with the newer version I included above.)
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -56,6 +72,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', '{{site.google_analytics}}', 'auto');
 ga('send', 'pageview');
 </script>
+-->
 {% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -98,7 +115,7 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="https://run.uplift.app?utm_source=blog/" target="_blank">Start UpLift</a>
+                <a class="nav-link" href="https://run.uplift.app?utm_source=blog/" target="_blank" onclick="sendclick()">Start UpLift</a>
                 </li>
 
                 {% include search-lunr.html %}

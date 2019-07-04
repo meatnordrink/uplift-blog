@@ -33,3 +33,8 @@
 .article-post{
     font-family: arial;
 }
+
+.start{
+    border: none;
+    border-radius: 8px !important;
+}
