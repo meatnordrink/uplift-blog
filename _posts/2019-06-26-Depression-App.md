@@ -8,7 +8,7 @@ description: "Feeling depressed? Here's important information about depression a
 featured: true
 hidden: false
 comments: false
-permalink: /could-a-depression-app-work
+permalink: /5-tips-for-starting-a-depression-app-today
 ---
 
 
