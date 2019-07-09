@@ -10,6 +10,7 @@ post_class: post-template
 <div class="container">
     <div class="row">
 
+
         <!-- Post Share -->
         <div class="col-md-2 pl-0">
             {% include share.html %}
@@ -58,6 +59,10 @@ post_class: post-template
 												<span class="link-dark">{{ author.display_name }}</span>
                         <span class="author-description">{{ author.description }}</span>
                     </div>
+                        <!-- Post Share -->
+                        <div class="col-md-2 pl-0 specialShare">
+                            {% include share.html %}
+                        </div>
                 </div>
                 {% endif %}
             <!-- Post Content -->
