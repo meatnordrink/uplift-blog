@@ -46,4 +46,15 @@
 
 .specialShare{
     color: red !important;
+    height: 3.5em;
+}
+
+.specialShare ul{
+    /* margin-bottom: 0px !important; */
+}
+
+@media (min-width: 768px){
+.specialShare {
+    display: none !important;
+}
 }
