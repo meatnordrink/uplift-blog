@@ -99,7 +99,6 @@ Many apps contain some elements of CBT. Currently though, [UpLift] is the only c
 ## Tip 4: Compare different types of depression apps
 
 When comparing apps, consider which type is likely to work for you. The most common depression app types are listed below, along with some higher quality examples.
-
   - **Complete CBT course**: Modeled off the highest-quality science of work works for fighting depression. Example: [UpLift]
   - **Chatbots**: Have a conversation with a bot that can also guide you through techniques or meditations. Examples: [Wysa] and [Youper]
   - **E-therapy/text therapy**: Connect with a licensed therapist and communicate primarily via text, with some phone or video time. Examples: [BetterHelp] and [Talkspace].
