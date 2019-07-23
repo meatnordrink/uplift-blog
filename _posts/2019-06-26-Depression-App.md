@@ -1,4 +1,7 @@
 ---
+redirect_from: 
+  - /5-tips-for-starting-a-depression-app-today/
+  - /5-tips-for-starting-a-depression-app-today
 layout: post
 title:  "5 Tips For Comparing Depression Apps"
 author: aislinn
@@ -8,7 +11,7 @@ description: "Feeling depressed? Here's important information about depression a
 featured: true
 hidden: false
 comments: false
-permalink: /5-tips-for-starting-a-depression-app-today
+permalink: /compare-icbt-depression-apps
 ---
 
 
