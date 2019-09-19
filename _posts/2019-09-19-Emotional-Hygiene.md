@@ -81,4 +81,5 @@ Keep in mind that it takes time to solidify any new habit, so go slow and be sur
 
 <div class='references'>
 <sup>i</sup> If you or someone you know may be considering suicide, call the National Suicide Prevention Hotline at 1-800-273-8255 or text HOME to Crisis Text Line at 741741.
+
 </div>
