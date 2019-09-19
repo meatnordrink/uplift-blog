@@ -43,7 +43,7 @@ Depending on your circumstance, though, maybe you’re not sure whether you need
 Consider emotional hygiene as a part of holistic self-care. Moreover, maintaining your emotional well-being reinforces your physical well-being, and vice versa. One positive action has ripple effects: for example, getting a good night’s sleep makes it easier to regulate both your appetite and your mood. We’ve mentioned a few concrete actions you can take already, but here are some more ideas:
 
   - **Caring for your physical well-being**
-    - [Get regular exercise(https://www.healthline.com/nutrition/how-to-start-exercising#section3). Even a brisk 20-minute walk has health benefits.
+    - [Get regular exercise](https://www.healthline.com/nutrition/how-to-start-exercising#section3). Even a brisk 20-minute walk has health benefits.
     - Eat nutritiously and [mindfully](https://www.health.harvard.edu/staying-healthy/8-steps-to-mindful-eating), but give yourself the occasional treat.
     - Get enough sleep, ideally by maintaining a regular sleep schedule.
     - Hydrate, hydrate, hydrate.
