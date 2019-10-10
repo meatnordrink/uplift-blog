@@ -1,4 +1,19 @@
+---
+layout: post
+title:  "World Mental Health Day: Connecting through 40 Seconds of Action"
+author: gaby
+tags: []
+image: assets/images/sunset-2451989_1280.jpg
+description: "This #MentalHealthAwarenessDay, we’re helping promote 40 seconds of action--the time it would take you to send that first text, dial a number, or say you care and are there to listen."
+featured: true
+hidden: false
+comments: false
+permalink: /world-mental-health-day
+---
 # World Mental Health Day: Connecting through 40 Seconds of Action
+
+![holding-hands](assets/images/holding_hands_duong_huu.jpg)
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@huuduong?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Dương Hữu"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Dương Hữu</span></a>
 
 Today marks the 27th observation of World Mental Health Day, first established in 1992 by the[World Federation for Mental Health](https://wfmh.global/) (WFMH). The initiative aims to bring attention to mental illness and its impact on people’s lives. This year, the focus is on suicide prevention. 
 
