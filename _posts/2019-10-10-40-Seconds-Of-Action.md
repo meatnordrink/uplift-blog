@@ -31,7 +31,7 @@ The starkest statistic is that every 40 seconds, someone is lost to suicide. Tha
 
 To highlight the scale of suicide around the world, WFMH is promoting “[40 seconds of action](https://www.who.int/docs/default-source/mental-health/suicide/flyer-40seconds-web.pdf?sfvrsn=5ba643c_2)” and encouraging people to take 40 seconds to reach out to each other. Whether you want to be supportive for someone else or you yourself are struggling, below are some tips for starting the conversation.
 
-### *Reaching Out for Help*
+#### *Reaching Out for Help*
 
 Remember that reaching out shows bravery, and is ultimately an important step to take on the path to feeling better. There are people out there who want to be there for you, without judgment, when you’re going through an awful, difficult time. Consider the following to make that first step a little easier:
 
@@ -43,7 +43,7 @@ Remember that reaching out shows bravery, and is ultimately an important step to
 
 Opening up about mental health and suicide is scary, but it can make all the difference. 
 
-### *Reaching Out to Someone in Need*
+#### *Reaching Out to Someone in Need*
 
 If you suspect that a friend or loved one is going through a hard time or [having thoughts of suicide](https://afsp.org/if-someone-tells-you-theyre-thinking-about-suicide-a-realconvo-guide-from-afsp/), there are some straightforward things you can do to support them. To [talk with someone](https://metanoia.org/suicide/sphone.htm) you think might need help:
 
