@@ -10,9 +10,6 @@ hidden: false
 comments: false
 permalink: /world-mental-health-day
 ---
-*Photo credit: Duong Huu on Unsplash*
-
-<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@huuduong?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Dương Hữu"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Dương Hữu</span></a>
 
 Today marks the 27th observation of World Mental Health Day, first established in 1992 by the[World Federation for Mental Health](https://wfmh.global/) (WFMH). The initiative aims to bring attention to mental illness and its impact on people’s lives. This year, the focus is on suicide prevention. 
 
@@ -64,3 +61,7 @@ Connection is the lifeblood of relationships, families, and even humanity as a w
 ------------------
 
 If you’re facing a suicidal crisis, call the National Suicide Prevention Hotline at 1-800-273-8255 or text HOME to Crisis Text Line at 741741; or call 911. For those outside the US, a helpline for your country can be found [here](https://www.befrienders.org/).
+
+*Title photo credit: Duong Huu on Unsplash*
+
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@huuduong?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Dương Hữu"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Dương Hữu</span></a>
