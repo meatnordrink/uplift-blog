@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "World Mental Health Day: Connecting through 40 Seconds of Action"
+title:  "World Mental Health Day: Connecting Through 40 Seconds of Action"
 author: gaby
 tags: []
 image: assets/images/holding_hands_duong_huu.jpg
@@ -53,6 +53,8 @@ Speak in private. If your instinct tells you someone is having trouble or doesn�
 3. **Stay calm, nonjudgmental, and attentive.** If someone does share with you that they’ve thought about killing themselves, it can be really scary and you might feel a lot of pressure. However, that they’ve opened up and trusted you about something so difficult is a real opportunity to help. Keep listening and showing you care by affirming their struggles and emotions; be careful not to frame things negatively (e.g. “You’re not going to do anything stupid, right?”) or guilt-trip them (e.g. “What would it do to your family?”)
 4. **Assess for risk.** Even if they’ve shared that they’re thinking of suicide, it doesn’t mean they necessarily plan on taking action. You can figure out if they’re in danger by asking questions about means (e.g. “Did you have in mind a specific way you would kill yourself?”), access to means (e.g. if they confirm they own a gun or have pills), and a timeline (e.g. “Do you know when you would do this?”). If they answer yes to these questions, it’s an emergency that requires immediate professional medical attention. If they don’t have a specific plan (and most people won’t), just keep talking—sharing their problems at length can help them feel relief from the acute loneliness of depression and suicidal thoughts.
 5. **Offer to help connect them to resources.** Thoughts of suicide are a definite warning sign that a person should seek help from a mental health professional. But for someone who’s already feeling extremely overwhelmed, making that effort can seem impossibly daunting. Some things you can do are to help them call their insurance, sit with them while they search for a therapist online, or accompany them to an appointment.
+
+When you proactively reach out to someone in pain, you’re doing an amazing thing. At the same time, it can be hard to process the emotions that come up when that person shares their experience with you. The text and phone helplines at the bottom aren’t just for people in crisis; they can also give you advice on how to support someone else and space to debrief on your own thoughts and feelings. Don’t forget to take care of yourself during difficult moments.
 
 ## Making a Difference
 
