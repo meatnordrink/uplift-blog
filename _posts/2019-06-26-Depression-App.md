@@ -1,5 +1,5 @@
 ---
-redirect_from: 
+redirect_from:
   - /5-tips-for-starting-a-depression-app-today/
   - /5-tips-for-starting-a-depression-app-today
 layout: post
@@ -21,7 +21,7 @@ permalink: /compare-icbt-depression-apps
 [Youper]: <https://www.youper.ai/>
 [BetterHelp]: <https://www.betterhelp.com/>
 [Talkspace]: <https://www.talkspace.com/>
-[Pacifica]: <https://www.thinkpacifica.com/>
+[Sanvello]: <https://www.sanvello.com>
 [Headspace]: <https://www.headspace.com/>
 [Moodnotes]: <https://moodnotes.thriveport.com>
 [MoodTools]: <http://www.moodtools.org/>
@@ -105,7 +105,7 @@ When comparing apps, consider which type is likely to work for you. The most com
   - **Complete CBT course**: Modeled off the highest-quality science of work works for fighting depression. Example: [UpLift]
   - **Chatbots**: Have a conversation with a bot that can also guide you through techniques or meditations. Examples: [Wysa] and [Youper]
   - **E-therapy/text therapy**: Connect with a licensed therapist and communicate primarily via text, with some phone or video time. Examples: [BetterHelp] and [Talkspace].
-  - **Mindfulness apps**: Focus your attention while acknowledging and accepting negative thoughts and emotions. Examples: [Headspace] and [Pacifica]
+  - **Mindfulness apps**: Focus your attention while acknowledging and accepting negative thoughts and emotions. Examples: [Headspace] and [Sanvello]
   - **Mood trackers/thought diaries**: Track your moods to better notice patterns in your ups and downs. Examples: [Moodnotes] and [MoodTools]
   - **Peer support**: Connect with others working toward improving their mental health. Example: [Elevatr] and [Big White Wall]<sup>ix</sup>
   - **Suicide prevention**: Make a plan to stay safe and define who you can reach out to when you’re having thoughts of suicide. Example: [MY3]
