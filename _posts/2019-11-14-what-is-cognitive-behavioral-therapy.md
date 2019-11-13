@@ -21,11 +21,14 @@ With more evidence supporting its effectiveness than any other psychological tre
 
 Traditional talk therapy often focuses on unraveling past traumas, and providing the client with a safe space to express themselves.
 
-While CBT doesn't deny the importance of the past, it focuses on the present, and is based on the scientifically-supported discovery that changing current thoughts and behaviors is an effective path towards improved mental health, whether the root-causes of distress are discovered or not.
+While CBT doesn't deny the importance of the past, it focuses on the present.
 
-CBT follows the principle that behavioral and emotional responses are learned, and therefore, unhealthy responses to situations can be unlearned, and healthier methods learned.
+  - **CBT focuses on current thoughts and behaviors.** CBT is based on the scientifically-supported discovery that changing current thoughts and behaviors is an effective path towards improved mental health, whether the root-causes of distress are discovered or not.
+	- **CBT believes healthier habits can be learned.** CBT follows the principle that behaviors, thoughts, and emotional responses are learned, and therefore, healthier methods can be learned through specific techniques and activities.
 
-CBT disrupts the causes of unhappiness and unhealthy behaviors by helping people learn new, more helpful patterns of thought and behavior.
+CBT disrupts the causes of unhappiness by helping people learn new, more helpful patterns of thought and behavior.
+
+![happy girl watermelon smile](http://blog.uplift.app/assets/images/happy_girl_watermelon-1515023115689-589c33041d3c.jpeg)
 
 ## Characteristics of CBT
 
@@ -35,7 +38,7 @@ A CBT therapist works with the client to figure out their goals and how to reach
 **CBT is more focused on the client than on the client-therapist relationship.**
 In traditional talk-therapy, which is based on the client exploring deep and sensitive issues with their therapist, the client-therapist relationship is considered of extreme importance.
 
-While a good relationship is necessary for CBT as well, CBT is focused on helping the client learn the skills to overcome their challenges _themselves_, and therefore the relationship with the therapist is of secondary importance. (This is one reason CBT is such an excellent therapy for use in [online depression apps](https://blog.uplift.app/compare-icbt-depression-apps), [like UpLift](http://www.uplift.app).)
+While a good relationship is necessary for CBT as well, CBT is focused on helping the client learn the skills to overcome their challenges _themselves_, and therefore the relationship with the therapist is of secondary importance. (This is one reason CBT is such an excellent therapy for use in [online depression apps](https://blog.uplift.app/compare-icbt-depression-apps), like [UpLift](http://www.uplift.app).)
 ![mental health app](http://blog.uplift.app/assets/images/mental_health-shutterstock_599959877.jpg)
 
 **CBT uses 'homework.'**
