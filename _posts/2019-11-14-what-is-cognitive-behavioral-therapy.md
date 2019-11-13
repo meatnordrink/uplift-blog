@@ -23,8 +23,8 @@ Traditional talk therapy often focuses on unraveling past traumas, and providing
 
 While CBT doesn't deny the importance of the past, it focuses on the present.
 
-  - **CBT focuses on current thoughts and behaviors.** CBT is based on the scientifically-supported discovery that changing current thoughts and behaviors is an effective path towards improved mental health, whether the root-causes of distress are discovered or not.
-	- **CBT believes healthier habits can be learned.** CBT follows the principle that behaviors, thoughts, and emotional responses are learned, and therefore, healthier methods can be learned through specific techniques and activities.
+- **CBT focuses on current thoughts and behaviors.** CBT is based on the scientifically-supported discovery that changing current thoughts and behaviors is an effective path towards improved mental health, whether the root-causes of distress are discovered or not.
+- **CBT believes healthier habits can be learned.** CBT follows the principle that behaviors, thoughts, and emotional responses are learned, and therefore, healthier methods can be learned through specific techniques and activities.
 
 CBT disrupts the causes of unhappiness by helping people learn new, more helpful patterns of thought and behavior.
 
