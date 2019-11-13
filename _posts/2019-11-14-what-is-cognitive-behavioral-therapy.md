@@ -36,7 +36,7 @@ A CBT therapist works with the client to figure out their goals and how to reach
 In traditional talk-therapy, which is based on the client exploring deep and sensitive issues with their therapist, the client-therapist relationship is considered of extreme importance.
 
 While a good relationship is necessary for CBT as well, CBT is focused on helping the client learn the skills to overcome their challenges _themselves_, and therefore the relationship with the therapist is of secondary importance. (This is one reason CBT is such an excellent therapy for use in [online depression apps](https://blog.uplift.app/compare-icbt-depression-apps), [like UpLift](http://www.uplift.app).)
-![mental health app](http://www.blog.uplift.app/assets/images/mental_health-shutterstock_599959877.jpg)
+![mental health app](http://blog.uplift.app/assets/images/mental_health-shutterstock_599959877.jpg)
 
 **CBT uses 'homework.'**
 Because CBT is about teaching the _client_ skills, rather than relying on the skills of the therapist, CBT utilizes extensive out-of-session assignments, asking the client to apply and practice concepts and follow through on plans made in-session.
