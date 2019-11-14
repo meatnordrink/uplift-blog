@@ -53,4 +53,4 @@ Because of the time out-of-session spent on homework, the client spends many mor
 
 CBT is used to help people dealing with significant difficulties improve their lives. From people who just want to break a bad habit, to people experiencing depression, anxiety, eating disorders, sleep problems, chronic pain, and more—hundreds of randomized control studies have been conducted on the effectiveness of CBT in treating all sorts of problems.
 
-CBT for depression has more evidence supporting it than any other type of psychological treatment in existence. CBT works.
+CBT for depression has more evidence supporting it than any other type of psychological treatment in existence. **CBT works.**
