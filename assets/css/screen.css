@@ -11,13 +11,7 @@ License: https://www.wowthemes.net/freebies-license/
     padding: 1rem 0rem;
 }
 
-a {
-    color: #00ab6b;
-    transition: all 0.2s;
-}
-
 a:hover {
-    color: #038252;
     text-decoration: none;
 }
 
@@ -61,6 +55,10 @@ section {
 
 section.recent-posts {
     margin-bottom: 0;
+}
+
+.section-title {
+    margin-top: 2vh;
 }
 
 .section-title h2 {
@@ -324,34 +322,21 @@ span.post-read-more a:hover {
 
 .header_start_uplift_button {
     margin-right: 20px;
-    line-height: 36px;
-    background-color: rgb(255, 250, 247);
-    border-radius: 8px;
+    line-height: 40px;
+    background-color: #FFF;
+    border-radius: 4px;
     text-align: center;
     cursor: pointer;
-    transition: 0.5s;
-    color: #000;
-    text-decoration: none !important;
-    padding: 0 24px;
-}
-
-.thick_cta_button_border {
-    border: 2px solid #2a2a2a;
-}
-
-.footer_start_uplift_button {
-    border: 1px solid #2a2a2a;
-    height: 44px;
-    line-height: 44px !important;
-    margin-left: 12px;
-}
-
-.header_start_uplift_button a {
+    transition: 0.25s;
     color: #000 !important;
+    text-decoration: none !important;
+    padding: 8px 24px;
+    border: 2px solid #000;
 }
 
 .header_start_uplift_button:hover {
-    background-color: rgb(255, 238, 225);
+    border: 2px solid rgb(250, 194, 40);
+    color: rgb(250, 194, 40) !important;
 }
 
 .footer {
@@ -367,31 +352,19 @@ span.post-read-more a:hover {
 }
 
 .footer_ctas {
-    width: 344px;
+    width: 100px;
     margin: 0 auto;
 }
 
-.footer_ctas div {
-    float: left;
-    width: 160px;
-    margin: 6px;
-}
-
-#back_to_top_button_footer {
-    padding: 0 16px;
-    height: 44px;
-    line-height: 44px;
-    border-radius: 8px;
+.footer_cta {
     text-align: center;
     cursor: pointer;
-    transition: 0.5s;
-    background-color: #ffffff;
+    transition: 0.25s;
     color: rgb(71, 72, 77);
-    border: 1px solid #000;
 }
 
-#back_to_top_button_footer:hover {
-    background-color: #f7f7f7;
+.footer_cta:hover {
+    color: rgb(250, 194, 40);
 }
 
 .footer .copyright_text {

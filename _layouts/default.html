@@ -109,8 +109,8 @@ ga('send', 'pageview');
                 <!-- <a class="nav-link hide" href="{{ site.baseurl }}/index.html">Blog</a>-->
                 </li>
 
-                <li class="nav-item header_start_uplift_button thick_cta_button_border">
-                    <a href="https://uplift.app?utm_source=blog/" target="_blank" onclick="sendClick()">Start UpLift</a>
+                <li class="nav-item">
+                    <a class="header_start_uplift_button" href="https://uplift.app?utm_source=blog/" target="_blank" onclick="sendClick()">Start UpLift</a>
                 </li>
                 {% include search-lunr.html %}
 
@@ -165,10 +165,7 @@ ga('send', 'pageview');
     ================================================== -->
     <footer class="footer">
       <div class="footer_ctas">
-          <div id="back_to_top_button_footer" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">Back To Top</div>
-          <div class="header_start_uplift_button footer_start_uplift_button">
-                <a href="https://uplift.app?utm_source=blog/" target="_blank" onclick="sendClick()">Start UpLift</a>
-          </div>
+          <div class="footer_cta" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">Back To Top</div>
       </div>
       <div class="links_icons">
        <a target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
