@@ -1,8 +1,12 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
+.post-excerpt p {
+	display:inline;
+}
+
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
@@ -13,6 +17,10 @@ License: https://www.wowthemes.net/freebies-license/
 
 a:hover {
     text-decoration: none;
+}
+
+#navbar {
+    transition: 0.5s;
 }
 
 pre {
@@ -45,7 +53,7 @@ pre {
 .site-content {
     min-height: 60vh;
     padding-top: 1.5rem;
-    margin-top: 57px;
+    margin-top: 60px;
     transition: all 0.4s;
 }
 
@@ -133,8 +141,8 @@ section.recent-posts {
     background-size: cover;
     height: 100%;
     display: block;
-    background-position: 38% 22% !important;
-    background-origin: border-box !important;
+    background-position: 38% 22%;
+    background-origin: border-box;
     border-top-left-radius: .25rem;
     border-bottom-left-radius: .25rem;
 }
@@ -182,10 +190,15 @@ section.recent-posts {
 .author-thumb {
     width: 50px;
     height: 50px;
+    overflow: hidden;
     margin-right: 13px;
     border-radius: 100%;
     padding: 3px;
     border: 2px solid #ffc253;
+}
+
+.author-thumb img {
+    border-radius: 50px;
 }
 
 .post-top-meta {
@@ -221,9 +234,9 @@ section.recent-posts {
 
 .author-meta {
     flex: 1 1 auto;
-    white-space: nowrap !important;
-    text-overflow: ellipsis !important;
-    overflow: hidden !important;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 span.post-name,
@@ -328,15 +341,15 @@ span.post-read-more a:hover {
     text-align: center;
     cursor: pointer;
     transition: 0.25s;
-    color: #000 !important;
-    text-decoration: none !important;
+    color: #000;
+    text-decoration: none;
     padding: 8px 24px;
     border: 2px solid #000;
 }
 
 .header_start_uplift_button:hover {
     border: 2px solid rgb(250, 194, 40);
-    color: rgb(250, 194, 40) !important;
+    color: rgb(250, 194, 40);
 }
 
 .cta_section_container {
@@ -375,22 +388,22 @@ span.post-read-more a:hover {
     margin: 0 auto;
     top: 16px;
     position: relative;
-    
-    
+
+
     background-color: #FFF;
     border-radius: 4px;
     text-align: center;
     cursor: pointer;
     transition: 0.25s;
-    color: #000 !important;
-    text-decoration: none !important;
+    color: #000;
+    text-decoration: none;
     border: 1px solid #000;
     box-shadow: 0 0 6px 0 rgba(72,89,102,.25);
 }
 
 .cta_section_button:hover {
     border: 1px solid rgb(250, 194, 40);
-    color: rgb(250, 194, 40) !important;
+    color: rgb(250, 194, 40);
 }
 
 .footer {
@@ -520,11 +533,11 @@ blockquote {
     }
 
     .alertbar {
-        position: relative !Important;
+        position: relative;
         margin-bottom: 20px;
         margin-top: 20px;
-        box-shadow: none !Important;
-        padding-right: 14px !Important;
+        box-shadow: none;
+        padding-right: 14px;
     }
 
     #comments {
@@ -532,27 +545,7 @@ blockquote {
     }
 
     .jumbotron.fortags {
-        margin-bottom: 0 !Important;
-    }
-
-    .alertbar form {
-        margin-top: 20px;
-    }
-
-    .alertbar span,
-    .alertbar form {
-        display: block;
-    }
-
-    .alertbar input[type="submit"] {
-        border-radius: 3px !Important;
-    }
-
-    .alertbar input[type="email"] {
-        margin-right: 0px !Important;
-        display: block;
-        border-right: 1px solid #ddd !Important;
-        margin-bottom: 10px;
+        margin-bottom: 0;
     }
 
     .jumbotron {
@@ -663,71 +656,6 @@ ul.tags li a:hover {
 .post-top-meta .btn.follow {
     margin-left: 5px;
     margin-top: -4px;
-}
-
-.alertbar {
-    box-shadow: 0 -3px 10px 0 rgba(0, 0, 0, .0785);
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    background-color: #fff;
-    width: 100%;
-    padding: 14px 0;
-    z-index: 1;
-    display: none;
-}
-
-.alertbar form {
-    display: inline-block;
-}
-
-.alertbar input[type="email"] {
-    font-size: 0.85rem;
-    padding: 3px 5px 3px 10px;
-    border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px;
-    border: 1px solid #ddd;
-    border-right: 0;
-    margin-right: -10px;
-    height: 34px;
-    letter-spacing: 0.5px;
-    margin-left: 5px;
-}
-
-.alertbar input[type="submit"] {
-    background-color: #1C9963;
-    border: 1px solid #1C9963;
-    color: rgba(255, 255, 255, 1);
-    fill: rgba(255, 255, 255, 1);
-    font-size: 0.85rem;
-    border-radius: 0;
-    padding: 4px 10px;
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
-    font-weight: 600;
-    height: 34px;
-    letter-spacing: 0.5px;
-    cursor: pointer;
-}
-
-.form-control::-webkit-input-placeholder {
-    color: rgba(0, 0, 0, .5);
-}
-
-.form-control:-moz-placeholder {
-    color: rgba(0, 0, 0, .5);
-}
-
-.form-control::-moz-placeholder {
-    color: rgba(0, 0, 0, .5);
-}
-
-.form-control:-ms-input-placeholder {
-    color: rgba(0, 0, 0, .5);
-}
-
-.form-control::-ms-input-placeholder {
-    color: rgba(0, 0, 0, .5);
 }
 
 .authorpage h1 {
@@ -892,9 +820,9 @@ iframe {
         margin-bottom: -50px;
         margin-top: 3rem;
         padding: 0;
-        height: 350px;
+        height: 200px;
         border-radius: 0;
-        background-image: url(../images/background-delfi-de-.png);
+        background-image: url(../assets/images/background-delfi-de-.png);
         background-size: cover;
     }
 
@@ -908,11 +836,15 @@ iframe {
     }
 }
 
+.jumbotron {
+    height: 100px;
+}
+
 .jumbotron.fortags {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../images/background-delfi-de-.png);
+    background-image: url(../assets/images/background-delfi-de-.png);
     background-size: cover;
 }
 
@@ -1022,4 +954,62 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+
+// END screen.css
+
+.hide{
+    display: none;
+}
+.grey_box{
+    background-color:#80808026;
+    border-radius: 4px;
+    padding: 1em;
+    font-size:.8em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+
+}
+
+.references{
+    font-size: .7em;
+    color: darkslategray;
+}
+
+.lead{
+    color: orange;
+}
+
+.sitetitle{
+    font-family: Arial;
+
+}
+
+.article-post{
+    font-family: arial;
+}
+
+.start{
+    border: none;
+    border-radius: 8px;
+}
+
+.specialShare{
+    color: red;
+    height: 3.3em;
+}
+
+@media (min-width: 768px){
+.specialShare {
+    display: none;
+}
+}
+
+// END custom.css
+
+
+.amp_navbar_img {
+    height: 36px;
+    width: 36px;
 }
