@@ -1,8 +1,4 @@
-/*
-Template Name: Mediumish
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net
-License: https://www.wowthemes.net/freebies-license/
-*/
+
 .post-excerpt p {
 	display:inline;
 }
@@ -52,8 +48,7 @@ pre {
 
 .site-content {
     min-height: 60vh;
-    padding-top: 1.5rem;
-    margin-top: 60px;
+    margin-top: 20px;
     transition: all 0.4s;
 }
 
@@ -125,6 +120,7 @@ section.recent-posts {
     height: 290px;
     flex: 0 0 auto;
     height: 100%;
+    overflow: hidden;
 }
 
 .maxthumb {
@@ -168,9 +164,8 @@ section.recent-posts {
 
 .featured-box-img-cover {
     object-fit: cover;
-    width: 100%;
-    height: 100%;
     max-height: 100%;
+    height: 100%;
 }
 
 @media (max-width:991px) {
@@ -184,7 +179,7 @@ section.recent-posts {
     font-size: .8rem;
     display: flex;
     align-items: center;
-    margin-bottom: 15px;
+    margin-bottom: 8px;
 }
 
 .author-thumb {
@@ -559,7 +554,6 @@ blockquote {
 
     .listfeaturedtag .wrapfooter {
         position: relative;
-        margin-top: 30px;
     }
 
     .listfeaturedtag .card-block {
@@ -956,9 +950,6 @@ iframe {
     transition: opacity .25s;
 }
 
-
-// END screen.css
-
 .hide{
     display: none;
 }
@@ -1006,10 +997,144 @@ iframe {
 }
 }
 
-// END custom.css
-
-
 .amp_navbar_img {
     height: 36px;
     width: 36px;
+}
+
+.amp-featured-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 1.5rem;
+}
+
+@media (min-width: 576px) .card-group>.card:only-child {
+    border-radius: .25rem;
+}
+
+@media (max-width: 999px) .listfeaturedtag .card {
+    height: auto;
+}
+
+
+@media (min-width: 576px)
+.card-group>.card {
+    -ms-flex: 1 0 0%;
+    flex: 1 0 0%;
+    margin-bottom: 0;
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+	padding: 1.25rem;
+}
+.text-dark {
+    color: #343a40;
+}
+.text-dark:hover {
+    color: #343a40;
+    text-decoration: none;
+}
+@media (min-width: 576px)
+.card-group>.card:only-child .card-footer, .card-group>.card:only-child .card-img-bottom {
+    border-bottom-right-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+}
+.card-footer:last-child {
+    border-radius: 0 0 calc(.25rem - 1px) calc(.25rem - 1px);
+}
+.card-footer {
+    padding: .5rem 1.25rem;
+    background-color: rgba(0,0,0,.03);
+}
+.bg-white {
+    background-color: #fff!important;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.ml-auto, .mx-auto {
+    margin-left: auto;
+}
+
+@media (max-width: 991.98px)
+.navbar-expand-lg>.container, .navbar-expand-lg>.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar>.container, .navbar>.container-fluid {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+@media (min-width: 576px)
+.container {
+    max-width: 540px;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0.75rem 0;
+}
+
+#featured_box_image{padding-right: 0px; padding-left: 0px; overflow: hidden;}
+#featured_box_text{padding-right: 0px;}
+.featured-post-wrapper-container .featured-post-wrapper-element:nth-child(odd){padding-left: 0px; padding-right: 15px;}
+.featured-post-wrapper-container .featured-post-wrapper-element:nth-child(even){padding-left: 15px; padding-right: 0px;}
+#featured-box-img-cover-id img {
+  left: 50%;
+  transform: translateX(-50%);
+  width: auto;
+  height: 100%;
+  max-width: none;
 }
