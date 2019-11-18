@@ -8,7 +8,7 @@ description: "If you're looking for a therapist, these are the best websites tha
 featured: true
 hidden: false
 comments: false
-permalink: /directories-to-find-a-therapists
+permalink: /directories-to-find-a-therapist
 ---
 
 If you're looking for a therapist, here are a few of the best websites that let you search for a therapist.
