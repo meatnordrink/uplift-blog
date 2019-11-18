@@ -1,22 +1,22 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-<div class="col-md-6 mb-30px">
+<div class="col-md-6 mb-30px featured-post-wrapper-element">
     <div class="listfeaturedtag h-100">
         <div class="row h-100">
-            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
+            <div id="featured_box_image" class="col-12 col-md-12 col-lg-5">
                 <div class="h-100">
                     <div class="wrapthumbnail">
                         <a target="_blank" href="{{ site.baseurl }}{{ post.url }}">
                             {% if site.lazyimages == "enabled" %}
-                            <amp-img width="1000" height="750" layout="responsive" class="featured-box-img-cover lazyimg"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}"></amp-img>
+                            <amp-img id="featured-box-img-cover-id" width="1000" height="750" layout="responsive" class="featured-box-img-cover lazyimg"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}"></amp-img>
                             {% else %}
-                                <amp-img width="1000" height="750" layout="responsive" class="featured-box-img-cover" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}"></amp-img>
+                                <amp-img id="featured-box-img-cover-id" width="1000" height="750" layout="responsive" class="featured-box-img-cover" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}"></amp-img>
                             {% endif %}
                         </a>
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-12 col-lg-7">
+            <div id="featured_box_text" class="col-12 col-md-12 col-lg-7">
                 <div class="h-100 card-group">
                     <div class="card">
                         <div class="card-body">
