@@ -11,7 +11,7 @@ comments: false
 permalink: /directories-to-find-a-therapist
 ---
 
-If you're looking for a therapist, here are a few of the best websites that let you search for a therapist.
+Finding a therapist in your area, that you can afford and is taking patients, can sometimes be difficult. Here are a few websites with good, comprehensive listing that can help in your search.
 
 You can also ask your doctor for a referral. They likely know the therapists available in the area, and can help you find one that will meet your needs.
 
