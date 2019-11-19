@@ -1150,6 +1150,9 @@ iframe {
 #card_footer_white_bg {
     background-color: #FFF;
 }
+#post-container {
+    max-width: none;
+}
 
 @media (max-width:576px) {
     #post_author_thumb {
