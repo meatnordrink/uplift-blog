@@ -219,7 +219,7 @@ section.recent-posts {
 
 .author-title-text {
     font-weight: 700;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
 }
 
 .toc ul {
@@ -323,9 +323,10 @@ span.post-read-more a:hover {
     font-family: Righteous;
 }
 
-.mainheading h1.posttitle {
+.mainheading .posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
+    font-size: 2.5rem;
 }
 
 .header_start_uplift_button {
@@ -345,6 +346,11 @@ span.post-read-more a:hover {
 .header_start_uplift_button:hover {
     border: 2px solid rgb(250, 194, 40);
     color: rgb(250, 194, 40);
+    text-decoration: none;
+}
+
+.header_start_uplift_button:active {
+    text-decoration: none;
 }
 
 .cta_section_container {
@@ -353,7 +359,7 @@ span.post-read-more a:hover {
 }
 
 .cta_section_container .cta_section_box {
-    width: 50%;
+    width: 80%;
     margin: 0 auto;
     border-radius: 6px;
     background-color: #F9F9F9;
@@ -361,6 +367,13 @@ span.post-read-more a:hover {
     border: 1px solid #455561;
     padding: 24px 24px 48px 24px;
     box-shadow: 0 0 6px 0 rgba(72,89,102,.25);
+}
+
+
+@media (max-width:768px) {
+    .cta_section_container .cta_section_box {
+        width: 60%;
+    }
 }
 
 .cta_section_header_text {
@@ -378,8 +391,7 @@ span.post-read-more a:hover {
 
 .cta_section_button {
     display: inline-block;
-    padding: 4px 40px;
-    line-height: 36px;
+    padding: 12px 40px;
     margin: 0 auto;
     top: 16px;
     position: relative;
@@ -399,6 +411,11 @@ span.post-read-more a:hover {
 .cta_section_button:hover {
     border: 1px solid rgb(250, 194, 40);
     color: rgb(250, 194, 40);
+    text-decoration: none;
+}
+
+.cta_section_button:active {
+    text-decoration: none;
 }
 
 .footer {
@@ -415,6 +432,7 @@ span.post-read-more a:hover {
 .footer_ctas {
     width: 100px;
     margin: 0 auto;
+    margin-bottom: 12px;
 }
 
 .footer_cta {
@@ -430,19 +448,6 @@ span.post-read-more a:hover {
 
 .footer .copyright_text {
     color: #717586;
-}
-
-.footer .links_icons {
-    clear: both;
-}
-
-.footer .links_icons i {
-    margin: 16px;
-}
-
-.footer .links_icons a {
-    color: #717586;
-    transition: 0.5s;
 }
 
 .footer .links_icons a:hover {
@@ -491,7 +496,7 @@ blockquote {
 
 .share ul li {
     display: inline-block;
-    margin-bottom: 9px;
+    margin: 0 8px 9px 8px;
 }
 
 .share ul {
@@ -888,12 +893,6 @@ iframe {
     }
 }
 
-@media (max-width: 768px) {
-    .share {
-        margin-top: 10px;
-    }
-}
-
 .card .img-fluid {
     width: 100%;
 }
@@ -1101,7 +1100,7 @@ iframe {
 
 @media (min-width: 576px)
 .container {
-    max-width: 540px;
+    max-width: 558px;
 }
 .fixed-top {
     position: fixed;
@@ -1129,6 +1128,16 @@ iframe {
 	.featured-post-wrapper-container .featured-post-wrapper-element:nth-child(even){padding-left: 15px; padding-right: 0px;}
 }
 
+#written-by-author-section {
+    clear: both;
+    width: 365px;
+    min-width: 365px;
+    margin-top: 8px;
+}
+#written-by-author-image {
+    float: left;
+}
+
 #featured_box_image{padding-right: 0px; padding-left: 0px; overflow: hidden;}
 #featured_box_text{padding-right: 0px;}
 #featured-box-img-cover-id img {
@@ -1140,4 +1149,49 @@ iframe {
 }
 #card_footer_white_bg {
     background-color: #FFF;
+}
+
+@media (max-width:576px) {
+    #post_author_thumb {
+        width: 36px;
+        height: 36px;
+    }
+    #written-by-author-text {
+        margin-left: 0;
+        height: 36px;
+        line-height: 36px;
+    }
+    #written-by-author-text span {
+        margin-left: 0px;
+        font-size: 1rem;
+    }
+    .specialShare{
+        color: red;
+        height: 2.5em;
+    }
+    .share {
+        margin-top: 0px;
+    }
+    .amp-featured-image {
+        margin-bottom: 8px;
+    }
+    .mainheading .posttitle {
+        margin-bottom: 0;
+        font-size: 18px;
+    }
+    .mainheading {
+        padding: 0 0 1rem 0;
+    }
+}
+
+@media (min-width:576px) {
+    #written-by-author-text {
+        margin-left: 0;
+        height: 72px;
+        line-height: 72px;
+    }
+    #written-by-author-text span {
+        margin-left: 0px;
+        font-size: 1.5rem;
+    }
 }
