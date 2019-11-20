@@ -13,6 +13,11 @@ permalink: /find-a-therapist-ultimate-guide
 
 Modeling page off: https://info.townsendsecurity.com/definitive-guide-to-encryption-key-management-fundamentals
 Idea came from: https://docs.google.com/document/d/1et6SgfwBFKk4sebo0H_BFZF_Z2o_L5WgjKICRZcolts/edit#heading=h.njhca1j6lu8m
+Make sure it's at least better than this: https://www.cultivatingconfidence.net/find-right-therapist-ultimate-guide/
+This: https://digg.com/2017/how-to-find-a-therapist
+This: https://www.headspace.com/blog/2017/12/07/finding-therapist/
+This: https://www.talkspace.com/blog/find-therapist-counselor-near-me/
+This: https://www.betterhelp.com/advice/therapy/how-do-i-find-a-therapist-near-me/
 
 Brief blurb here
 
