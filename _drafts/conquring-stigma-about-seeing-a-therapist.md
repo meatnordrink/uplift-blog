@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conquering Worry or Stigma About Seeing a Therapist"
-author: Andy
+author: Andrew
 tags: []
 image: assets/images/INSERT.jpg
 description: "Many people worry about what it will mean or how it will look to others if they go to a therapist. Here are a number of things that going to a therapist doesn't mean."

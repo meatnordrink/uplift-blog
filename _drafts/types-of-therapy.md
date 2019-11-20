@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Types of Therapy?"
-author: andy
+author: Andrew
 tags: []
 image: assets/images/INSERT.jpg
 description: "There are many different types of therapy. Learning a little about each can help you decide which approach will likely work best for you."

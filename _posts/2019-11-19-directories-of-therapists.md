@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Best Online Directories for Finding a Therapist"
-author: andy
+author: Andrew
 tags: []
 image: assets/images/therapist_near_me_shutterstock_160666208.png
 description: "If you're looking for a therapist, these are the best websites that can help."

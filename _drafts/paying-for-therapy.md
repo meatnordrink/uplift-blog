@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finding ways to Pay for Therapy/Dealing with Insurance"
-author: Andy
+author: Andrew
 tags: []
 image: assets/images/INSERT.jpg
 description: "Paying for therapy is one of the biggest obstacles for many people. A single session of in-person therapy can cost anywhere from $60-$300, though the average is closer to between $80-$120. If this is more than you can afford, don't give up yet! Whether you have insurance or not, there are many options to explore that may help you pay for therapy."

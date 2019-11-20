@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What do the letters by a therapist's name mean? (Therapist Credentials)"
-author: Andy
+author: Andrew
 tags: []
 image: assets/images/INSERT.jpg
 description: "The letters by a therapist's name (aka therapist's credentials) are meant to communicate two main things, their education and the licenses they hold."
