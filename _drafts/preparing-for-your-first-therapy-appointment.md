@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Preparing for Your First Therapy Appointment"
-author: Andrew
+author: andrew
 tags: []
 image: assets/images/INSERT.jpg
 description: "The first appointment with a therapist can be nerve-wracking. Know how to prepare, what questions will be asked and what to ask yourself, and how to get off to a productive start."

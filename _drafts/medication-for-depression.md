@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Medication for Depression"
-author: Andrew
+author: andrew
 tags: []
 image: assets/images/INSERT.jpg
 description: ""

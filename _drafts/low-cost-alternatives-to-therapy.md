@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Low-cost Alternatives to Therapy"
-author: Andrew
+author: andrew
 tags: []
 image: assets/images/INSERT.jpg
 description: "Paying for therapy is one of the biggest obstacles for many people. Below is a list of more affordable alternatives to standard in-person therapy."
