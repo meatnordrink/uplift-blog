@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Selecting the Right Therapist"
-author: Andy
+author: andrew
 tags: []
 image: assets/images/INSERT.jpg
 description: "It's important to find a therapist that works for you. Here's how to make the process a success."

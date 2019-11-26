@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Find a Therapist – The Ultimate Guide"
-author: Andy
+author: andrew
 tags: []
 image: assets/images/INSERT.jpg
 description: ""

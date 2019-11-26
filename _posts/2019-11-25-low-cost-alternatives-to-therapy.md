@@ -3,7 +3,7 @@ layout: post
 title:  "Low-cost Alternatives to Therapy"
 author: andrew
 tags: []
-image: assets/images/INSERT.jpg
+image: assets/images/woman_wellness_mountain_photo-1429080315210-feb3fc5c001d.jpeg
 description: "Paying for therapy is one of the biggest obstacles for many people. Below is a list of more affordable alternatives to standard in-person therapy."
 featured: true
 hidden: false
@@ -11,7 +11,7 @@ comments: false
 permalink: /low-cost-alternatives-to-therapy
 ---
 
-_See also, ["Dealing with Insurance-Paying for Therapy"](https://blog.uplift.app/paying-for-therapy) for ways to find help paying for therapy._
+[comment]: <> (See also, Dealing with Insurance-Paying for Therapy for ways to find help paying for therapy.)
 
 Paying for therapy is one of the biggest obstacles for many people. In the US, a single session of in-person therapy can cost anywhere from $60-$300, though the average is closer to between $80-$120. If this is more than you can afford, don't give up yet! Below is a list of more affordable alternatives to standard in-person therapy.
 
@@ -30,7 +30,7 @@ In group therapy, a therapist will lead the group, but much of the session consi
 
 It can be intimidating to seek therapy in a group setting, but these groups ensure confidentiality and typically maintain strict boundaries to keep sensitive and personal information within the group.
 
-Group therapy is not the same as going to a support group, though it's similar. The biggest difference is that group therapy is always directed by a licensed therapist, and, though it's cheaper than one-on-one therapy, still costs money. Compared to support groups, group therapy offers greater involvement of a therapist, for a more affordable price than one-on-one.
+Group therapy is not the same as going to a support group, though it's similar. The biggest difference is that **group therapy is always directed by a licensed therapist**, and, though it's cheaper than one-on-one therapy, still costs money. Compared to support groups, **group therapy offers greater involvement of a therapist, for a more affordable price than one-on-one**.
 
 Unfortunately, the terms "group therapy" and "support groups" are often used interchangeably, which can make searching for one or the other specifically difficult. However, you can tell them apart easily enough by whether they cost money and whether they are led by a therapist.
 
@@ -86,16 +86,16 @@ Two of the main companies offering this service are BetterHelp and Talkspace.
   - **[Talkspace](https://www.talkspace.com)** allows you to send text, audio, or video to your therapist (so you could take a video of yourself talking). They offer three different subscription levels, which vary by how many live sessions they include. The cheapest option, for around $65/week, has no live sessions; For around $100/week, you get four live video sessions per month. Talkspace has partnerships with some employers and healthplans to offer it free; you can check if your company or health plan is included [here](https://www.talkspace.com/partners).
 
 ## Social Networking Apps
-Unfortunately, several recent attempts at creating social-networking apps specifically for depression have recently shut down. Here are a few alternatives; you can also check out online support groups under the "Support Groups" section.
+Unfortunately, several attempts at creating social-networking apps specifically for depression have recently shut down. Here are a few alternatives; you can also check out online support groups under the "Support Groups" section.
 
   - **[NAMI Discussion Groups](https://www.nami.org/Find-Support/Air-App)** These discussion boards are maintained by the National Alliance on Mental Illness. They're designed to provide users a safe space to express themselves and their challenges, and receive support from other users.
   - **[Elevatr](http://www.elevatr.com)** This is a smartphone app designed to create a safe space to express issues and challenges relating to mental health, for both those struggling with mental health challenges and those supporting them in their struggles. Elevatr's unique feature is 'expert verified answers.' A team of doctors and therapists verify user-provided answers, to make sure that the information within is medically correct. (For example, if someone asks about the side effects of an anti-depressant, one of the doctors or therapists will verify whatever answers the user receives for medical accuracy.)
 
 ## Mental Health Apps
-While most mental health apps lack scientific backing, there are a few quality options out there. For example, apps based on Cognitive Behavioral Therapy have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy for depression.
+While most mental health apps lack scientific backing, there are a few quality options out there. For example, programs based on [Cognitive Behavioral Therapy](https://blog.uplift.app/what-is-cbt) have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy for depression.
 
 Mental health apps vary widely in their techniques. Costs vary depending on the quality and comprehensiveness of the content offered, from free to about $40/month. Some offer a complete course that mirrors traditional therapy, while others offer a chatbot or individual tools. Here are a few examples:
-  - **Complete Cognitive Behavioral Therapy course**: Modeled off the highest-quality science of work works for fighting depression. Example: [UpLift]
+  - **Complete Cognitive Behavioral Therapy course**: Modify your thoughts and behaviors in ways that reduce negative moods and increase wellbeing. Example: [UpLift]
   - **Chatbots**: Have a conversation with a bot that can also guide you through techniques or meditations. Examples: [Wysa] and [Youper]
   - **Mindfulness apps**: Focus your attention while acknowledging and accepting negative thoughts and emotions. Examples: [Headspace] and [Sanvello]
   - **Mood trackers/thought diaries**: Track your moods to better notice patterns in your ups and downs. Examples: [Moodnotes] and [MoodTools]
@@ -104,7 +104,7 @@ Mental health apps vary widely in their techniques. Costs vary depending on the 
 Read more tips for [comparing mental health apps here](https://blog.uplift.app/compare-icbt-depression-apps).
 
 ## Summary
-While traditional face-to-face therapy can be pricey, there are many alternatives out there that can nevertheless provide relief. From [support groups](http://www.dbsalliance.org), to [depression apps](https://blog.uplift.app/compare-icbt-depression-apps), to a combination of efforts, you _can_ and _deserve_ to feel better.
+While traditional face-to-face therapy can be pricey, there are many alternatives out there that can nevertheless provide relief. From [group therapy](https://groups.psychologytoday.com/rms/), to [depression apps](https://blog.uplift.app/compare-icbt-depression-apps), to a combination of efforts, you _can_ and _deserve_ to feel better.
 
 
 [Wysa]: <https://www.wysa.io/>

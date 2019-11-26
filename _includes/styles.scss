@@ -197,7 +197,7 @@ section.recent-posts {
 }
 
 .post-top-meta {
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
 }
 
 .post-top-meta .author-thumb {
@@ -1203,4 +1203,8 @@ iframe {
         margin-left: 0px;
         font-size: 25px;
     }
+}
+
+.min-height-80 {
+    min-height: 80% !important;
 }

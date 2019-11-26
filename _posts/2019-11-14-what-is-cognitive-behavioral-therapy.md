@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Cognitive Behavioral Therapy?"
-author: andy
+author: andrew
 tags: []
 image: assets/images/CBTchart_shutterstock_770723530.jpg
 description: "Cognitive Behavioral Therapy (CBT) has been around for 30 years and is considered the gold standard in alleviating depression."
