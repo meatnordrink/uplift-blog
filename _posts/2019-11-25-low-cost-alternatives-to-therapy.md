@@ -11,7 +11,7 @@ comments: false
 permalink: /low-cost-alternatives-to-therapy
 ---
 
-[comment]: <> (See also, Dealing with Insurance-Paying for Therapy for ways to find help paying for therapy.)
+_See also, ["How to Pay for Therapy and Deal with Insurance"](https://blog.uplift.app/paying-for-therapy) for ways to find help paying for therapy._
 
 Paying for therapy is one of the biggest obstacles for many people. In the US, a single session of in-person therapy can cost anywhere from $60-$300, though the average is closer to between $80-$120. If this is more than you can afford, don't give up yet! Below is a list of more affordable alternatives to standard in-person therapy.
 
