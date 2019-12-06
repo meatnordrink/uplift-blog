@@ -52,7 +52,7 @@ There are several sub-branches of humanistic therapy:
 When many people think of "therapy," as represented in popular culture, they are actually thinking of psychoanalysis. This type of therapy is one of the oldest forms and was developed by Freud.
 
 Psychoanalysis focuses on:
-- **The role of the unconcious** Unlike humanistic therapy, which believes humans are essentially good and positive and tries to achieve one's 'true nature,' psychoanalysis believes that mental well-being comes from controlling unconscious desires, many of which are negative or destructive.
+- **The role of the unconscious** Unlike humanistic therapy, which believes humans are essentially good and positive and tries to achieve one's 'true nature,' psychoanalysis believes that mental well-being comes from controlling unconscious desires, many of which are negative or destructive.
 - **The origin of a person's thoughts, behaviors, and personality in early childhood experiences** Psychoanalysis believes that many of the problems a person encounters in their adult life are the result of early childhood trauma.
 - **The importance of the skill of the therapist** The success of psychodynamic therapy is thought to largely rest on the ability of the therapist to listen to the client extensively, and then interpret what they hear to derive insights about a client, which allows the client to see their behavior in a new light.
 
