@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What do the letters by a therapist's name mean? (Therapist Credentials)"
+title:  "What Do the Letters by a Therapist's Name Mean? (Therapist Credentials)"
 author: andrew
 tags: []
 image: assets/images/therapist_diplomas_credentials_shutterstock_1181929870.png
@@ -27,6 +27,7 @@ Some general rules:
 
 ## Psychologists with a Master's Degree
 _MSC, MAPC, MMFT, LGPC, LCPC_
+
 A psychologist must have a master's degree to practice therapy.
 
 - MSC: Master of Science in Counseling
@@ -37,6 +38,7 @@ A psychologist must have a master's degree to practice therapy.
 
 ## Psychologists with a Doctorate Degree
 _PhD, PsyD, DMFT, EdD_
+
 Psychologists typically get a doctorate because they have specific research interests they wish to pursue.
 
 - PhD: Doctor of Philosophy
@@ -46,6 +48,7 @@ Psychologists typically get a doctorate because they have specific research inte
 
 ## Psychiatrists
 _MD_
+
 Psychiatrists are the only mental health professionals who can prescribe medication, and often, though not always, focus on medication management rather than therapy.
 
 They often work with other mental health professionals who provide therapy. They must complete medical school to be licensed.
@@ -54,6 +57,7 @@ They often work with other mental health professionals who provide therapy. They
 
 ## Social Workers
 _MSW, LCSW, LCSW-C, LGSW, LISW, LMSW, LSW_
+
 Social workers make up the largest group of mental health services providers. A master's in clinical social work is required to be licensed.
 
 - MSW: Master of Social Work
@@ -66,6 +70,7 @@ Social workers make up the largest group of mental health services providers. A 
 
 ## Marriage and Family Therapists
 _MFT, MMFT, LCMFT, LMFT_
+
 A master's in marriage and family therapy is required to be licensed.
 
 - MFT: Marriage and Family Therapist
@@ -76,6 +81,7 @@ A master's in marriage and family therapy is required to be licensed.
 
 ## Pastoral Counselors
 _CCPT, CpastC, NCPC_
+
 Note: A pastoral counselor is different than a pastor who may sometimes give informal spiritual counseling. A pastoral counselor has completed a master's program in Pastoral Counseling or Pastoral Therapy.
 
 - CCPT: Certified Clinical Pastoral Counselor
@@ -97,6 +103,7 @@ This is list is not complete; far too many credentials exist to list all of them
   - LISW: Licensed Independent Social Worker
   - LMFT: Licensed Marriage and Family Therapist
   - LMSW: Licensed Master Social Worker
+	- LPC: Licensed Professional Counselor
   - LSW: Licensed Social Worker
 
 Any of the professionals listed above have enough training to provide good quality therapy. Your compatibility with them and their areas of specialty are probably more important than the differences between their certifications.
