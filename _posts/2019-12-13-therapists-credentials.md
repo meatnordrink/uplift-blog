@@ -103,9 +103,10 @@ This is list is not complete; far too many credentials exist to list all of them
   - LISW: Licensed Independent Social Worker
   - LMFT: Licensed Marriage and Family Therapist
   - LMSW: Licensed Master Social Worker
-	- LPC: Licensed Professional Counselor
+  - LPC: Licensed Professional Counselor
   - LSW: Licensed Social Worker
 
+## Summary
 Any of the professionals listed above have enough training to provide good quality therapy. Your compatibility with them and their areas of specialty are probably more important than the differences between their certifications.
 
 It is important to know whether the therapist you're seeing has the extensive education, or just took a 6-month course online. If a therapist you're interested in doesn't have _any_ of the above credentials, ask them why, and what they do have.
