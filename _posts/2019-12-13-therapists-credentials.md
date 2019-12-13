@@ -21,10 +21,6 @@ To practice, therapists first complete the required education, and then they mus
 
 We'll break down the qualifications by category.
 
-Some general rules:
-- Any credential starting with "L" means this person is "licensed" from a state to practice some type of therapy.
-- Social workers will always have an "SW" in their credential.
-
 ## Psychologists with a Master's Degree
 _MSC, MAPC, MMFT, LGPC, LCPC_
 
@@ -89,7 +85,7 @@ Note: A pastoral counselor is different than a pastor who may sometimes give inf
 - NCPC: National Certified Pastoral Counselor
 
 ## Alphabetical List of credentials
-This is list is not complete; far too many credentials exist to list all of them. But these are some of the most common.
+This list is not complete; far too many credentials exist to list all of them. But these are some of the most common.
 
   - CCPT: Certified Clinical Pastoral Counselor
   - CpastC: Certified Pastoral Counselor
@@ -109,4 +105,4 @@ This is list is not complete; far too many credentials exist to list all of them
 ## Summary
 Any of the professionals listed above have enough training to provide good quality therapy. Your compatibility with them and their areas of specialty are probably more important than the differences between their certifications.
 
-It is important to know whether the therapist you're seeing has the extensive education, or just took a 6-month course online. If a therapist you're interested in doesn't have _any_ of the above credentials, ask them why, and what they do have.
+It is important to know whether the therapist you're seeing has extensive education, or just took a 6-month course online. If a therapist you're interested in doesn't have _any_ of the above credentials, ask them why, and what they do have.
