@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Types of Therapy?"
+title:  "Types of Therapy for Depression"
 author: andrew
 tags: []
 image: assets/images/INSERT.jpg
@@ -10,6 +10,9 @@ hidden: false
 comments: false
 permalink: /types-of-therapy
 ---
+Photo to download Jan 2: https://www.shutterstock.com/image-vector/psychotherapy-counseling-concept-black-people-psychologist-1383185507
+
+
 
 There are many different types of therapy. Learning a little about each can help you decide which approach will likely work best for you.
 
@@ -30,13 +33,16 @@ CBT is largely focused on the present, as opposed to the past. It has the follow
 IPT focuses on your relationships with others, which can include difficulties with communication or coping with bereavement. There's some evidence that IPT can be as effective as antidepressants or CBT, but more research is needed.
 
 **Behavioral Activation (BA)**
-BA focuses on the activities and behaviors that worsen your depression (like avoidance) and others that improve your mood. As I mentioned earlier, BA is also a central component of CBT. Many Challenges in UpLift{including} are rooted in BA.
+BA focuses on the activities and behaviors that worsen your depression (like avoidance) and others that improve your mood. BA is also a central component of CBT.
 
 **Problem-solving Therapy (PST)**
-PST helps you generate and apply creative solutions to your problems. CBT treatments often include problem-solving strategies, and UpLift contains a problem solver tool in the Toolbox.
+PST helps you generate and apply creative solutions to your problems. CBT treatments often include problem-solving strategies.
 
 **Acceptance and Commitment Therapy (ACT)**
-ACT helps you improve thoughts, feelings, memories, and physical sensations that are feared or avoided. Acceptance and mindfulness strategies are used to teach people to focus on the present and engage in positive behaviors even in the midst of difficult thoughts or situations. You will definitely find elements of acceptance and mindfulness throughout UpLift.
+ACT helps you improve thoughts, feelings, memories, and physical sensations that are feared or avoided. Acceptance and mindfulness strategies are used to teach people to focus on the present and engage in positive behaviors even in the midst of difficult thoughts or situations.
+
+**Mindfulness-Based Cognitive Therapy (MBCT)**
+MBCT is similar to ACT in that it incorporates mindfulness practices to help you become more aware and accepting of your emotional reactions. In MBCT, formal meditation practices are a much large focus.
 
 ## Humanistic therapy
 Humanistic therapy believes that humans are essentially good and positive, and focuses on the struggle to become your 'real, true self.' It emphasizes responsibility for one's choices in terms of thoughts, behaviors, and emotions, and pays less attention to outside influences. (This is in contrast to psychotherapy, which tends to see people as shaped by influences from their past.)
@@ -58,9 +64,9 @@ Psychoanalysis focuses on:
 
 The term "psychodynamic therapy" is generally used as simply another term for psychoanalysis.
 
-## Summary
-If you're ready to give therapy a try, here are additional articles you may find helpful:
-- [Directories of Therapists](https://blog.uplift.app/directories-of-therapists)
-- [Selecting the right therapist](https://blog.uplift.app/selecting-the-right-therapist)
-- [Paying for Therapy](https://blog.uplift.app/paying-for-therapy)
-- [Preparing for your first therapy appointment](https://blog.uplift.app/preparing-for-your-first-therapy-appointment)
+[comment]: # (Summary)
+[comment]: # (If you're ready to give therapy a try, here are additional articles you may find helpful:)
+[comment]: # (Directories of Therapistshttps://blog.uplift.app/directories-of-therapists)
+[comment]: # (Selecting the right therapisthttps://blog.uplift.app/selecting-the-right-therapist)
+[comment]: # (Paying for Therapyhttps://blog.uplift.app/paying-for-therapy)
+[comment]: # (Preparing for your first therapy appointmenthttps://blog.uplift.app/preparing-for-your-first-therapy-appointment)
