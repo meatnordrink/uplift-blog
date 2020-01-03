@@ -3,16 +3,13 @@ layout: post
 title:  "Types of Therapy for Depression"
 author: andrew
 tags: []
-image: assets/images/INSERT.jpg
+image: assets/images/therapy_shutterstock_1383185507.png
 description: "There are many different types of therapy. Learning a little about each can help you decide which approach will likely work best for you."
 featured: true
 hidden: false
 comments: false
 permalink: /types-of-therapy
 ---
-Photo to download Jan 2: https://www.shutterstock.com/image-vector/psychotherapy-counseling-concept-black-people-psychologist-1383185507
-
-
 
 There are many different types of therapy. Learning a little about each can help you decide which approach will likely work best for you.
 
