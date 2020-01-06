@@ -17,7 +17,7 @@ You may see a therapist say they practice "Eclectic" or "Integrative" therapy. T
 
 
 ## Cognitive Behavioral Therapy (CBT)
-Cognitive behavioral therapy (CBT) has been around for over 30 years and has the most evidence supporting its effectiveness. For depression in particular, it's considered the gold standard in alleviating depression, and is beneficial for a multitude of other mental health issues.
+Cognitive behavioral therapy (CBT) has been around for over 30 years and has the most evidence supporting its effectiveness. For depression in particular, it's considered the gold standard in psychotherapy, and is beneficial for a multitude of other mental health issues.
 
 CBT is largely focused on the present, as opposed to the past. It has the following characteristics:
 - **CBT uses 'homework.'** Because CBT is about teaching the _client_ skills, rather than relying on the skills of the therapist, CBT utilizes extensive out-of-session assignments, asking the client to apply and practice concepts and follow through on plans made in-session.
@@ -27,7 +27,7 @@ CBT is largely focused on the present, as opposed to the past. It has the follow
 
 ## Therapies Closely Related to CBT
 **Interpersonal Psychotherapy (IPT)**
-IPT focuses on your relationships with others, which can include difficulties with communication or coping with bereavement. There's some evidence that IPT can be as effective as antidepressants or CBT, but more research is needed.
+IPT focuses on your relationships with others, which can include difficulties with communication or coping with bereavement. There's some evidence that IPT can be as effective as antidepressants or CBT, but research is still in the early stages.
 
 **Behavioral Activation (BA)**
 BA focuses on the activities and behaviors that worsen your depression (like avoidance) and others that improve your mood. BA is also a central component of CBT.
@@ -39,10 +39,10 @@ PST helps you generate and apply creative solutions to your problems. CBT treatm
 ACT helps you improve thoughts, feelings, memories, and physical sensations that are feared or avoided. Acceptance and mindfulness strategies are used to teach people to focus on the present and engage in positive behaviors even in the midst of difficult thoughts or situations.
 
 **Mindfulness-Based Cognitive Therapy (MBCT)**
-MBCT is similar to ACT in that it incorporates mindfulness practices to help you become more aware and accepting of your emotional reactions. In MBCT, formal meditation practices are a much large focus.
+MBCT is similar to ACT in that it incorporates mindfulness practices to help you become more aware and accepting of your emotional reactions. In MBCT, formal meditation practices are a much larger focus.
 
 ## Humanistic therapy
-Humanistic therapy believes that humans are essentially good and positive, and focuses on the struggle to become your 'real, true self.' It emphasizes responsibility for one's choices in terms of thoughts, behaviors, and emotions, and pays less attention to outside influences. (This is in contrast to psychotherapy, which tends to see people as shaped by influences from their past.)
+Humanistic therapy believes that humans are essentially good and positive, and focuses on the struggle to become your 'real, true self.' It emphasizes responsibility for one's choices in terms of thoughts, behaviors, and emotions, and pays less attention to outside influences. (This is in contrast to psychoanalysis, below, which tends to see people as shaped by influences from their past.)
 
 Humanistic therapy tends to focus on questions such as acceptance of various parts of one's self, and being authentic in one's relations with others.
 
@@ -59,7 +59,7 @@ Psychoanalysis focuses on:
 - **The origin of a person's thoughts, behaviors, and personality in early childhood experiences** Psychoanalysis believes that many of the problems a person encounters in their adult life are the result of early childhood trauma.
 - **The importance of the skill of the therapist** The success of psychodynamic therapy is thought to largely rest on the ability of the therapist to listen to the client extensively, and then interpret what they hear to derive insights about a client, which allows the client to see their behavior in a new light.
 
-The term "psychodynamic therapy" is generally used as simply another term for psychoanalysis.
+The term "psychodynamic therapy" is basically a more modern term for psychoanalysis.
 
 [comment]: # (Summary)
 [comment]: # (If you're ready to give therapy a try, here are additional articles you may find helpful:)
