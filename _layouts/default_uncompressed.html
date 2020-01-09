@@ -34,42 +34,39 @@
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
     <amp-analytics type="gtag" data-credentials="include">
-      <script type="application/json">
-        {
-           "vars": {
+        <script type="application/json">
+          {
+            "vars": {
               "gtag_id": "UA-97118261-3",
               "config": {
-                 "UA-97118261-3": {
-                    "groups": "default"
-                 }
-              },
-              "account": "UA-97118261-3"
-           },
-           "triggers": {
-              "clicked_header": {
-                 "selector": "#start_uplift_button_header",
-                 "on": "click",
-                 "vars": {
-                    "event_name": "clicked",
-                    "method": "Google"
-                 }
-              },
-              "clicked_footer": {
-                 "selector": "#start_uplift_button_footer",
-                 "on": "click",
-                 "vars": {
-                    "event_name": "clicked",
-                    "method": "Google"
-                 }
-              },
-              "trackPageview": {
-                 "on": "visible",
-                 "request": "pageview"
+               "UA-97118261-3": { "groups": "default" }
               }
-           }
-        }
-      </script>
-    </amp-analytics>
+            },
+            "triggers": {
+              "head-button": {
+                "selector": "#start_uplift_button_header",
+                "on": "click",
+                "vars": {
+                  "event_name": "clicked-top"
+                }
+              "foot-button": {
+              "selector": "#start_uplift_button_footer",
+              "on": "click",
+              "vars": {
+                 "event_name": "clicked-bottom"
+                 }
+                }
+              "loaded": {
+              "on": "visible",
+              "vars": {
+                 "event_name": "viewed_blog"
+                  }
+                 }
+              }
+            }
+          }
+        </script>
+      </amp-analytics>
     <!-- Anchor for Scrolling to Top -->
     <a class="target-anchor" id="top"></a>
     <!-- Begin Menu Navigation
