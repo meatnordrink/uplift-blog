@@ -39,7 +39,7 @@ It's true that seeing a therapist isn't a magic pill. It will take time to see a
 ## "You'll be in therapy forever"
 Therapy doesn't take forever. It's not an immediate process, but depending on what a person is seeking to address through therapy, they might accomplish what they need in just a few sessions.
 
-For issues like depression, therapy length can vary based on the severity and the individual. Many people can make significant progress in four to six months or even less, but for more severe depression, or depression combined with other issues like anxiety, up to a year may be reasonable to expect.
+Progress in therapy is often made within three months. But more complicated issues may take longer, even years.
 
 The type of therapy makes a difference, too. [Cognitive Behavioral Therapy]((https://blog.uplift.app/what-is-cbt)) tends to be shorter-term than many methods, while psychoanalysis or relational therapy tends to take longer. Regardless of the type of therapy you seek, the more work you put in during and between sessions, the faster you'll make progress.
 
