@@ -64,11 +64,12 @@ You may have to wait awhile before a therapist you're interested in has an openi
 
 Here are some important questions to ask.
   - **What their general philosophy and approach is.** Just hearing the therapist talk about how they approach their work can help you get a feel for whether you're comfortable with them or not.
-  - **What methods they use** [Different methods of therapy](INSERT LINK HERE) have different levels of evidence behind them. You have the right to be selective, and whatever method you choose, make sure that your therapist outlines their approach for you, and that it's something you think could be helpful.
+  - **What methods they use** [Different methods of therapy](https://blog.uplift.app/types-of-therapy) have different levels of evidence behind them. You have the right to be selective, and whatever method you choose, make sure that your therapist outlines their approach for you, and that it's something you think could be helpful.
   - **How they handle conflict** Being able to handle conflict well has been linked to better outcomes in therapy.
-  - **Discuss payment** if you haven't already. While therapy is important and may be worth economic sacrifices, you should make sure you know exactly what you're getting into financially. If it's going to be more than you can afford, it's best to find out now and look for [more affordable options](INSERT LINK HERE), rather than creating stress by getting into debt.
+  - **Discuss payment** if you haven't already. While therapy is important and may be worth economic sacrifices, you should make sure you know exactly what you're getting into financially. If it's going to be more than you can afford, it's best to find out now and explore [ways to pay for therapy](https://blog.uplift.app/paying-for-therapy), rather than creating stress by getting into debt.
 
-Finally, think about how you _felt_ while talking with the therapist. **Comfort with a therapist is very important.**
+**Assess your comfort level with them.**
+It's important you get a sense that you could feel comfortable sharing a deep level of feelings and personal details with this therapist.
 
 If you don't feel comfortable with the therapist during your interview, even if you can't say exactly why, they're probably not a good fit for you. (Of course, you should make sure you're not confusing discomfort with _therapy_ with discomfort with a particular therapist.
 

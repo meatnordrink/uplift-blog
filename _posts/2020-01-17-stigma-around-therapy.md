@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "Conquering Worry or Stigma About Seeing a Therapist"
+title:  "Conquering Worry or Stigma About Going to Therapy"
 author: andrew
 tags: []
-image: assets/images/INSERT.jpg
-description: "Many people worry about what it will mean or how it will look to others if they go to a therapist. Here are a number of things that going to a therapist doesn't mean."
+image: assets/images/relaxed_confident-jernej-graj-rlNibgIqi4o-unsplash.jpg
+description: "Many people worry how others will perceive them if they go to therapy. Here are a number of things that going to therapy doesn't mean."
 featured: true
 hidden: false
 comments: false
-permalink: /conquring-stigma-about-seeing-a-therapist
+permalink: /therapy-stigma
 ---
 
-Many people worry about what it will mean or how it will look to others if they go to a therapist. There are many [misconceptions out there about what it means to go to therapy](http://www.huffingtonpost.com/sahaj-kohli/misconceptions-about-therapy_b_7286204.html)
+Many people worry about what it will mean or how it will look to others if they go to therapy. There's a lot of stigma out there about therapy.
 
-Here are a number of things that going to a therapist does _not_ mean.
+Here are a number of things that going to therapy does _not_ mean.
 
 **"You have serious mental problems"**
 Going to therapy doesn't mean you have serious mental problems. For people who do suffer from serious mental illness, therapy is certainly necessary, and they should be applauded for seeking it. But the majority of people in therapy don't have a serious mental illness, and many have no diagnosed mental illness at all.
@@ -39,10 +39,10 @@ It's true that seeing a therapist isn't a magic pill. It will take time to see a
 **"You'll be in therapy forever"**
 Therapy doesn't take forever. It's not an immediate process, but depending on what a person is seeking to address through therapy, they might accomplish what they need in just a few sessions.
 
-For issues like depression, therapy length can vary based on the severity and the individual. Many people can make significant progress in four to six months or even less, but for more severe depression, or depression combined with other issues like anxiety, up to a year may be reasonable to expect. 
+For issues like depression, therapy length can vary based on the severity and the individual. Many people can make significant progress in four to six months or even less, but for more severe depression, or depression combined with other issues like anxiety, up to a year may be reasonable to expect.
 
 The type of therapy makes a difference, too. [Cognitive Behavioral Therapy]((https://blog.uplift.app/what-is-cbt)) tends to be shorter-term than many methods, while psychoanalysis or relational therapy tends to take longer. Regardless of the type of therapy you seek, the more work you put in during and between sessions, the faster you'll make progress.
 
 Some people do stay in therapy for years, because they find that it's a part of their life that they value and enjoy. Often, clients will see a therapist weekly or monthly at first, but after a while will come in less frequently, perhaps once every few months. Some people continue to visit their therapists once or twice a year, just to check in and talk about any new issues that have come up or old ones that have resurfaced.
 
-Remember, around one in every three people experience depression at some point in their lifetime. Seeking treatment doesn't mean you're unique because you're affected by depression; it means you're unique because you're _doing_ something about it.
+In a given year, around one in every four people experience a mental health issue. Seeking treatment doesn't mean you're unique because you're affected by a mental health issue; it means you're unique because you're _doing_ something about it.
