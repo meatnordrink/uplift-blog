@@ -3,7 +3,7 @@ layout: post
 title:  "Conquering Worry or Stigma About Going to Therapy"
 author: andrew
 tags: []
-image: assets/images/relaxed_confident-jernej-graj-rlNibgIqi4o-unsplash.jpg
+image: assets/images/shutterstock_449769436.jpg
 description: "Many people worry how others will perceive them if they go to therapy. Here are a number of things that going to therapy doesn't mean."
 featured: true
 hidden: false
