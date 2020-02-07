@@ -3,7 +3,7 @@ layout: post
 title:  "Selecting the Right Therapist"
 author: andrew
 tags: []
-image: assets/images/INSERT.jpg
+image: assets/images/interviewing_therapist.jpg
 description: "It's important to find a therapist that works for you. Here's how to make the process a success."
 featured: true
 hidden: false
@@ -13,27 +13,29 @@ permalink: /selecting-the-right-therapist
 
 It's important to find a therapist that works for you, and this process may take time. Here are some suggestions on how to make the process a success.
 
-	- [Look at several therapists before choosing one](#Look-at-several-therapists-before-choosing-one)
-	- [Understand their qualifications](#Understand-their-qualifications)
-	- [Think about what you want in a therapist](#Think-about-what-you-want-in-a-therapist)
-	- [Read reviews or ask around](#Read-reviews-or-ask-around)
-	- [Interview the therapists](#Interview-the-therapists)
-	- [Watch out for warning signs](#Watch-out-for-warning-signs)
-	- [Find someone you're comfortable with](#Find-someone-you're-comfortable-with)
+- [Look at several therapists before choosing one](#Look-at-several-therapists-before-choosing-one)
+- [Understand their qualifications](#Understand-their-qualifications)
+- [Think about what you want in a therapist](#Think-about-what-you-want-in-a-therapist)
+- [Read reviews or ask around](#Read-reviews-or-ask-around)
+- [Interview the therapists](#Interview-the-therapists)
+- [Watch out for warning signs](#Watch-out-for-warning-signs)
+- [Find someone you're comfortable with](#Find-someone-you're-comfortable-with)
 
 ## Look at several therapists before choosing one
-Get a few good candidates from [online directories of therapists](https://blog.uplift.app/directories-of-therapists), recommendations from friends, family, or a religious institution, or an Employee Assistance Program at work, if your employer has one.
+Get a few good candidates from [online directories of therapists](https://blog.uplift.app/directories-to-find-a-therapist), recommendations from friends, family, or a religious institution, or an Employee Assistance Program at work, if your employer has one.
 
-It's good to find several therapists near you who you think might be a good fit so that you can compare them and find someone who you could work well with.
+It's good to find several therapists who might be a good fit so that you can compare them and find someone who you could work well with.
 
 ## Understand their qualifications
-There are many different kinds of therapists. To legally be called a therapist and practice therapy, a therapist must have at least a master's degree in their field. Psychologists, psychiatrists, social workers, marriage therapists, and pastoral counselors are all different types of licensed therapists.
+There are many different kinds of therapists. To legally be called a therapist and practice therapy, a therapist must have at least a master's degree in their field.
+
+Psychologists, psychiatrists, social workers, marriage therapists, and pastoral counselors are all different types of licensed therapists.
 
 All of these professionals are qualified to practice therapy. The difference between their education is probably less important than the comfort you feel with a particular therapist and their experience with your particular challenges.
 
 Some people may offer therapy without these qualifications; they may call it counseling, or coaching. Be aware that this is not the same as therapy. Therapy is medical care delivered by a licensed professional with extensive education and training.
 
-Counseling and coaching may certainly be useful in a person's life, but you should know which you're getting. If you're unsure what your therapist's qualifications are, ask them, [or check here](https://blog.uplift.app/therapist-credentials).
+Counseling and coaching may certainly be useful in a person's life, but you should know which you're getting. If you're unsure what your therapist's qualifications are, ask them, or [view a list of common therapist credentials](https://blog.uplift.app/therapist-credentials).
 
 ## Think about what you want in a therapist
 Who would you be most comfortable with? Would you prefer to see a therapist of a certain gender/ethnicity/sexual orientation? Remember that you need to be at ease with this person. If there are certain kinds of people you tend to be more comfortable around, it's okay to be picky.
@@ -49,7 +51,7 @@ Unfortunately, reviews of therapists online are fairly sparse. Some of the best 
 
 However, on the flip side, if you live in a small town or city, there's a better chance that you may know someone who's been to the therapist you're researching. Ask around.
 
-  - [Rate MD's](https://www.ratemds.com/best-doctors/ny/new-york/psychologist/) This site has the most comprehensive listings (though they're still quite limited), and is quite user-friendly.
+  - [Rate MD's](https://www.ratemds.com/best-doctors/ny/new-york/psychologist/) This site has the most comprehensive listings (though they're still quite limited), and is user-friendly.
   - [Zocdoc](https://www.zocdoc.com/search/?dr_specialty=122&address=&insurance_carrier=-2) This site has some excellent features—such as listing available appointments with each therapist—but very limited coverage outside of large cities.
   - [Vitals](http://www.vitals.com/search?utf8=✓&type=specialty&provider_type=0&q=psychologist&specialist_id=5000&userintended=1) Spotty coverage, but better than many.
 
@@ -68,13 +70,6 @@ Here are some important questions to ask.
   - **How they handle conflict** Being able to handle conflict well has been linked to better outcomes in therapy.
   - **Discuss payment** if you haven't already. While therapy is important and may be worth economic sacrifices, you should make sure you know exactly what you're getting into financially. If it's going to be more than you can afford, it's best to find out now and explore [ways to pay for therapy](https://blog.uplift.app/paying-for-therapy), rather than creating stress by getting into debt.
 
-**Assess your comfort level with them.**
-It's important you get a sense that you could feel comfortable sharing a deep level of feelings and personal details with this therapist.
-
-If you don't feel comfortable with the therapist during your interview, even if you can't say exactly why, they're probably not a good fit for you. (Of course, you should make sure you're not confusing discomfort with _therapy_ with discomfort with a particular therapist.
-
-If you're just uncomfortable with therapy, you may not like any therapist you meet at first. You may need to first [conquer worry or stigma](INSERT LINK)
-
 
 ## Watch out for warning signs
 There _is_ such a thing as a quack therapist. Watch out for:
@@ -84,17 +79,22 @@ There _is_ such a thing as a quack therapist. Watch out for:
 
 There are also plenty of good therapists who may simply not be a good fit for you. Watch out for anyone who:
   - **You feel uneasy with.** Trust your gut. Whether it's right or wrong, if you don't feel comfortable, the therapy won't be productive.
-  - **Doesn't seem to be listening to you.** The therapist needs to learn about you in order to help you. If they're not listening to you, they're not doing that. However, this doesn't mean that you should expect the therapist to just listen quietly while you go on for hours about whatever comes to mind. [Particularly in Cognitive Behavioral Therapy](https://blog.uplift.app/what-is-cbt), the therapist will try to keep the discussion to useful topics, and may ask you challenging questions. This is good. Appearing uninterested in you or your struggles is not.
+  - **Doesn't seem to be listening to you.** The therapist needs to learn about you in order to help you. If they're not listening to you, they're not doing that. However, this doesn't mean that you should expect the therapist to just listen quietly while you go on for hours about whatever comes to mind. Particularly in [Cognitive Behavioral Therapy](https://blog.uplift.app/what-is-cognitive-behavioral-therapy), the therapist will try to keep the discussion to useful topics, and may ask you challenging questions. This is good. Appearing uninterested in you or your struggles is not.
   - **Spends more time talking about themselves than listening to you.** While the occasional reference to their own life may be helpful, a therapist more interested in telling you about themselves than helping you won't be of much use.
   - **Doesn’t agree with your goals for treatment** Over time a therapist may suggest other things you could work on, but studies have shown a strong correlation between how much the client and therapist agree on goals for treatment and how much progress the client makes in therapy.
   - **Makes you feel judged, shamed, or emotionally unsafe** While it _is_ a therapist's place to challenge your thoughts and perceptions, it is not their place to make you feel judged or ashamed. If you feel this way, the therapy won't be productive, and they're not a good fit.
   - **You regularly feel worse after your session.** You may feel worse after a session occasionally—after all, therapy is about confronting your difficulties, and delving into them isn't always fun. But if you _regularly_ feel worse, particularly if that feeling is sustained, then the therapy isn't doing what it should. You should feel like you're making progress, even if it's difficult.
-  - **You have a high amount of conflict right from the start.** Once your therapist has gotten to know you, they may challenge you on your views of certain issues. This is part of the therapy process, and part of the process of therapy is learning to respond to these challenges with openness rather than defensiveness. A good therapist will do their best to help you be open to these challenges. Conflict from the start, however, is a bad sign, and indicates incompatibility between you and the therapist.
+  - **You have a high amount of conflict right from the start.** Once your therapist has gotten to know you, they may challenge you on your views of certain issues. This is part of the therapy process and a good therapist will help you be open to these challenges. Conflict from the start, however, is a bad sign, and indicates incompatibility between you and the therapist.
   - **You just don't like or want to talk to them.** Therapy is basically opening up to someone and talking to them about your world. If you don't like them and don't want to talk to them, this won't work.
 
 ## Find someone you're comfortable with
+It's important you get a sense that you could feel comfortable sharing a deep level of feelings and personal details with this therapist.
+
 Studies have shown a consistent correlation between how comfortable the client is with the therapist and how much progress the client makes in therapy. It's worth shopping around to find someone you're comfortable with.
 
-Of course, you have to be open to seeing a therapist in general—if you're just uncomfortable with the idea of going to therapy, it will be difficult to find a therapist you like and connect with. It's important to work through [misconceptions about what it means to go to therapy](INSERT LINK). If feelings of discomfort or stigma are too much to overcome right now, you might also explore [computer-based programs for depression](https://blog.uplift.app/compare-icbt-depression-apps).
+If you don't feel comfortable with the therapist during your interview, even if you can't say exactly why, they're probably not a good fit for you. (Of course, you should make sure you're not confusing discomfort with _therapy_ with discomfort with a particular therapist.
 
-Once you've found someone, review these [tips for preparing for your first appointment](https://blog.uplift.app/preparing-for-your-first-therapy-appointment).
+If you're just uncomfortable with the idea of therapy, you may not like any therapist you meet at first. You may need to first [conquer worry or stigma around going to therapy](https://blog.uplift.app/therapy-stigma)
+
+
+<!--Once you've found someone, review these [tips for preparing for your first appointment](https://blog.uplift.app/preparing-for-your-first-therapy-appointment).-->

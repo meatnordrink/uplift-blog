@@ -47,7 +47,7 @@ Different therapists have different styles. Some may ask more about your backgro
 ## What should I tell the therapist?
 If you haven't had a pre-session consultation, then this is your first opportunity to interview your therapist.
 
-**[Learn what questions to ask when assessing whether a therapist is a good fit for you](INSERT LINK).**
+**[Learn what questions to ask when assessing whether a therapist is a good fit for you](https://blog.uplift.app/selecting-the-right-therapist).**
 
 In addition, be upfront with your therapist about:
 	- Things you're sensitive about
@@ -80,6 +80,7 @@ This is _your_ session, and if you'd like to work on a specific issue, you don't
 
 If there's a specific approach to a problem you'd like to try, share your interest with your therapist.
 
+## Summary
 Your therapist is an expert in their field, but you are the foremost expert on you. Success in therapy will require both of your expertise, so be an active participant in your therapy.
 
 You'll get the most out of your session if you approach it with an open mind, energy, and forethought.

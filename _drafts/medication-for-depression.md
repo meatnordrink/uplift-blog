@@ -31,7 +31,7 @@ Though extensive research is ongoing, the exact mechanisms of how antidepressant
 
 
 ## Are antidepressants effective?
-Antidepressants have been shown to be effective for many people, about equally effective as psychotherapy (like [CBT](https://blog.uplift.app/what-is-cbt), though for some people one or the other may be more effective. They may help relieve certain depressive symptoms faster than therapy, particularly in severe depression, though the effects may not generally be as long-lasting as the effects of psychotherapy.
+Antidepressants have been shown to be effective for many people, about equally effective as psychotherapy (like [CBT](https://blog.uplift.app/what-is-cognitive-behavioral-therapy), though for some people one or the other may be more effective. They may help relieve certain depressive symptoms faster than therapy, particularly in severe depression, though the effects may not generally be as long-lasting as the effects of psychotherapy.
 
 ## What are the common types of antidepressants?
 There are many types of antidepressants. The most common type is selective serotonin reuptake inhibitors or SSRIs. Examples of this type are Prozac, Zoloft, Lexapro, and Celexa.
@@ -52,6 +52,6 @@ Despite these side effects, many people successfully manage and treat their depr
 ## How does medication compare to psychotherapy?
 Research suggests that on average, medication does no better or worse than psychotherapy, and some people see better results when they combine psychological and pharmacological treatment.
 
-It should not be surprising that when people stop taking medication, their improvements often subside, but it may surprise you that after a course of short-term psychotherapy, especially if it’s evidence-based like [CBT](https://blog.uplift.app/what-is-cbt), people often experience long-lasting positive effects even years after they stop psychotherapy.
+It should not be surprising that when people stop taking medication, their improvements often subside, but it may surprise you that after a course of short-term psychotherapy, especially if it’s evidence-based like [CBT](https://blog.uplift.app/what-is-cognitive-behavioral-therapy), people often experience long-lasting positive effects even years after they stop psychotherapy.
 
 This is one reason explore [different therapy options](https://blog.uplift.app/types-of-therapy), even if you start medication. Therapy can provide skills and strategies to help you combat depression in the long run so that you do not need to take antidepressants forever.

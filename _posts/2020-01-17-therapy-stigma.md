@@ -41,7 +41,7 @@ Therapy doesn't take forever. It's not an immediate process, but depending on wh
 
 Progress in therapy is often made within three months. But more complicated issues may take longer, even years.
 
-The type of therapy makes a difference, too. [Cognitive Behavioral Therapy]((https://blog.uplift.app/what-is-cbt)) tends to be shorter-term than many methods, while psychoanalysis or relational therapy tends to take longer. Regardless of the type of therapy you seek, the more work you put in during and between sessions, the faster you'll make progress.
+The type of therapy makes a difference, too. [Cognitive Behavioral Therapy]((https://blog.uplift.app/what-is-cognitive-behavioral-therapy)) tends to be shorter-term than many methods, while psychoanalysis or relational therapy tends to take longer. Regardless of the type of therapy you seek, the more work you put in during and between sessions, the faster you'll make progress.
 
 Some people do stay in therapy for years, because they find that it's a part of their life that they value and enjoy. Often, clients will see a therapist weekly or monthly at first, but after a while will come in less frequently, perhaps once every few months. Some people continue to visit their therapists once or twice a year, just to check in and talk about any new issues that have come up or old ones that have resurfaced.
 
