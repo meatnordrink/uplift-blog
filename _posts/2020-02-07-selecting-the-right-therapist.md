@@ -13,13 +13,13 @@ permalink: /selecting-the-right-therapist
 
 It's important to find a therapist that works for you, and this process may take time. Here are some suggestions on how to make the process a success.
 
-- [Look at several therapists before choosing one](#Look-at-several-therapists-before-choosing-one)
-- [Understand their qualifications](#Understand-their-qualifications)
-- [Think about what you want in a therapist](#Think-about-what-you-want-in-a-therapist)
-- [Read reviews or ask around](#Read-reviews-or-ask-around)
-- [Interview the therapists](#Interview-the-therapists)
-- [Watch out for warning signs](#Watch-out-for-warning-signs)
-- [Find someone you're comfortable with](#Find-someone-you're-comfortable-with)
+- [Look at several therapists before choosing one](#look-at-several-therapists-before-choosing-one)
+- [Understand their qualifications](#understand-their-qualifications)
+- [Think about what you want in a therapist](#think-about-what-you-want-in-a-therapist)
+- [Read reviews or ask around](#read-reviews-or-ask-around)
+- [Interview the therapists](#interview-the-therapists)
+- [Watch out for warning signs](#watch-out-for-warning-signs)
+- [Find someone you're comfortable with](#find-someone-youre-comfortable-with)
 
 ## Look at several therapists before choosing one
 Get a few good candidates from [online directories of therapists](https://blog.uplift.app/directories-to-find-a-therapist), recommendations from friends, family, or a religious institution, or an Employee Assistance Program at work, if your employer has one.
@@ -66,12 +66,14 @@ You may have to wait awhile before a therapist you're interested in has an openi
 
 Here are some important questions to ask.
   - **What their general philosophy and approach is.** Just hearing the therapist talk about how they approach their work can help you get a feel for whether you're comfortable with them or not.
-  - **What methods they use** [Different methods of therapy](https://blog.uplift.app/types-of-therapy) have different levels of evidence behind them. You have the right to be selective, and whatever method you choose, make sure that your therapist outlines their approach for you, and that it's something you think could be helpful.
-  - **How they handle conflict** Being able to handle conflict well has been linked to better outcomes in therapy.
-  - **Discuss payment** if you haven't already. While therapy is important and may be worth economic sacrifices, you should make sure you know exactly what you're getting into financially. If it's going to be more than you can afford, it's best to find out now and explore [ways to pay for therapy](https://blog.uplift.app/paying-for-therapy), rather than creating stress by getting into debt.
+  - **What methods they use.** [Different methods of therapy](https://blog.uplift.app/types-of-therapy) have different levels of evidence behind them. You have the right to be selective, and whatever method you choose, make sure that your therapist outlines their approach for you, and that it's something you think could be helpful.
+  - **How they handle conflict.** Being able to handle conflict well has been linked to better outcomes in therapy.
+  - **Discuss payment.** if you haven't already. While therapy is important and may be worth economic sacrifices, you should make sure you know exactly what you're getting into financially. If it's going to be more than you can afford, it's best to find out now and explore [ways to pay for therapy](https://blog.uplift.app/paying-for-therapy), rather than creating stress by getting into debt.
 
 
 ## Watch out for warning signs
+![warning sign on door](http://blog.uplift.app/assets/images/therapist-warning-sign.jpg)
+
 There _is_ such a thing as a quack therapist. Watch out for:
   - **Therapists advertising "miracle cures" or "spiritual transformations."** Therapy can be very helpful, but it isn't usually miraculous. Anyone advertising it as such is probably unscrupulous.
   - **Therapists who try to get you to pay up-front for a certain number of sessions, or to sign a contract for a program.** While therapy usually takes a series of sessions, and therapists may ask you to _mentally_ prepare for a series of visits, it's not a good idea to pay for multiple sessions in advance.
