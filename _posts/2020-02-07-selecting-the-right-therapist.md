@@ -94,7 +94,7 @@ It's important you get a sense that you could feel comfortable sharing a deep le
 
 Studies have shown a consistent correlation between how comfortable the client is with the therapist and how much progress the client makes in therapy. It's worth shopping around to find someone you're comfortable with.
 
-If you don't feel comfortable with the therapist during your interview, even if you can't say exactly why, they're probably not a good fit for you. (Of course, you should make sure you're not confusing discomfort with _therapy_ with discomfort with a particular therapist.
+If you don't feel comfortable with the therapist during your interview, even if you can't say exactly why, they're probably not a good fit for you. (Of course, you should make sure you're not confusing discomfort with _therapy_ with discomfort with a particular therapist.)
 
 If you're just uncomfortable with the idea of therapy, you may not like any therapist you meet at first. You may need to first [conquer worry or stigma around going to therapy](https://blog.uplift.app/therapy-stigma)
 
