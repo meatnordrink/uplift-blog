@@ -3,7 +3,7 @@ layout: post
 title:  "Preparing for Your First Therapy Appointment"
 author: andrew
 tags: []
-image: assets/images/allgo-an-app-for-plus-size-people-j4vD2LIAw6U-unsplash2.jpg
+image: assets/images/j4vD2LIAw6U-unsplash.jpg
 description: "The first appointment with a therapist can be nerve-wracking. Know how to prepare, what questions will be asked and what to ask yourself, and how to get off to a productive start."
 featured: true
 hidden: false
