@@ -3,7 +3,7 @@ layout: post
 title:  "Preparing for Your First Therapy Appointment"
 author: andrew
 tags: []
-image: assets/images/INSERT.jpg
+image: assets/images/allgo-an-app-for-plus-size-people-j4vD2LIAw6U-unsplash.jpg
 description: "The first appointment with a therapist can be nerve-wracking. Know how to prepare, what questions will be asked and what to ask yourself, and how to get off to a productive start."
 featured: true
 hidden: false
@@ -16,10 +16,10 @@ For many people the first appointment with a therapist can be somewhat nerve-wra
 ## How should I prepare?
 
 It may be helpful to write some things down before your first session, such as:
-	- Questions you have for the therapist
-	- Reasons for seeking therapy at this time
-	- What you'd like to accomplish in therapy
-	- Previous experience with therapy
+  - Questions you have for the therapist
+  - Reasons for seeking therapy at this time
+  - What you'd like to accomplish in therapy
+  - Previous experience with therapy
 
 This is useful because it can be hard to remember everything you wanted to say on-the-spot. Even more importantly, the process of writing these things down may help make your motivations and goals clearer to _you_.
 
@@ -34,25 +34,26 @@ On the day of your first appointment, try to get there at least 15 minutes early
 ## What will the therapist ask?
 
 All therapists will ask you for some general information about yourself. This may include:
-	- Your physical and emotional health
-	- Your important relationships
-	- Your current coping strategies
-	- What issues you'd like to work on
-	- What goals you'd like to work towards
+  - Your physical and emotional health
+  - Your important relationships
+  - Your current coping strategies
+  - What issues you'd like to work on
+  - What goals you'd like to work towards
 
 They may discuss possible medications with you.
 
 Different therapists have different styles. Some may ask more about your background, some may ask about your current situation, and others may simply listen to what you have to say.
 
 ## What should I tell the therapist?
-If you haven't had a pre-session consultation, then this is your first opportunity to interview your therapist.
+If you haven't had a pre-session consultation, then this is your first opportunity to interview your therapist to decide if they're a good fit.
 
-**[Learn what questions to ask when assessing whether a therapist is a good fit for you](https://blog.uplift.app/selecting-the-right-therapist).**
+**[Learn what interview questions to ask and how to assess whether a therapist is a good fit for you](https://blog.uplift.app/selecting-the-right-therapist#interview-the-therapists).**
 
+**Share a bit about you**
 In addition, be upfront with your therapist about:
-	- Things you're sensitive about
-	- Things that are important to you
-	- Things that are difficult for you
+  - Things you're sensitive about
+  - Things that are important to you
+  - Things that are difficult for you
 
 For instance, "It's really important to me that I have time to finish speaking, even if I take long pauses," or, "My divorce is a really sensitive subject for me, and I'm likely to be very emotional if it comes up."
 
