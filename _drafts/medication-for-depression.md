@@ -11,18 +11,16 @@ comments: false
 permalink: /medication-for-depression
 ---
 
-Medication is certainly one option for some people with depression, particularly if it’s severe. There are many kinds of medications approved for use in treating depression, and there’s a fair amount of evidence suggesting that they work, especially in combination with therapy.
+Medication can be helpful for people with depression, particularly if it’s severe. There are many kinds of medications approved for use in treating depression, and there’s a fair amount of evidence suggesting that they work, especially in combination with therapy.
 
 Each drug works slightly differently, and not all drugs will work for you.
 
 ## How Antidepressants Work
-Your brain contains neurons, which carry messages between the brain and other parts of your body.
+Your brain contains several billion neurons, which send chemical messages back and forth to each other about your movements, emotions, temperature and more.
 
 ![neurons in the brain](https://1317562338.rsc.cdn77.org/images/sess3/zg4b4RB.jpg)
 
-Your brain contains several billion neurons, which send chemical messages back and forth to each other about your movements, emotions, temperature and more.
-
-Neurotransmitters, like serotonin and norepinephrine, are the chemicals that help send these messages. Low levels of these two are commonly associated with sad feelings and depression.
+Neurotransmitters, like serotonin and norepinephrine, are the chemicals that help send messages from your neurons. Low levels of these two neurotransmitters are commonly associated with sad feelings and depression.
 
 Many antidepressants are thought to work by influencing the neurotransmitters in your brain, particularly serotonin and norepinephrine. By keeping more of these neurotransmitters in the space between your neurons (the "synapse"), communication is thought to improve between neurons, and mood is better regulated.
 
