@@ -11,7 +11,7 @@ comments: false
 permalink: /directories-to-find-a-therapist
 ---
 
-Finding a therapist in your area, that you can afford and is taking patients, can sometimes be difficult. Here are a few websites with good, comprehensive listing that can help in your search.
+Finding a therapist in your area, that you can afford and is taking patients, can sometimes be difficult. Here are a few websites with good, comprehensive listings that can help in your search.
 
 You can also ask your doctor for a referral. They likely know the therapists available in the area, and can help you find one that will meet your needs.
 
@@ -21,4 +21,4 @@ You can also ask your doctor for a referral. They likely know the therapists ava
 - **[The Association for Behavioral and Cognitive Therapies](http://www.findcbt.org/xFAT/index.cfm)** likewise lists therapists who are CBT-practicing members of its organization.
 - **[SAMSHA.gov](https://findtreatment.samhsa.gov)** lists mental-healthcare providers maintained by the Substance Abuse and Mental Health Services Administration. The list is quite broad, and has everything from psychiatrists to substance-abuse clinics. It also provides information about whether most providers accept Medicaid. They also offer this information via phone: 1-800-662-HELP (4357).
 
-Once you find a few therapists that have potential, check out these tips for [selecting the right therapist for you]https://blog.uplift.app/selecting-the-right-therapist.
+Once you find a few therapists that have potential, check out these tips for [selecting the right therapist for you](https://blog.uplift.app/selecting-the-right-therapist).

@@ -27,10 +27,10 @@ CBT is largely focused on the present, as opposed to the past. It has the follow
 
 ## Therapies Closely Related to CBT
 **Interpersonal Psychotherapy (IPT)**
-IPT focuses on your relationships with others, which can include difficulties with communication or coping with bereavement. There's some evidence that IPT can be as effective as antidepressants or CBT, but research is still in the early stages.
+IPT focuses on your relationships with others, which can include difficulties with communication or coping with bereavement. There's some evidence that IPT can be as effective as antidepressants or CBT, but more research is needed.
 
 **Behavioral Activation (BA)**
-BA focuses on the activities and behaviors that worsen your depression (like avoidance) and others that improve your mood. BA is also a central component of CBT.
+BA focuses on the activities and behaviors that worsen depression (like avoidance) and others that improve your mood. BA is also a central component of CBT.
 
 **Problem-solving Therapy (PST)**
 PST helps you generate and apply creative solutions to your problems. CBT treatments often include problem-solving strategies.
@@ -61,9 +61,9 @@ Psychoanalysis focuses on:
 
 The term "psychodynamic therapy" is basically a more modern term for psychoanalysis.
 
-[comment]: # (Summary)
-[comment]: # (If you're ready to give therapy a try, here are additional articles you may find helpful:)
-[comment]: # (Directories of Therapistshttps://blog.uplift.app/directories-of-therapists)
-[comment]: # (Selecting the right therapisthttps://blog.uplift.app/selecting-the-right-therapist)
-[comment]: # (Paying for Therapyhttps://blog.uplift.app/paying-for-therapy)
-[comment]: # (Preparing for your first therapy appointmenthttps://blog.uplift.app/preparing-for-your-first-therapy-appointment)
+## Summary
+If you're ready to give therapy a try, here are additional articles you may find helpful:
+- [Directories of Therapists](https://blog.uplift.app/directories-of-therapists)
+- [Selecting the right therapist](https://blog.uplift.app/selecting-the-right-therapist)
+- [Paying for Therapy](https://blog.uplift.app/paying-for-therapy)
+- [Preparing for your first therapy appointment](https://blog.uplift.app/preparing-for-your-first-therapy-appointment)

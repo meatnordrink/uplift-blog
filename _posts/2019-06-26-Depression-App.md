@@ -17,7 +17,7 @@ permalink: /compare-icbt-depression-apps
 
 [Wysa]: <https://www.wysa.io/>
 [Happify]: <http://www.happify.com/>
-[UpLift]: <http://run.uplift.app/intro?utm_source=blog/>
+[UpLift]: <http://uplift.app?utm_source=blog/>
 [Youper]: <https://www.youper.ai/>
 [BetterHelp]: <https://www.betterhelp.com/>
 [Talkspace]: <https://www.talkspace.com/>
@@ -127,7 +127,7 @@ While most depression apps lack scientific backing, there are a few quality opti
 
 However, do first consider more traditional forms of care such as in-person therapy, particularly if you have severe depression, bipolar disorder, suicidal thoughts, or believe your depression symptoms have a physical cause.
 
-To give a depression app a try, receive the first session and tool of UpLift for free. [Get started here](http://run.uplift.app?utm_source=blog).
+To give a depression app a try, receive the first session and tool of UpLift for free. [Get started here](http://uplift.app?utm_source=blog).
 
 {% include call_to_action.html %}
 

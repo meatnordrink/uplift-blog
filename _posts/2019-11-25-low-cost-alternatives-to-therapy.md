@@ -20,7 +20,7 @@ There are several ways you might be able to get in-person therapy at significant
   - **Universities**. Check colleges or universities in your area. Many will have "Training Centers" for programs in Counseling or Clinical Psychology, where students will offer therapy at highly reduced rates. These students will be in training, but supervised by qualified and licensed professors and/or therapists.
   - **Charitable or Religious Organizations**. If you're connected to any charitable or religious organizations, check if they have a list of referrals for low-cost mental health care. Sometimes religious organizations may even provide these services themselves, to their members.
   - **County Mental-Health Centers**. County-level mental health centers will have lists of available low-cost mental health services. You can find the contact info for these centers by searching the internet for them in your area, or looking at [your state's Department of Human Services (DHS) website](http://healthfinder.gov/FindServices/SearchOrgType.aspx?OrgTypeID=8).
-  - **Call 211**. By calling 211, the most comprehensive source of locally curated social services information in the US and most of Canada, you can likely speak to someone who is knowledgable about low-cost mental health services in your area.
+  - **Call 211**. By calling 211, the most comprehensive source of locally curated social services information in the US and most of Canada, you can likely speak to someone who is knowledgeable about low-cost mental health services in your area.
 
 ## Group Therapy
 ![group therapy](https://1317562338.rsc.cdn77.org/images/getHelp/YRjUn5N.jpg)
@@ -83,7 +83,7 @@ Cons:
 Two of the main companies offering this service are BetterHelp and Talkspace.
 
   - **[BetterHelp](https://www.BetterHelp.com)** offers subscriptions with various combinations of text/phone/video messaging and live text/phone/video sessions, with pricing ranging from $40-$70/week. Read the fine print before signing up, as you may be billed automatically for the first month when BetterHelp's free trial ends.
-  - **[Talkspace](https://www.talkspace.com)** allows you to send text, audio, or video to your therapist (so you could take a video of yourself talking). They offer three different subscription levels, which vary by how many live sessions they include. The cheapest option, for around $65/week, has no live sessions; For around $100/week, you get four live video sessions per month. Talkspace has partnerships with some employers and healthplans to offer it free; you can check if your company or health plan is included [here](https://www.talkspace.com/partners).
+  - **[Talkspace](https://www.talkspace.com)** allows you to send text, audio, or video to your therapist (so you could take a video of yourself talking). They offer three different subscription levels, which vary by how many live sessions they include. The cheapest option, for around $65/week, has no live sessions; For around $100/week, you get four live video sessions per month. Talkspace has partnerships with some employers and health plans to offer it free; you can check if your company or health plan is included [here](https://www.talkspace.com/partners).
 
 ## Social Networking Apps
 Unfortunately, several attempts at creating social-networking apps specifically for depression have recently shut down. Here are a few alternatives; you can also check out online support groups under the "Support Groups" section.
@@ -109,7 +109,7 @@ While traditional face-to-face therapy can be pricey, there are many alternative
 
 [Wysa]: <https://www.wysa.io/>
 [Happify]: <http://www.happify.com/>
-[UpLift]: <http://run.uplift.app/intro?utm_source=blog/>
+[UpLift]: <http://uplift.app?utm_source=blog/>
 [Youper]: <https://www.youper.ai/>
 [Sanvello]: <https://www.sanvello.com/>
 [Headspace]: <https://www.headspace.com/>

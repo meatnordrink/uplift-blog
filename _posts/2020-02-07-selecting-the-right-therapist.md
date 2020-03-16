@@ -40,7 +40,7 @@ Counseling and coaching may certainly be useful in a person's life, but you shou
 ## Think about what you want in a therapist
 Who would you be most comfortable with? Would you prefer to see a therapist of a certain gender/ethnicity/sexual orientation? Remember that you need to be at ease with this person. If there are certain kinds of people you tend to be more comfortable around, it's okay to be picky.
 
-What do you hope to accomplish? Before you interview therapists, try to write down, as clearly and concretely as possible, what you're hoping to accomplish. This will be useful in explaining your goals to therapists, so that _they_ can explain exactly how they think they can help you achieve them.
+What do you hope to accomplish? Before you interview therapists, try to write down, as clearly and concretely as possible, what you're hoping to accomplish. This will be useful in explaining your goals to therapists, so that they can explain exactly how they think they can help you achieve them.
 
 ## Read reviews or ask around
 It can be helpful to read reviews of therapists before or after interviewing them; you can keep an eye out for problems others have mentioned, or if something strikes you as a warning sign, you may be able to verify if it became an issue for other people.
@@ -62,7 +62,7 @@ Most therapists will do a quick 10-15 minute phone or in-person consult before t
 
 If all else fails, you can always ask your questions on the first visit—and if you don't like the answers, be prepared to find another therapist.
 
-You may have to wait awhile before a therapist you're interested in has an opening (up to a couple months, if they're popular). It’s entirely appropriate to schedule first appointments with several therapists so you don’t have to start the process all over again if your first therapist isn’t a good match. Once you've found someone you like, you can cancel the other appointments.
+You may have to wait a while before a therapist you're interested in has an opening (up to a couple months, if they're popular). It’s entirely appropriate to schedule first appointments with several therapists so you don’t have to start the process all over again if your first therapist isn’t a good match. Once you've found someone you like, you can cancel the other appointments.
 
 Here are some important questions to ask.
   - **What their general philosophy and approach is.** Just hearing the therapist talk about how they approach their work can help you get a feel for whether you're comfortable with them or not.
@@ -76,7 +76,7 @@ Here are some important questions to ask.
 
 There _is_ such a thing as a quack therapist. Watch out for:
   - **Therapists advertising "miracle cures" or "spiritual transformations."** Therapy can be very helpful, but it isn't usually miraculous. Anyone advertising it as such is probably unscrupulous.
-  - **Therapists who try to get you to pay up-front for a certain number of sessions, or to sign a contract for a program.** While therapy usually takes a series of sessions, and therapists may ask you to _mentally_ prepare for a series of visits, it's not a good idea to pay for multiple sessions in advance.
+  - **Therapists who try to get you to pay up-front for a certain number of sessions, or to sign a contract for a program.** While therapy usually takes a series of sessions, and therapists may ask you to mentally prepare for a series of visits, it's not a good idea to pay for multiple sessions in advance.
   - **Therapists who try to intimidate you or make you uncomfortable.** The therapist is your partner in this therapy, not your boss.
 
 There are also plenty of good therapists who may simply not be a good fit for you. Watch out for anyone who:
@@ -98,5 +98,4 @@ If you don't feel comfortable with the therapist during your interview, even if 
 
 If you're just uncomfortable with the idea of therapy, you may not like any therapist you meet at first. You may need to first [conquer worry or stigma around going to therapy](https://blog.uplift.app/therapy-stigma)
 
-
-<!--Once you've found someone, review these [tips for preparing for your first appointment](https://blog.uplift.app/preparing-for-your-first-therapy-appointment).-->
+Once you've found someone, review these [tips for preparing for your first appointment](https://blog.uplift.app/preparing-for-your-first-therapy-appointment).
