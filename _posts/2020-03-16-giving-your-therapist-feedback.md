@@ -16,7 +16,7 @@ Research has shown that giving your therapist feedback can significantly increas
 If you're just beginning, it's good to establish practices that work for you early. If it's someone you've been seeing for a while, it's all the more worthwhile to preserve the relationship you've built by keeping it open and honest about what works for you.
 
 ## What to Share with Your Therapist
-Your therapist may already have a time and method for you to give feedback. If not, here are some things that might be productive to share with your therapist.
+Your therapist may already have a time and method for you to give feedback. If not, here are some things to ask yourself that might lead to productive topics to bring up with your therapist.
 - How do you feel about the progress of your therapy, and the issues you initially came to therapy to address?
 - How do you feel about the therapist's performance? (e.g., Do they listen well? Do they explain themselves clearly? Do they arrive to your appointments on time?)
 - How do you feel about your relationship to your therapist? (e.g. Do you feel comfortable and safe sharing? Do you feel judged? How do you deal with disagreements?)
@@ -46,7 +46,6 @@ Giving feedback isn't a contest to be won, or an opportunity to reassert yoursel
 You both want your well-being to improve. Giving feedback is about communicating honestly and openly about the best way for that to happen.
 
 ## What if my relationship with my therapist is really going downhill?
-
 If a once-positive relationship with a therapist has soured, and giving feedback hasn't helped, you may wish to consider **consultation.** This is when you and your therapist invite another therapist to sit in on your sessions. This therapist can provide a neutral viewpoint and fresh perspectives, working towards a position you can both feel good about.
 
 It may be tempting to simply abandon a soured relationship with a therapist, but there are good reasons to put some effort into salvaging it, if the relationship was good before. You've both put time and effort into developing an understanding of your unique situation, and built up a relationship and rapport that will take time to build with a new therapist.
@@ -54,4 +53,4 @@ It may be tempting to simply abandon a soured relationship with a therapist, but
 ## Summary
 If you don't see improvement after feedback or consultation, you should certainly find a new therapist. Sometimes therapists aren't the right fit any more, even if they were at one time.
 
-Therapists are evolving and changing people with their own issues; if you and your therapist really just no longer match well, it's time to move on.
+Therapists are evolving and changing people with their own issues; if you and your therapist really just no longer match well, it may be time to move on.
