@@ -51,5 +51,6 @@ NEEDS
 - Do additional keyword research and SEO strategy
 - Promotion strategy
 - A page to enter your info to download the eBook. User enters an email address to get it.
+	- Something simple like this: https://offers.hubspot.com/blog-post-templates?hubs_post-cta=author&_ga=2.190760104.2024673695.1585137780-290815506.1585137780
 - A page with the link to download the ebook
 		- https://info.townsendsecurity.com/thank-you-ebook-definitive-guide-to-encryption-key-management-fundamentals?submissionGuid=cea8b71b-8032-4ed1-96bb-059e9ec9bc06

@@ -1,30 +1,35 @@
 ---
 layout: post
-title:  "Selecting the Right Therapist"
+title:  "Tips for Selecting the Right Therapist"
 author: andrew
 tags: []
 image: assets/images/interviewing_therapist.jpg
-description: "It's important to find a therapist that works for you. Here's how to make the process a success."
+description: "It's helpful to find a therapist you're compatible with. Here's how to make the process a success."
 featured: true
 hidden: false
 comments: false
 permalink: /selecting-the-right-therapist
 ---
 
-It's important to find a therapist that works for you, and this process may take time. Here are some suggestions on how to make the process a success.
+Selecting a therapist you’re comfortable with can make a big difference, and this process may take time. Here are some tips for finding a therapist you’re compatible with.
 
-- [Look at several therapists before choosing one](#look-at-several-therapists-before-choosing-one)
-- [Understand their qualifications](#understand-their-qualifications)
 - [Think about what you want in a therapist](#think-about-what-you-want-in-a-therapist)
+- [Consider several therapists before choosing one](#look-at-several-therapists-before-choosing-one)
+- [Understand their qualifications](#understand-their-qualifications)
 - [Read reviews or ask around](#read-reviews-or-ask-around)
 - [Interview the therapists](#interview-the-therapists)
 - [Watch out for warning signs](#watch-out-for-warning-signs)
 - [Find someone you're comfortable with](#find-someone-youre-comfortable-with)
 
-## Look at several therapists before choosing one
+## Think about what you want in a therapist
+Who would you be most comfortable with? Would you prefer to see a therapist of a certain gender/ethnicity/sexual orientation? Remember that you need to be at ease with this person. If there are certain kinds of people you tend to be more comfortable around, it's okay to be picky.
+
+What do you hope to accomplish? Before you interview therapists, try to write down, as clearly and concretely as possible, what you're hoping to accomplish. This will be useful in explaining your goals to therapists, so that they can explain exactly how they think they can help you achieve them.
+
+## Consider several therapists before choosing one
 Get a few good candidates from [online directories of therapists](https://blog.uplift.app/directories-to-find-a-therapist), recommendations from friends, family, or a religious institution, or an Employee Assistance Program at work, if your employer has one.
 
-It's good to find several therapists who might be a good fit so that you can compare them and find someone who you could work well with.
+It can be helpful to find several therapists who might be a good fit so that you can compare them and find someone who you could work well with.
 
 ## Understand their qualifications
 There are many different kinds of therapists. To legally be called a therapist and practice therapy, a therapist must have at least a master's degree in their field.
@@ -37,13 +42,8 @@ Some people may offer therapy without these qualifications; they may call it cou
 
 Counseling and coaching may certainly be useful in a person's life, but you should know which you're getting. If you're unsure what your therapist's qualifications are, ask them, or [view a list of common therapist credentials](https://blog.uplift.app/therapist-credentials).
 
-## Think about what you want in a therapist
-Who would you be most comfortable with? Would you prefer to see a therapist of a certain gender/ethnicity/sexual orientation? Remember that you need to be at ease with this person. If there are certain kinds of people you tend to be more comfortable around, it's okay to be picky.
-
-What do you hope to accomplish? Before you interview therapists, try to write down, as clearly and concretely as possible, what you're hoping to accomplish. This will be useful in explaining your goals to therapists, so that they can explain exactly how they think they can help you achieve them.
-
 ## Read reviews or ask around
-It can be helpful to read reviews of therapists before or after interviewing them; you can keep an eye out for problems others have mentioned, or if something strikes you as a warning sign, you may be able to verify if it became an issue for other people.
+It can be helpful to read reviews of therapists before or after talking with them; you can keep an eye out for problems others have mentioned, or if something strikes you as a warning sign, you may be able to verify if it became an issue for other people.
 
 Of course, reviews can be abused, and everyone's looking for something different in a therapist, so it's wise to take what you read with a grain of salt.
 
@@ -60,11 +60,11 @@ To decide which therapist is right for you, it's important to talk with the ther
 
 Most therapists will do a quick 10-15 minute phone or in-person consult before the first session. If that's not possible, send your questions by email.
 
-If all else fails, you can always ask your questions on the first visit—and if you don't like the answers, be prepared to find another therapist.
+If all else fails, you can always ask your questions on the first visit—and if you don't like the answers, you can try another therapist.
 
 You may have to wait a while before a therapist you're interested in has an opening (up to a couple months, if they're popular). It’s entirely appropriate to schedule first appointments with several therapists so you don’t have to start the process all over again if your first therapist isn’t a good match. Once you've found someone you like, you can cancel the other appointments.
 
-Here are some important questions to ask.
+Here are some questions you can ask.
   - **What their general philosophy and approach is.** Just hearing the therapist talk about how they approach their work can help you get a feel for whether you're comfortable with them or not.
   - **What methods they use.** [Different methods of therapy](https://blog.uplift.app/types-of-therapy) have different levels of evidence behind them. You have the right to be selective, and whatever method you choose, make sure that your therapist outlines their approach for you, and that it's something you think could be helpful.
   - **How they handle conflict.** Being able to handle conflict well has been linked to better outcomes in therapy.
