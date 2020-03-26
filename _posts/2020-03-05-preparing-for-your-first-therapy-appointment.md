@@ -45,9 +45,7 @@ They may discuss possible medications with you.
 Different therapists have different styles. Some may ask more about your background, some may ask about your current situation, and others may simply listen to what you have to say.
 
 ## What should I tell the therapist?
-If you haven't had a pre-session consultation, then this is your first opportunity to interview your therapist to decide if they're a good fit.
-
-**[Learn what interview questions to ask and how to assess whether a therapist is a good fit for you](https://blog.uplift.app/selecting-the-right-therapist#interview-the-therapists).**
+If you haven't had a pre-session consultation, then this is your first opportunity to interview your therapist. **[Learn what interview questions to ask when assessing whether a therapist is a good fit for you](https://blog.uplift.app/selecting-the-right-therapist#interview-the-therapists).**
 
 **Share a bit about you**
 In addition, be upfront with your therapist about:
