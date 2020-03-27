@@ -11,9 +11,9 @@ comments: false
 permalink: /find-a-therapist-ultimate-guide
 ---
 
+Overall, [42%](https://www.barna.com/research/americans-feel-good-counseling/) of people in the US have seen a counselor, either now or in the past. Most people are open to going to therapy, and [80%](http://www.apa.org/monitor/julaug04/survey.aspx) of those who have gone have found it effective.
 
-
-Brief blurb here
+With all the positives therapy can bring, getting started can be difficult. Navigating cost and insurance, and finding someone you're compatible with, can be challenging. This guide can help you at every stage of finding quality mental healthcare, helping you save time, money, and hassle.
 
 Shortcuts:
 - [Types of Therapy](#types-of-therapy)
@@ -24,7 +24,7 @@ Shortcuts:
 - [Preparing for Your First Therapy Appointment](#preparing-for-your-first-therapy-appointment)
 - [Conquering Stigma Around Seeing a Therapist](#conquering-stigma-around-seeing-a-therapist)
 
-Click here to view this eBook offline
+**Want to view this guide offline or as a PDF?**
 (image, big download)
 
 
