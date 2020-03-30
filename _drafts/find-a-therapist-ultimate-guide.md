@@ -24,8 +24,8 @@ With all the positives therapy can bring, getting started can be difficult. Navi
 - [Preparing for Your First Therapy Appointment](#preparing-for-your-first-therapy-appointment)
 - [Conquering Stigma Around Seeing a Therapist](#conquering-stigma-around-seeing-a-therapist)
 
-**Want to view this guide offline or as a PDF?**
-![ultimate guide to finding therapy banner download](https://blog.uplift.app/assets/images/find_a_therapist_banner.png)[1]
+Want to view this guide offline or as a PDF?
+[![ultimate guide to finding therapy banner download][2]][1]
 
 
 ![therapist and client](https://blog.uplift.app/assets/images/types_of_therapy.png)
@@ -264,7 +264,7 @@ Read more tips for [comparing mental health apps here](https://blog.uplift.app/c
 ## Summary
 While traditional face-to-face therapy can be pricey, there are many alternatives out there that can nevertheless provide relief. From [group therapy](https://groups.psychologytoday.com/rms/), to [depression apps](https://blog.uplift.app/compare-icbt-depression-apps), to a combination of efforts, you _can_ and _deserve_ to feel better.
 
-![ultimate guide to finding therapy image download](https://blog.uplift.app/assets/images/find_a_therapist_sideAd.png)[1]
+[![ultimate guide to finding therapy banner download][3]][1]
 
 [Back to top](#shortcuts)
 
@@ -484,7 +484,7 @@ Some people do stay in therapy for years, because they find that it's a part of 
 In a given year, around one in every four people experience a mental health issue. Seeking treatment doesn't mean you're unique because you're affected by a mental health issue; it means you're unique because you're _doing_ something about it.
 
 **Get this guide as a PDF**
-![ultimate guide to finding therapy banner download](https://blog.uplift.app/assets/images/find_a_therapist_banner.png)[1]
+[![ultimate guide to finding therapy banner download][2]][1]
 
 
 <div class='grey_box'>
@@ -505,4 +505,6 @@ Outside of the US:
 </ul>
 </div>
 
-[1]:  https://blog.uplift.app/download
+[1]: https://blog.uplift.app/download
+[2]: https://blog.uplift.app/assets/images/find_a_therapist_banner.png
+[3]: https://blog.uplift.app/assets/images/find_a_therapist_sideAd.png
