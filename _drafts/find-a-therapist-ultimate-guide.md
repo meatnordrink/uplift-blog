@@ -15,7 +15,7 @@ Overall, [42%](https://www.barna.com/research/americans-feel-good-counseling/) o
 
 With all the positives therapy can bring, getting started can be difficult. Navigating cost and insurance, and finding someone you're compatible with, can be challenging. This guide can help you at every stage of finding quality mental healthcare, helping you save time, money, and hassle.
 
-Shortcuts:
+##### Shortcuts:
 - [Types of Therapy](#types-of-therapy)
 - [How to Pay for Therapy and Deal with Insurance](#how-to-pay-for-therapy-and-deal-with-insurance)
 - [Low-Cost Alternatives to Therapy](#low-cost-alternatives-to-therapy)
@@ -25,8 +25,7 @@ Shortcuts:
 - [Conquering Stigma Around Seeing a Therapist](#conquering-stigma-around-seeing-a-therapist)
 
 **Want to view this guide offline or as a PDF?**
-(image, big download)
-
+![ultimate guide to finding therapy banner download](https://blog.uplift.app/assets/images/find_a_therapist_banner.png)[1]
 
 
 ![therapist and client](https://blog.uplift.app/assets/images/types_of_therapy.png)
@@ -81,6 +80,7 @@ Psychoanalysis focuses on:
 
 The term "psychodynamic therapy" is basically a more modern term for psychoanalysis.
 
+[Back to top](#shortcuts)
 
 ![paying for therapy](https://blog.uplift.app/assets/images/How_to_pay.png)
 # How to Pay for Therapy and Deal with Insurance
@@ -169,6 +169,7 @@ If you've been feeling down, it's worth it to explore your options for feeling b
 
 Besides the health benefits, high wellbeing is a desirable state in its own right. If the above options don't work, don't give up! Check out "Low-Cost Alternatives to Therapy", up next, for more ideas.
 
+[Back to top](#shortcuts)
 
 ![helping hands for affording therapy](https://blog.uplift.app/assets/images/alternative_pay.png)
 # Low-Cost Alternatives to Therapy
@@ -263,6 +264,9 @@ Read more tips for [comparing mental health apps here](https://blog.uplift.app/c
 ## Summary
 While traditional face-to-face therapy can be pricey, there are many alternatives out there that can nevertheless provide relief. From [group therapy](https://groups.psychologytoday.com/rms/), to [depression apps](https://blog.uplift.app/compare-icbt-depression-apps), to a combination of efforts, you _can_ and _deserve_ to feel better.
 
+![ultimate guide to finding therapy image download](https://blog.uplift.app/assets/images/find_a_therapist_sideAd.png)[1]
+
+[Back to top](#shortcuts)
 
 ![therapist near me computer search](https://blog.uplift.app/assets/images/Therapist_Directories.png)
 # Directories of Therapists
@@ -277,6 +281,7 @@ You can also ask your doctor for a referral. They likely know the therapists ava
 - **[The Association for Behavioral and Cognitive Therapies](http://www.findcbt.org/xFAT/index.cfm)** likewise lists therapists who are CBT-practicing members of its organization.
 - **[SAMSHA.gov](https://findtreatment.samhsa.gov)** lists mental-healthcare providers maintained by the Substance Abuse and Mental Health Services Administration. The list is quite broad, and has everything from psychiatrists to substance-abuse clinics. It also provides information about whether most providers accept Medicaid. They also offer this information via phone: 1-800-662-HELP (4357).
 
+[Back to top](#shortcuts)
 
 ![therapist and client mismatch](https://blog.uplift.app/assets/images/selecting_therapist.png)
 # Tips for Selecting the Right Therapist
@@ -332,7 +337,6 @@ Here are some questions you can ask.
   - **How they handle conflict.** Being able to handle conflict well has been linked to better outcomes in therapy.
   - **Discuss payment.** if you haven't already. While therapy is important and may be worth economic sacrifices, you should make sure you know exactly what you're getting into financially. If it's going to be more than you can afford, it's best to find out now and explore [ways to pay for therapy](#how-to-pay-for-therapy-and-deal-with-insurance), rather than creating stress by getting into debt.
 
-
 ## Watch out for warning signs
 
 There _is_ such a thing as a quack therapist. Watch out for:
@@ -359,6 +363,7 @@ If you don't feel comfortable with the therapist during your interview, even if 
 
 If you're just uncomfortable with the idea of therapy, you may not like any therapist you meet at first. You may need to first [conquer worry or stigma around going to therapy](#conquering-stigma-around-seeing-a-therapist).
 
+[Back to top](#shortcuts)
 
 ![writing worrisome thoughts in journal](https://blog.uplift.app/assets/images/preparing_for_therapy.png)
 # Preparing for Your First Therapy Appointment
@@ -436,6 +441,7 @@ Your therapist is an expert in their field, but you are the foremost expert on y
 
 You'll get the most out of your session if you approach it with an open mind, energy, and forethought.
 
+[Back to top](#shortcuts)
 
 ![strong female boxer despite fingers pointing and criticizing](https://blog.uplift.app/assets/images/fighting_stigma.png)
 # Conquering Stigma Around Seeing a Therapist
@@ -476,3 +482,27 @@ Some people do stay in therapy for years, because they find that it's a part of 
 
 ## Summary
 In a given year, around one in every four people experience a mental health issue. Seeking treatment doesn't mean you're unique because you're affected by a mental health issue; it means you're unique because you're _doing_ something about it.
+
+**Get this guide as a PDF**
+![ultimate guide to finding therapy banner download](https://blog.uplift.app/assets/images/find_a_therapist_banner.png)[1]
+
+
+<div class='grey_box'>
+
+<strong>If you're having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone.</strong>
+
+In the US:
+<ul>
+  <li>Call 1-800-273-8255; it’s the number for the <a href="http://www.suicidepreventionlifeline.org">National Suicide Prevention Lifeline.</a></li>
+  <li>Text START to 741741, the <a href="http://www.crisistextline.org/">Crisis Text Line.</a></li>
+  <li>Download the <a href="https://my3app.org/">MY3</a> app to plan a way to stay safe when you’re having thoughts of suicide.</li>
+  <li>For emergencies call 911. </li>
+</ul>
+Outside of the US:
+<ul>
+  <li>Visit <a href="http://befrienders.org">Befrienders Worldwide</a> for hotlines and other resources available throughout the world.</li>
+  <li>Use your local emergency services.</li>
+</ul>
+</div>
+
+[1]:  https://blog.uplift.app/download

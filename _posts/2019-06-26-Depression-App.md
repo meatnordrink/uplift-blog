@@ -133,7 +133,7 @@ To give a depression app a try, receive the first session and tool of UpLift for
 
 <div class='grey_box'>
 
-<strong>For those having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone.</strong>
+<strong>If you're having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone.</strong>
 
 In the US:
 <ul>
