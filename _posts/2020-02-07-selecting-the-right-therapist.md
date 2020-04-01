@@ -8,7 +8,7 @@ description: "It's helpful to find a therapist you're compatible with. Here's ho
 featured: true
 hidden: false
 comments: false
-permalink: selecting-the-right-therapist
+permalink: /blog/selecting-the-right-therapist
 ---
 
 Selecting a therapist you’re comfortable with can make a big difference, and this process may take time. Here are some tips for finding a therapist you’re compatible with.
