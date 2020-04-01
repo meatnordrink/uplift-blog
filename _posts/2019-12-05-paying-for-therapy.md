@@ -10,7 +10,7 @@ hidden: false
 comments: false
 permalink: /paying-for-therapy
 ---
-_See also, ["Low-Cost Alternatives to Therapy"](https://blog.uplift.app/low-cost-alternatives-to-therapy) for additional options._
+_See also, ["Low-Cost Alternatives to Therapy"](https://www.uplift.app/blog/low-cost-alternatives-to-therapy) for additional options._
 
 Paying for therapy is one of the biggest obstacles for many people. In the US, a single session of in-person therapy can cost anywhere from $60-$300, though the average is closer to between $80-$120. If this is more than you can afford, don't give up yet! Whether you have insurance or not, there are many options to explore that may help you pay for therapy.
 
@@ -50,7 +50,7 @@ Ask therapists if they work with Medicare clients, or if they're willing to. You
 Medicare also pays for one depression screening per year from your primary care physician.
 
 ## Other Ways to Pay
-![truck stacking money](http://blog.uplift.app/assets/images/truck-stacking-money_shutterstock_618642809.jpg)
+![truck stacking money](http://www.uplift.app/blog/assets/images/truck-stacking-money_shutterstock_618642809.jpg)
 
 There are a number of options besides insurance for getting help paying for therapy.
 
@@ -95,4 +95,4 @@ If you need help applying for insurance, try one of these:
 ## Summary
 If you've been feeling down, it's worth it to explore your options for feeling better. Quality mental health care is an expense that pays off in the long-run. With greater wellbeing comes greater strength in old age, fewer heart issues, faster recovery after a major medical event, and a longer life.
 
-Besides the health benefits, high wellbeing is a desirable state in its own right. If the above options don't work, don't give up! Check out ["Low-Cost Alternatives to Therapy"](https://blog.uplift.app/low-cost-alternatives-to-therapy) for more ideas.
+Besides the health benefits, high wellbeing is a desirable state in its own right. If the above options don't work, don't give up! Check out ["Low-Cost Alternatives to Therapy"](https://www.uplift.app/blog/low-cost-alternatives-to-therapy) for more ideas.

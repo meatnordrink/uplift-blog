@@ -11,7 +11,7 @@ comments: false
 permalink: /low-cost-alternatives-to-therapy
 ---
 
-_See also, ["How to Pay for Therapy and Deal with Insurance"](https://blog.uplift.app/paying-for-therapy) for ways to find help paying for therapy._
+_See also, ["How to Pay for Therapy and Deal with Insurance"](https://www.uplift.app/blog/paying-for-therapy) for ways to find help paying for therapy._
 
 Paying for therapy is one of the biggest obstacles for many people. In the US, a single session of in-person therapy can cost anywhere from $60-$300, though the average is closer to between $80-$120. If this is more than you can afford, don't give up yet! Below is a list of more affordable alternatives to standard in-person therapy.
 
@@ -91,7 +91,7 @@ Unfortunately, several attempts at creating social-networking apps specifically 
   - **[Elevatr](http://www.elevatr.com)** This is a smartphone app designed to create a safe space to express issues and challenges relating to mental health, for both those struggling with mental health challenges and those supporting them in their struggles. Elevatr's unique feature is 'expert verified answers.' A team of doctors and therapists verify user-provided answers, to make sure that the information within is medically correct. (For example, if someone asks about the side effects of an anti-depressant, one of the doctors or therapists will verify whatever answers the user receives for medical accuracy.)
 
 ## Mental Health Apps
-While most mental health apps lack scientific backing, there are a few quality options out there. For example, programs based on [Cognitive Behavioral Therapy](https://blog.uplift.app/what-is-cognitive-behavioral-therapy) have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy for depression.
+While most mental health apps lack scientific backing, there are a few quality options out there. For example, programs based on [Cognitive Behavioral Therapy](https://www.uplift.app/blog/what-is-cognitive-behavioral-therapy) have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy for depression.
 
 Mental health apps vary widely in their techniques. Costs vary depending on the quality and comprehensiveness of the content offered, from free to about $40/month. Some offer a complete course that mirrors traditional therapy, while others offer a chatbot or individual tools. Here are a few examples:
   - **Complete Cognitive Behavioral Therapy course**: Modify your thoughts and behaviors in ways that reduce negative moods and increase wellbeing. Example: [UpLift]
@@ -100,10 +100,10 @@ Mental health apps vary widely in their techniques. Costs vary depending on the 
   - **Mood trackers/thought diaries**: Track your moods to better notice patterns in your ups and downs. Examples: [Moodnotes] and [MoodTools]
   - **Other**: Well-being techniques and goal setting. Examples: [Happify] and [SuperBetter]
 
-Read more tips for [comparing mental health apps here](https://blog.uplift.app/compare-icbt-depression-apps).
+Read more tips for [comparing mental health apps here](https://www.uplift.app/blog/compare-icbt-depression-apps).
 
 ## Summary
-While traditional face-to-face therapy can be pricey, there are many alternatives out there that can nevertheless provide relief. From [group therapy](https://groups.psychologytoday.com/rms/), to [depression apps](https://blog.uplift.app/compare-icbt-depression-apps), to a combination of efforts, you _can_ and _deserve_ to feel better.
+While traditional face-to-face therapy can be pricey, there are many alternatives out there that can nevertheless provide relief. From [group therapy](https://groups.psychologytoday.com/rms/), to [depression apps](https://www.uplift.app/blog/compare-icbt-depression-apps), to a combination of efforts, you _can_ and _deserve_ to feel better.
 
 
 [Wysa]: <https://www.wysa.io/>

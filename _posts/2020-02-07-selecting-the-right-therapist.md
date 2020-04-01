@@ -27,7 +27,7 @@ Who would you be most comfortable with? Would you prefer to see a therapist of a
 What do you hope to accomplish? Before you interview therapists, try to write down, as clearly and concretely as possible, what you're hoping to accomplish. This will be useful in explaining your goals to therapists, so that they can explain exactly how they think they can help you achieve them.
 
 ## Consider several therapists before choosing one
-Get a few good candidates from [online directories of therapists](https://blog.uplift.app/directories-to-find-a-therapist), recommendations from friends, family, or a religious institution, or an Employee Assistance Program at work, if your employer has one.
+Get a few good candidates from [online directories of therapists](https://www.uplift.app/blog/directories-to-find-a-therapist), recommendations from friends, family, or a religious institution, or an Employee Assistance Program at work, if your employer has one.
 
 It can be helpful to find several therapists who might be a good fit so that you can compare them and find someone who you could work well with.
 
@@ -40,7 +40,7 @@ All of these professionals are qualified to practice therapy. The difference bet
 
 Some people may offer therapy without these qualifications; they may call it counseling, or coaching. Be aware that this is not the same as therapy. Therapy is medical care delivered by a licensed professional with extensive education and training.
 
-Counseling and coaching may certainly be useful in a person's life, but you should know which you're getting. If you're unsure what your therapist's qualifications are, ask them, or [view a list of common therapist credentials](https://blog.uplift.app/therapist-credentials).
+Counseling and coaching may certainly be useful in a person's life, but you should know which you're getting. If you're unsure what your therapist's qualifications are, ask them, or [view a list of common therapist credentials](https://www.uplift.app/blog/therapist-credentials).
 
 ## Read reviews or ask around
 It can be helpful to read reviews of therapists before or after talking with them; you can keep an eye out for problems others have mentioned, or if something strikes you as a warning sign, you may be able to verify if it became an issue for other people.
@@ -66,13 +66,13 @@ You may have to wait a while before a therapist you're interested in has an open
 
 Here are some questions you can ask.
   - **What their general philosophy and approach is.** Just hearing the therapist talk about how they approach their work can help you get a feel for whether you're comfortable with them or not.
-  - **What methods they use.** [Different methods of therapy](https://blog.uplift.app/types-of-therapy) have different levels of evidence behind them. You have the right to be selective, and whatever method you choose, make sure that your therapist outlines their approach for you, and that it's something you think could be helpful.
+  - **What methods they use.** [Different methods of therapy](https://www.uplift.app/blog/types-of-therapy) have different levels of evidence behind them. You have the right to be selective, and whatever method you choose, make sure that your therapist outlines their approach for you, and that it's something you think could be helpful.
   - **How they handle conflict.** Being able to handle conflict well has been linked to better outcomes in therapy.
-  - **Discuss payment.** if you haven't already. While therapy is important and may be worth economic sacrifices, you should make sure you know exactly what you're getting into financially. If it's going to be more than you can afford, it's best to find out now and explore [ways to pay for therapy](https://blog.uplift.app/paying-for-therapy), rather than creating stress by getting into debt.
+  - **Discuss payment.** if you haven't already. While therapy is important and may be worth economic sacrifices, you should make sure you know exactly what you're getting into financially. If it's going to be more than you can afford, it's best to find out now and explore [ways to pay for therapy](https://www.uplift.app/blog/paying-for-therapy), rather than creating stress by getting into debt.
 
 
 ## Watch out for warning signs
-![warning sign on door](http://blog.uplift.app/assets/images/therapist-warning-sign.jpg)
+![warning sign on door](http://www.uplift.app/blog/assets/images/therapist-warning-sign.jpg)
 
 There _is_ such a thing as a quack therapist. Watch out for:
   - **Therapists advertising "miracle cures" or "spiritual transformations."** Therapy can be very helpful, but it isn't usually miraculous. Anyone advertising it as such is probably unscrupulous.
@@ -81,7 +81,7 @@ There _is_ such a thing as a quack therapist. Watch out for:
 
 There are also plenty of good therapists who may simply not be a good fit for you. Watch out for anyone who:
   - **You feel uneasy with.** Trust your gut. Whether it's right or wrong, if you don't feel comfortable, the therapy won't be productive.
-  - **Doesn't seem to be listening to you.** The therapist needs to learn about you in order to help you. If they're not listening to you, they're not doing that. However, this doesn't mean that you should expect the therapist to just listen quietly while you go on for hours about whatever comes to mind. Particularly in [Cognitive Behavioral Therapy](https://blog.uplift.app/what-is-cognitive-behavioral-therapy), the therapist will try to keep the discussion to useful topics, and may ask you challenging questions. This is good. Appearing uninterested in you or your struggles is not.
+  - **Doesn't seem to be listening to you.** The therapist needs to learn about you in order to help you. If they're not listening to you, they're not doing that. However, this doesn't mean that you should expect the therapist to just listen quietly while you go on for hours about whatever comes to mind. Particularly in [Cognitive Behavioral Therapy](https://www.uplift.app/blog/what-is-cognitive-behavioral-therapy), the therapist will try to keep the discussion to useful topics, and may ask you challenging questions. This is good. Appearing uninterested in you or your struggles is not.
   - **Spends more time talking about themselves than listening to you.** While the occasional reference to their own life may be helpful, a therapist more interested in telling you about themselves than helping you won't be of much use.
   - **Doesn’t agree with your goals for treatment** Over time a therapist may suggest other things you could work on, but studies have shown a strong correlation between how much the client and therapist agree on goals for treatment and how much progress the client makes in therapy.
   - **Makes you feel judged, shamed, or emotionally unsafe** While it _is_ a therapist's place to challenge your thoughts and perceptions, it is not their place to make you feel judged or ashamed. If you feel this way, the therapy won't be productive, and they're not a good fit.
@@ -96,6 +96,6 @@ Studies have shown a consistent correlation between how comfortable the client i
 
 If you don't feel comfortable with the therapist during your interview, even if you can't say exactly why, they're probably not a good fit for you. (Of course, you should make sure you're not confusing discomfort with _therapy_ with discomfort with a particular therapist.)
 
-If you're just uncomfortable with the idea of therapy, you may not like any therapist you meet at first. You may need to first [conquer worry or stigma around going to therapy](https://blog.uplift.app/therapy-stigma)
+If you're just uncomfortable with the idea of therapy, you may not like any therapist you meet at first. You may need to first [conquer worry or stigma around going to therapy](https://www.uplift.app/blog/therapy-stigma)
 
-Once you've found someone, review these [tips for preparing for your first appointment](https://blog.uplift.app/preparing-for-your-first-therapy-appointment).
+Once you've found someone, review these [tips for preparing for your first appointment](https://www.uplift.app/blog/preparing-for-your-first-therapy-appointment).

@@ -23,7 +23,7 @@ CBT is largely focused on the present, as opposed to the past. It has the follow
 - **CBT uses 'homework.'** Because CBT is about teaching the _client_ skills, rather than relying on the skills of the therapist, CBT utilizes extensive out-of-session assignments, asking the client to apply and practice concepts and follow through on plans made in-session.
 - **CBT is short.** Compared to other therapies, CBT is usually remarkably short, usually between 10 and 20 sessions. This is partly because of CBT's goal and skill-oriented nature, and partly because of its reliance on homework.
 - **CBT believes healthier habits can be learned.** CBT follows the principle that behaviors, thoughts, and emotional responses are learned, and therefore, healthier methods can be learned through specific techniques and activities.
-- **CBT is more focused on the client than on the client-therapist relationship.** While a good relationship is necessary for CBT, CBT is more focused on helping the client learn the skills to overcome their challenges _themselves_, and therefore the relationship with the therapist is of secondary importance. (This is one reason CBT is such an excellent therapy for use in [online depression apps](https://blog.uplift.app/compare-icbt-depression-apps), like [UpLift](http://www.uplift.app).)
+- **CBT is more focused on the client than on the client-therapist relationship.** While a good relationship is necessary for CBT, CBT is more focused on helping the client learn the skills to overcome their challenges _themselves_, and therefore the relationship with the therapist is of secondary importance. (This is one reason CBT is such an excellent therapy for use in [online depression apps](https://www.uplift.app/blog/compare-icbt-depression-apps), like [UpLift](http://www.uplift.app).)
 
 ## Therapies Closely Related to CBT
 **Interpersonal Psychotherapy (IPT)**
@@ -63,7 +63,7 @@ The term "psychodynamic therapy" is basically a more modern term for psychoanaly
 
 ## Summary
 If you're ready to give therapy a try, here are additional articles you may find helpful:
-- [Directories of Therapists](https://blog.uplift.app/directories-of-therapists)
-- [Selecting the right therapist](https://blog.uplift.app/selecting-the-right-therapist)
-- [Paying for Therapy](https://blog.uplift.app/paying-for-therapy)
-- [Preparing for your first therapy appointment](https://blog.uplift.app/preparing-for-your-first-therapy-appointment)
+- [Directories of Therapists](https://www.uplift.app/blog/directories-of-therapists)
+- [Selecting the right therapist](https://www.uplift.app/blog/selecting-the-right-therapist)
+- [Paying for Therapy](https://www.uplift.app/blog/paying-for-therapy)
+- [Preparing for your first therapy appointment](https://www.uplift.app/blog/preparing-for-your-first-therapy-appointment)

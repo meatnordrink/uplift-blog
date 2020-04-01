@@ -7,6 +7,12 @@
 3. If it's empty: `git submodule update --init --recursive` . That should populate the repo. 
 4. Get a copy of Andy's SSH key and put it somewhere you'll remember it. 
 
+## Testing changes before pushing live
+
+1. Install Jekyll **on your local machine**. https://jekyllrb.com/docs/
+2. In the repo, run `bundle exec jekyll serve`.
+3. In your browser, enter `localhost:3000`. You'll see a local version of the current site. 
+
 ## Pushing to the live repo. 
 
 1. Either make your changes to the `public/blog` submodule, or, if you're using the old repo as a sandbox:
@@ -21,3 +27,4 @@
 7. Your site should now be live. 
 8. Back on your local machine, navigate to the root of the `UpLift-Website` directory, and run: `git submodule update --init --recursive --remote`
 9. Add and push your changes. 
+

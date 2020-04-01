@@ -28,7 +28,7 @@ While CBT doesn't deny the importance of the past, it focuses on the present.
 
 CBT disrupts the causes of unhappiness by helping people learn new, more helpful patterns of thought and behavior.
 
-![happy girl watermelon smile](http://blog.uplift.app/assets/images/happy_girl_watermelon-1515023115689-589c33041d3c.jpeg)
+![happy girl watermelon smile](http://www.uplift.app/blog/assets/images/happy_girl_watermelon-1515023115689-589c33041d3c.jpeg)
 
 ## Characteristics of CBT
 
@@ -38,8 +38,8 @@ A CBT therapist works with the client to figure out their goals and how to reach
 **CBT is more focused on the client than on the client-therapist relationship.**
 In traditional talk-therapy, which is based on the client exploring deep and sensitive issues with their therapist, the client-therapist relationship is considered of extreme importance.
 
-While a good relationship is necessary for CBT as well, CBT is focused on helping the client learn the skills to overcome their challenges _themselves_, and therefore the relationship with the therapist is of secondary importance. (This is one reason CBT is such an excellent therapy for use in [online depression apps](https://blog.uplift.app/compare-icbt-depression-apps), like [UpLift](http://www.uplift.app).)
-![mental health app](http://blog.uplift.app/assets/images/mental_health-shutterstock_599959877.jpg)
+While a good relationship is necessary for CBT as well, CBT is focused on helping the client learn the skills to overcome their challenges _themselves_, and therefore the relationship with the therapist is of secondary importance. (This is one reason CBT is such an excellent therapy for use in [online depression apps](https://www.uplift.app/blog/compare-icbt-depression-apps), like [UpLift](http://www.uplift.app).)
+![mental health app](http://www.uplift.app/blog/assets/images/mental_health-shutterstock_599959877.jpg)
 
 **CBT uses 'homework.'**
 Because CBT is about teaching the _client_ skills, rather than relying on the skills of the therapist, CBT utilizes extensive out-of-session assignments, asking the client to apply and practice concepts and follow through on plans made in-session.

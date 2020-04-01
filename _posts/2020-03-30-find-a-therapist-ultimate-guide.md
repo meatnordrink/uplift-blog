@@ -28,7 +28,7 @@ Want to view this guide offline or as a PDF?
 [![ultimate guide to finding therapy banner download][2]][1]
 
 
-![therapist and client](https://blog.uplift.app/assets/images/types_of_therapy.png)
+![therapist and client](https://www.uplift.app/blog/assets/images/types_of_therapy.png)
 # Types of Therapy
 There are many different types of therapy. Learning a little about each can help you decide which approach will likely work best for you.
 
@@ -42,7 +42,7 @@ CBT is largely focused on the present, as opposed to the past. It has the follow
 - **CBT uses 'homework.'** Because CBT is about teaching the _client_ skills, rather than relying on the skills of the therapist, CBT utilizes extensive out-of-session assignments, asking the client to apply and practice concepts and follow through on plans made in-session.
 - **CBT is short.** Compared to other therapies, CBT is usually remarkably short, usually between 10 and 20 sessions. This is partly because of CBT's goal and skill-oriented nature, and partly because of its reliance on homework.
 - **CBT believes healthier habits can be learned.** CBT follows the principle that behaviors, thoughts, and emotional responses are learned, and therefore, healthier methods can be learned through specific techniques and activities.
-- **CBT is more focused on the client than on the client-therapist relationship.** While a good relationship is necessary for CBT, CBT is more focused on helping the client learn the skills to overcome their challenges _themselves_, and therefore the relationship with the therapist is of secondary importance. (This is one reason CBT is such an excellent therapy for use in [online depression apps](https://blog.uplift.app/compare-icbt-depression-apps), like [UpLift](http://www.uplift.app?utm_source=therapy_guide).)
+- **CBT is more focused on the client than on the client-therapist relationship.** While a good relationship is necessary for CBT, CBT is more focused on helping the client learn the skills to overcome their challenges _themselves_, and therefore the relationship with the therapist is of secondary importance. (This is one reason CBT is such an excellent therapy for use in [online depression apps](https://www.uplift.app/blog/compare-icbt-depression-apps), like [UpLift](http://www.uplift.app?utm_source=therapy_guide).)
 
 ## Therapies Closely Related to CBT
 **Interpersonal Psychotherapy (IPT)**
@@ -82,7 +82,7 @@ The term "psychodynamic therapy" is basically a more modern term for psychoanaly
 
 [Back to top](#shortcuts)
 
-![paying for therapy](https://blog.uplift.app/assets/images/How_to_pay.png)
+![paying for therapy](https://www.uplift.app/blog/assets/images/How_to_pay.png)
 # How to Pay for Therapy and Deal with Insurance
 
 Paying for therapy is one of the biggest obstacles for many people. In the US, a single session of in-person therapy can cost anywhere from $60-$300, though the average is closer to between $80-$120. If this is more than you can afford, don't give up yet! Whether you have insurance or not, there are many options to explore that may help you pay for therapy.
@@ -171,7 +171,7 @@ Besides the health benefits, high wellbeing is a desirable state in its own righ
 
 [Back to top](#shortcuts)
 
-![helping hands for affording therapy](https://blog.uplift.app/assets/images/alternative_pay.png)
+![helping hands for affording therapy](https://www.uplift.app/blog/assets/images/alternative_pay.png)
 # Low-Cost Alternatives to Therapy
 
 If you’re unable to afford therapy after exploring the options in the previous section, there are still many avenues you can try! Below is a list of more affordable alternatives to standard in-person therapy.
@@ -250,7 +250,7 @@ Unfortunately, several attempts at creating social-networking apps specifically 
   - **[Elevatr](http://www.elevatr.com)** This is a smartphone app designed to create a safe space to express issues and challenges relating to mental health, for both those struggling with mental health challenges and those supporting them in their struggles. Elevatr's unique feature is 'expert verified answers.' A team of doctors and therapists verify user-provided answers, to make sure that the information within is medically correct. (For example, if someone asks about the side effects of an anti-depressant, one of the doctors or therapists will verify whatever answers the user receives for medical accuracy.)
 
 ## Mental Health Apps
-While most mental health apps lack scientific backing, there are a few quality options out there. For example, programs based on [Cognitive Behavioral Therapy](https://blog.uplift.app/what-is-cognitive-behavioral-therapy) have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy for depression.
+While most mental health apps lack scientific backing, there are a few quality options out there. For example, programs based on [Cognitive Behavioral Therapy](https://www.uplift.app/blog/what-is-cognitive-behavioral-therapy) have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy for depression.
 
 Mental health apps vary widely in their techniques. Costs vary depending on the quality and comprehensiveness of the content offered, from free to about $40/month. Some offer a complete course that mirrors traditional therapy, while others offer a chatbot or individual tools. Here are a few examples:
   - **Complete Cognitive Behavioral Therapy course**: Modify your thoughts and behaviors in ways that reduce negative moods and increase wellbeing. Example: [UpLift](http://www.uplift.app?utm_source=therapy_guide)
@@ -259,16 +259,16 @@ Mental health apps vary widely in their techniques. Costs vary depending on the 
   - **Mood trackers/thought diaries**: Track your moods to better notice patterns in your ups and downs. Examples: [Moodnotes](https://moodnotes.thriveport.com) and [MoodTools](http://www.moodtools.org/)
   - **Other**: Well-being techniques and goal setting. Examples: [Happify](http://www.happify.com/) and [SuperBetter](https://www.superbetter.com/)
 
-Read more tips for [comparing mental health apps here](https://blog.uplift.app/compare-icbt-depression-apps).
+Read more tips for [comparing mental health apps here](https://www.uplift.app/blog/compare-icbt-depression-apps).
 
 ## Summary
-While traditional face-to-face therapy can be pricey, there are many alternatives out there that can nevertheless provide relief. From [group therapy](https://groups.psychologytoday.com/rms/), to [depression apps](https://blog.uplift.app/compare-icbt-depression-apps), to a combination of efforts, you _can_ and _deserve_ to feel better.
+While traditional face-to-face therapy can be pricey, there are many alternatives out there that can nevertheless provide relief. From [group therapy](https://groups.psychologytoday.com/rms/), to [depression apps](https://www.uplift.app/blog/compare-icbt-depression-apps), to a combination of efforts, you _can_ and _deserve_ to feel better.
 
 [![ultimate guide to finding therapy banner download][3]][1]
 
 [Back to top](#shortcuts)
 
-![therapist near me computer search](https://blog.uplift.app/assets/images/Therapist_Directories.png)
+![therapist near me computer search](https://www.uplift.app/blog/assets/images/Therapist_Directories.png)
 # Directories of Therapists
 
 Finding a therapist in your area, that you can afford and is taking patients, can sometimes be difficult. Here are a few websites with good, comprehensive listings that can help in your search.
@@ -277,13 +277,13 @@ You can also ask your doctor for a referral. They likely know the therapists ava
 
 - **[Psychology Today](https://www.psychologytoday.com/us/therapists)** provides one of the most comprehensive listings of therapists in the US and Canada. After you search by location, a menu on the left gives you the options to further narrow your results.
 - **[The National Register of Health Service Psychologists](http://www.nationalregister.com/find)** has fewer therapists than Psychology Today, but is still one of the largest directories available.
-- **[The Academy of Cognitive Therapy](https://www.academyofct.org)** lists therapists who are members of this Cognitive Behavioral Therapy (CBT) trade organization. [Learn more about CBT](https://blog.uplift.app/what-is-cognitive-behavioral-therapy)
+- **[The Academy of Cognitive Therapy](https://www.academyofct.org)** lists therapists who are members of this Cognitive Behavioral Therapy (CBT) trade organization. [Learn more about CBT](https://www.uplift.app/blog/what-is-cognitive-behavioral-therapy)
 - **[The Association for Behavioral and Cognitive Therapies](http://www.findcbt.org/xFAT/index.cfm)** likewise lists therapists who are CBT-practicing members of its organization.
 - **[SAMSHA.gov](https://findtreatment.samhsa.gov)** lists mental-healthcare providers maintained by the Substance Abuse and Mental Health Services Administration. The list is quite broad, and has everything from psychiatrists to substance-abuse clinics. It also provides information about whether most providers accept Medicaid. They also offer this information via phone: 1-800-662-HELP (4357).
 
 [Back to top](#shortcuts)
 
-![therapist and client mismatch](https://blog.uplift.app/assets/images/selecting_therapist.png)
+![therapist and client mismatch](https://www.uplift.app/blog/assets/images/selecting_therapist.png)
 # Tips for Selecting the Right Therapist
 
 Selecting a therapist you’re comfortable with can make a big difference, and this process may take time. Here are some tips for finding a therapist you’re compatible with.
@@ -307,7 +307,7 @@ All of these professionals are qualified to practice therapy. The difference bet
 
 Some people may offer therapy without these qualifications; they may call it counseling, or coaching. Be aware that this is not the same as therapy. Therapy is medical care delivered by a licensed professional with extensive education and training.
 
-Counseling and coaching may certainly be useful in a person's life, but you should know which you're getting. If you're unsure what your therapist's qualifications are, ask them, or [view a list of common therapist credentials](https://blog.uplift.app/therapist-credentials).
+Counseling and coaching may certainly be useful in a person's life, but you should know which you're getting. If you're unsure what your therapist's qualifications are, ask them, or [view a list of common therapist credentials](https://www.uplift.app/blog/therapist-credentials).
 
 ## Read reviews or ask around
 It can be helpful to read reviews of therapists before or after talking with them; you can keep an eye out for problems others have mentioned, or if something strikes you as a warning sign, you may be able to verify if it became an issue for other people.
@@ -346,7 +346,7 @@ There _is_ such a thing as a quack therapist. Watch out for:
 
 There are also plenty of good therapists who may simply not be a good fit for you. Watch out for anyone who:
   - **You feel uneasy with.** Trust your gut. Whether it's right or wrong, if you don't feel comfortable, the therapy won't be productive.
-  - **Doesn't seem to be listening to you.** The therapist needs to learn about you in order to help you. If they're not listening to you, they're not doing that. However, this doesn't mean that you should expect the therapist to just listen quietly while you go on for hours about whatever comes to mind. Particularly in [Cognitive Behavioral Therapy](https://blog.uplift.app/what-is-cognitive-behavioral-therapy), the therapist will try to keep the discussion to useful topics, and may ask you challenging questions. This is good. Appearing uninterested in you or your struggles is not.
+  - **Doesn't seem to be listening to you.** The therapist needs to learn about you in order to help you. If they're not listening to you, they're not doing that. However, this doesn't mean that you should expect the therapist to just listen quietly while you go on for hours about whatever comes to mind. Particularly in [Cognitive Behavioral Therapy](https://www.uplift.app/blog/what-is-cognitive-behavioral-therapy), the therapist will try to keep the discussion to useful topics, and may ask you challenging questions. This is good. Appearing uninterested in you or your struggles is not.
   - **Spends more time talking about themselves than listening to you.** While the occasional reference to their own life may be helpful, a therapist more interested in telling you about themselves than helping you won't be of much use.
   - **Doesn’t agree with your goals for treatment** Over time a therapist may suggest other things you could work on, but studies have shown a strong correlation between how much the client and therapist agree on goals for treatment and how much progress the client makes in therapy.
   - **Makes you feel judged, shamed, or emotionally unsafe** While it _is_ a therapist's place to challenge your thoughts and perceptions, it is not their place to make you feel judged or ashamed. If you feel this way, the therapy won't be productive, and they're not a good fit.
@@ -365,7 +365,7 @@ If you're just uncomfortable with the idea of therapy, you may not like any ther
 
 [Back to top](#shortcuts)
 
-![writing worrisome thoughts in journal](https://blog.uplift.app/assets/images/preparing_for_therapy.png)
+![writing worrisome thoughts in journal](https://www.uplift.app/blog/assets/images/preparing_for_therapy.png)
 # Preparing for Your First Therapy Appointment
 
 For many people the first appointment with a therapist can be somewhat nerve-wracking. If that's true for you, remember that many, many people who have been in your shoes have gone on to have productive, comfortable relationships with a therapist. The following tips will help you know how to prepare and what to expect.
@@ -443,7 +443,7 @@ You'll get the most out of your session if you approach it with an open mind, en
 
 [Back to top](#shortcuts)
 
-![strong female boxer despite fingers pointing and criticizing](https://blog.uplift.app/assets/images/fighting_stigma.png)
+![strong female boxer despite fingers pointing and criticizing](https://www.uplift.app/blog/assets/images/fighting_stigma.png)
 # Conquering Stigma Around Seeing a Therapist
 
 Many people worry about what it will mean or how it will look to others if they go to therapy. There's a lot of stigma out there about therapy.
@@ -476,7 +476,7 @@ Therapy doesn't take forever. It's not an immediate process, but depending on wh
 
 Progress in therapy is often made within three months. But more complicated issues may take longer, even years.
 
-The type of therapy makes a difference, too. [Cognitive Behavioral Therapy]((https://blog.uplift.app/what-is-cognitive-behavioral-therapy)) tends to be shorter-term than many methods, while psychoanalysis or relational therapy tends to take longer. Regardless of the type of therapy you seek, the more work you put in during and between sessions, the faster you'll make progress.
+The type of therapy makes a difference, too. [Cognitive Behavioral Therapy]((https://www.uplift.app/blog/what-is-cognitive-behavioral-therapy)) tends to be shorter-term than many methods, while psychoanalysis or relational therapy tends to take longer. Regardless of the type of therapy you seek, the more work you put in during and between sessions, the faster you'll make progress.
 
 Some people do stay in therapy for years, because they find that it's a part of their life that they value and enjoy. Often, clients will see a therapist weekly or monthly at first, but after a while will come in less frequently, perhaps once every few months. Some people continue to visit their therapists once or twice a year, just to check in and talk about any new issues that have come up or old ones that have resurfaced.
 
@@ -505,6 +505,6 @@ Outside of the US:
 </ul>
 </div>
 
-[1]: https://blog.uplift.app/download
-[2]: https://blog.uplift.app/assets/images/find_a_therapist_banner.png
-[3]: https://blog.uplift.app/assets/images/find_a_therapist_sideAd.png
+[1]: https://www.uplift.app/blog/download
+[2]: https://www.uplift.app/blog/assets/images/find_a_therapist_banner.png
+[3]: https://www.uplift.app/blog/assets/images/find_a_therapist_sideAd.png
