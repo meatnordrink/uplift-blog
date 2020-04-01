@@ -19,40 +19,28 @@
 </head>
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class={{layout}}>
-<amp-analytics type="gtag" data-credentials="include">
-   <script type="application/json">
-     {
-       "vars": {
-         "gtag_id": "UA-97118261-3",
-         "config": {
-          "UA-97118261-3": { "groups": "default" }
-         }
-       },
-       "triggers": {
-         "head-button": {
-           "selector": "#start_uplift_button_header",
-           "on": "click",
-           "vars": {
-             "event_name": "clicked-top"
-           }
-         "foot-button": {
-         "selector": "#start_uplift_button_footer",
-         "on": "click",
-         "vars": {
-            "event_name": "clicked-bottom"
+  <amp-analytics type="gtag" data-credentials="include">
+    <script type="application/json">
+      {
+        "vars": {
+          "gtag_id": "UA-97118261-3",
+          "config": {
+            "UA-97118261-3": {}
+          }
+        },
+        "triggers": {
+          "button": {
+            "selector": "#the-button",
+            "on": "click",
+            "vars": {
+              "event_name": "login",
+              "method": "Google"
             }
-           }
-         "loaded": {
-         "on": "visible",
-         "vars": {
-            "event_name": "viewed_blog"
-             }
-            }
-         }
-       }
-     }
-   </script>
- </amp-analytics>
+          }
+        }
+      }
+    </script>
+  </amp-analytics>
 <a class=target-anchor id=top></a>
 <nav id=navbar class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
 <div class="container pr-0">
