@@ -4,7 +4,7 @@ title:  "How to Find a Therapist – The Ultimate Guide"
 author: andrew
 tags: []
 image: assets/images/therapy_guide.png
-description: ""
+description: "How to find a therapist you're comfortable with, navigate costs and insurance, and start your first appointment."
 featured: true
 hidden: false
 comments: false
