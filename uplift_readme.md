@@ -24,7 +24,8 @@
 4. Navigate to `public/blog`. (I've set up a shortcut: You can just type `web`, and that will jump you to `/run`; then just `cd ..` and then `cd blog` and you'll be in the right place.)
 5. `git pull` Your changes should be pulled in. 
 6. `bundle exec jekyll build`
-7. Your site should now be live. 
+7. Your site should now be live.
+7. Type `exit` to exit the remote server.  
 8. Back on your local machine, navigate to the root of the `UpLift-Website` directory, and run: `git submodule update --init --recursive --remote`
 9. Add and push your changes. 
 
