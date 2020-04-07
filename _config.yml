@@ -40,6 +40,11 @@ authors:
     avatar: "assets/images/andy.png"
     description: "Andrew has a diverse background, ranging from Chinese language and culture to organic agriculture. He occupies a variety of roles at UpLift, including customer service and project management."
 
+# Twitter
+twitter: 
+  username: UpLiftTheApp
+  card: summary
+
 # Plugins
 plugins:
   - jekyll-paginate
