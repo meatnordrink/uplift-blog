@@ -12,16 +12,17 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, shrink-to-fit=no">
         <meta name="google-site-verification" content="gX0O31n8YU-pDBelimL1oeTfS_ePisSPMVUC-b_6B5g" />
-        {% seo image=false %}
-        <meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
-        <!-- {% seo.html %} -->
+        <!-- {% seo %} -->
         <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-        <!-- <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
-        <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-        <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
         <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
-        <meta property="og:url" content="https://www.uplift.app/blog" />
-        <meta property="og:image" content="https://1317562338.rsc.cdn77.org/images/allSess/UpLiftLogo195.png" /> -->
+                <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+                <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+                <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">/>
+                <meta property="og:url" content="https://www.uplift.app/blog" />
+                <meta property="og:image" content="{% if page.image %}{{ site.baseurl }}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@UpLiftTheApp" />
+        <meta name="twitter:creator" content="@{{ page.author }}" />
         <!-- Amp Analytics -->
         <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
                         <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
