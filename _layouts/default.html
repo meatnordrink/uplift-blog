@@ -18,7 +18,7 @@
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
-<meta property="og:url" content="https://www.uplift.app/blog" />
+<meta property="og:url" content="{{ site.baseurl }}/{{ page.path }}" />
 <meta property="og:image" content="{% if page.image %}{{ site.baseurl }}/{{ page.image }}{% else %}{{site.baseurl}}/{{ site.image }}{% endif %}" />
 <meta property="og:image:width" content="600" />
 <meta property="og:image:height" content="600" />
