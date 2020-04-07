@@ -16,9 +16,9 @@
 <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
         <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
         <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-        <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">/>
+        <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
         <meta property="og:url" content="https://www.uplift.app/blog" />
-        <meta property="og:image" content="{% if page.image %}{{ site.baseurl }}{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
+        <meta property="og:image" content="{% if page.image %}{{ site.baseurl }}/{{ page.image }}{% else %}{{ site.image }}{% endif %}" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@UpLiftTheApp" />
 <meta name="twitter:creator" content="@{{ page.author }}" />
