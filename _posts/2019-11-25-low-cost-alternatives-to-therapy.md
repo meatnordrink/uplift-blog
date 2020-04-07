@@ -8,7 +8,7 @@ description: "Paying for therapy is one of the biggest obstacles for many people
 featured: true
 hidden: false
 comments: false
-permalink: /low-cost-alternatives-to-therapy
+permalink: low-cost-alternatives-to-therapy
 ---
 
 _See also, ["How to Pay for Therapy and Deal with Insurance"](https://www.uplift.app/blog/paying-for-therapy) for ways to find help paying for therapy._

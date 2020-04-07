@@ -8,7 +8,7 @@ description: "If you're looking for a therapist, these are the best websites tha
 featured: true
 hidden: false
 comments: false
-permalink: /directories-to-find-a-therapist
+permalink: directories-to-find-a-therapist
 ---
 
 Finding a therapist in your area, that you can afford and is taking patients, can sometimes be difficult. Here are a few websites with good, comprehensive listings that can help in your search.

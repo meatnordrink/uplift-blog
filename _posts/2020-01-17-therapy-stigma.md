@@ -8,7 +8,7 @@ description: "Many people worry how others will perceive them if they go to ther
 featured: true
 hidden: false
 comments: false
-permalink: /therapy-stigma
+permalink: therapy-stigma
 ---
 
 Many people worry about what it will mean or how it will look to others if they go to therapy. There's a lot of stigma out there about therapy.

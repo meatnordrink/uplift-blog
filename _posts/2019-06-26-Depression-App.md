@@ -8,10 +8,11 @@ author: aislinn
 tags: []
 image: assets/images/GettyImages-1094477016.jpg
 description: "Feeling depressed? Here's important information about depression apps and how they can help."
+keywords: ""
 featured: true
 hidden: false
 comments: false
-permalink: /compare-icbt-depression-apps
+permalink: compare-icbt-depression-apps
 ---
 
 

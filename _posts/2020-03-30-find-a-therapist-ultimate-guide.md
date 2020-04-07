@@ -8,7 +8,7 @@ description: "How to find a therapist you're comfortable with, navigate costs an
 featured: true
 hidden: false
 comments: false
-permalink: /find-a-therapist-ultimate-guide
+permalink: find-a-therapist-ultimate-guide
 ---
 
 Overall, [42%](https://www.barna.com/research/americans-feel-good-counseling/) of people in the US have seen a counselor, either now or in the past. Most people are open to going to therapy, and [80%](http://www.apa.org/monitor/julaug04/survey.aspx) of those who have gone have found it effective.

@@ -8,7 +8,7 @@ description: "Cognitive Behavioral Therapy (CBT) has been around for 30 years an
 featured: true
 hidden: false
 comments: false
-permalink: /what-is-cognitive-behavioral-therapy
+permalink: what-is-cognitive-behavioral-therapy
 ---
 
 [UpLift](http://www.uplift.app) is based on Cognitive Behavioral Therapy, or CBT.

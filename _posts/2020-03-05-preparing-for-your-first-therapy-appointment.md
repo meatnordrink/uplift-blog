@@ -8,7 +8,7 @@ description: "The first appointment with a therapist can be nerve-wracking. Know
 featured: true
 hidden: false
 comments: false
-permalink: /preparing-for-your-first-therapy-appointment
+permalink: preparing-for-your-first-therapy-appointment
 ---
 
 For many people the first appointment with a therapist can be somewhat nerve-wracking. If that's true for you, remember that many, many people who have been in your shoes have gone on to have productive, comfortable relationships with a therapist. The following tips will help you know how to prepare and what to expect.

@@ -8,7 +8,7 @@ description: "There are many different types of therapy. Learning a little about
 featured: true
 hidden: false
 comments: false
-permalink: /types-of-therapy
+permalink: types-of-therapy
 ---
 
 There are many different types of therapy. Learning a little about each can help you decide which approach will likely work best for you.

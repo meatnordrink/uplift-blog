@@ -8,7 +8,7 @@ description: "Research shows that giving your therapist feedback can significant
 featured: true
 hidden: false
 comments: false
-permalink: /giving-your-therapist-feedback
+permalink: giving-your-therapist-feedback
 ---
 
 Research has shown that giving your therapist feedback can significantly increase the effectiveness of therapy. It's good to give feedback to your therapist whether you've just begun seeing them or they're a therapist you've been working with for a long time.

@@ -8,7 +8,7 @@ description: "If therapy is more than you can afford, don't give up yet! Whether
 featured: true
 hidden: false
 comments: false
-permalink: /paying-for-therapy
+permalink: paying-for-therapy
 ---
 _See also, ["Low-Cost Alternatives to Therapy"](https://www.uplift.app/blog/low-cost-alternatives-to-therapy) for additional options._
 

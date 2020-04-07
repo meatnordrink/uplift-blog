@@ -8,7 +8,7 @@ description: "This #MentalHealthAwarenessDay, we’re helping promote 40 seconds
 featured: true
 hidden: false
 comments: false
-permalink: /world-mental-health-day
+permalink: world-mental-health-day
 ---
 
 Today marks the 27th observation of World Mental Health Day, first established in 1992 by the [World Federation for Mental Health](https://wfmh.global/) (WFMH). The initiative aims to bring attention to mental illness and its impact on people’s lives. This year, the focus is on suicide prevention.

@@ -8,7 +8,7 @@ description: ""
 featured: true
 hidden: false
 comments: false
-permalink: /medication-for-depression
+permalink: medication-for-depression
 ---
 
 Medication can be helpful for people with depression, particularly if it’s severe. There are many kinds of medications approved for use in treating depression, and there’s a fair amount of evidence suggesting that they work, especially in combination with therapy.

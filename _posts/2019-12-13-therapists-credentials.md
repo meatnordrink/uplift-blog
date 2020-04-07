@@ -8,7 +8,7 @@ description: "The letters by a therapist's name (aka therapist's credentials) ar
 featured: true
 hidden: false
 comments: false
-permalink: /therapist-credentials
+permalink: therapist-credentials
 ---
 
 There are so many therapist qualifications and credentials that it can be dizzying.

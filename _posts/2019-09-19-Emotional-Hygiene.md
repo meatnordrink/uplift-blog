@@ -8,7 +8,7 @@ description: "Practice emotional hygiene to tend to an emotional wound, recover 
 featured: true
 hidden: false
 comments: false
-permalink: /practicing-emotional-hygiene-makes-a-difference
+permalink: practicing-emotional-hygiene-makes-a-difference
 ---
 
 Think of all the different ways you care for your body. You brush your teeth twice a day, put on sunscreen to protect your skin, wash your hands to avoid getting sick, and maybe take a multivitamin to supplement your diet.
