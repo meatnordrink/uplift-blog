@@ -162,7 +162,7 @@ If those don't apple to you, you still have a few options:
 
 If you need help applying for insurance, try one of these:
   - [Find an in-person Health Care Navigator](https://localhelp.healthcare.gov): these people are specially trained to help people apply for insurance. Often they are available at local tax-help centers or community organizations. Their help is free.
-  - [Use the Marketplace call center](https://www.healthcare.gov/apply-and-enroll/get-help-applying/)] and a live representative will answer questions and help you apply for coverage.
+  - [Use the Marketplace call center](https://www.healthcare.gov/apply-and-enroll/get-help-applying/) and a live representative will answer questions and help you apply for coverage.
 
 ## Summary
 If you've been feeling down, it's worth it to explore your options for feeling better. Quality mental health care is an expense that pays off in the long-run. With greater wellbeing comes greater strength in old age, fewer heart issues, faster recovery after a major medical event, and a longer life.
