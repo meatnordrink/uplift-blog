@@ -39,9 +39,14 @@ authors:
     display_name: Andrew Gorrill
     avatar: "assets/images/andy.png"
     description: "Andrew has a diverse background, ranging from Chinese language and culture to organic agriculture. He occupies a variety of roles at UpLift, including customer service and project management."
+  eddie:
+    name: Eddie
+    display_name: Eddie Liu
+    avatar: "assets/images/eddie.png"
+    description: "Eddie Liu has degrees in Psychology and Neuroscience from Duke University. He is the creator of the MoodTools app for depression, which has reached over 1,000,000 people and won Mental Health America's “mPower” award."
 
 # Twitter
-twitter: 
+twitter:
   username: UpLiftTheApp
   card: summary
 
