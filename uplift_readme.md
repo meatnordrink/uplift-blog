@@ -22,7 +22,7 @@
 3. SSH into the server. From the home directory the syntax for this is:
     `ssh root@uplift.app -i pathToKey`
 		From /blog the syntax is:
-		`ssh root@uplift.app -i ~/uplift2`
+		`ssh root@uplift.app -i ~/pathToKey` (Aislinn's pathToKey is blogssh)
 4. Navigate to `public/blog`. (I've set up a shortcut: You can just type `web`, and that will jump you to `/run`; then just `cd ..` and then `cd blog` and you'll be in the right place.)
 5. `git pull` Your changes should be pulled in. If you get a message "Please specify which branch you want to merge with" then do `git checkout master` and then `git pull` again.
 6. `bundle exec jekyll build`
