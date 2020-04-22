@@ -24,7 +24,7 @@
 		From /blog the syntax is:
 		`ssh root@uplift.app -i ~/uplift2`
 4. Navigate to `public/blog`. (I've set up a shortcut: You can just type `web`, and that will jump you to `/run`; then just `cd ..` and then `cd blog` and you'll be in the right place.)
-5. `git pull` Your changes should be pulled in.
+5. `git pull` Your changes should be pulled in. If you get a message "Please specify which branch you want to merge with" then do `git checkout master` and then `git pull` again.
 6. `bundle exec jekyll build`
 7. Your site should now be live.
 7. Type `exit` to exit the remote server.  
