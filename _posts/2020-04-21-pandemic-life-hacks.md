@@ -41,7 +41,7 @@ Being stuck at home can definitely take a toll on your mental health, especially
 - [MoodTools](http://www.moodtools.org/) (depression) and [FearTools](http://feartools.com/) (anxiety) each offer 6 different cognitive-behavioral tools.
 - [Mind Ease](https://www.mindease.io) (anxiety) provides stress-reducing exercises that take around 10 minutes.
 
-**Peer Groups / Online Support Groups** — Talking to a peer about how you're feeling can bring a lot of relief. [NAMI Discussion Groups](https://www.nami.org/Find-Support/Air-App) and [Elevatr](http://www.elevatr.com) are two places to find safe space to express issues and challenges relating to stress or mental health. The [Depression and Bi-polar Support Alliance Groups|https://www.dbsalliance.org/support/chapters-and-support-groups/online-support-groups/] offers facilitated group support to share experiences, coping skills, and offer each other hope.
+**Peer Groups / Online Support Groups** — Talking to a peer about how you're feeling can bring a lot of relief. [NAMI Discussion Groups](https://www.nami.org/Find-Support/Air-App) and [Elevatr](http://www.elevatr.com) are two places to find safe space to express issues and challenges relating to stress or mental health. The [Depression and Bi-polar Support Alliance Groups](https://www.dbsalliance.org/support/chapters-and-support-groups/online-support-groups/) offers facilitated group support to share experiences, coping skills, and offer each other hope.
 
 **Online Therapy —** Tired of all of these apps with no human interaction? Talk with a real, licensed therapist virtually with these online therapy options. What it comes down to is that it's not the platform that matters — it's the therapist. Both [BetterHelp](https://hasofferstracking.betterhelp.com/SHdZ) and [Talkspace](https://www.talkspace.com/) combine video sessions with unlimited messaging.
 
@@ -115,7 +115,7 @@ Just because we're all stuck in our homes doesn't mean that we can't stay social
 
 - [Facebook Portal](https://amzn.to/2XFcF0G) devices for seamless video chats, especially with older relatives — they even have one that can [turn your TV](https://amzn.to/3cnwOfP) into a video chatting device.
 - [AirPods](https://amzn.to/2VNQEKT) or [gaming headphones](https://amzn.to/2yjSYB1) if you're having trouble with your mic quality.
-- If you're struggling with an old laptop, now might be a good time to upgrade! For the average person, I'd recommend the new [MacBook Air](https://amzn.to/2VxrAYc) (with i5 processor) or the new [Dell XPS 9300](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/new-xps-13-laptop/spd/xps-13-9300-laptop) (1080p screen), or a [good budget laptop|https://thewirecutter.com/reviews/best-laptop-under-500/].
+- If you're struggling with an old laptop, now might be a good time to upgrade! For the average person, I'd recommend the new [MacBook Air](https://amzn.to/2VxrAYc) (with i5 processor) or the new [Dell XPS 9300](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/new-xps-13-laptop/spd/xps-13-9300-laptop) (1080p screen), or a [good budget laptop](https://thewirecutter.com/reviews/best-laptop-under-500/).
 
 ![Cute dog looking at laptop](https://1317562338.rsc.cdn77.org/images/blog/cutedog.jpeg)
 
