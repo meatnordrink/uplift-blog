@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing to relieve stress"
+title:  "Writing to Relieve Stress"
 author: aislinn
 tags: []
 image: assets/images/peter-conlan-LEgwEaBVGMo-unsplash.jpg
