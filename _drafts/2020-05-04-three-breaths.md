@@ -31,5 +31,5 @@ Do your best to focus on your breath and nothing else.
 - You may start feeling more awake and energized!
 
 <div class='grey_box'>
-For more free, easy tools to de-stress, download UpLift on iOS, or if you don't have iOS, check out UpLift's free [COVID-19 De-stress Care Package](https://launch.uplift.app/COVID-19-web?platform=web).
+For more free, easy tools to de-stress, [download UpLift on iOS](https://apps.apple.com/us/app/uplift-depression-anxiety/id1467988544?ls=1), or if you don't have iOS, check out UpLift's free [COVID-19 De-stress Care Package](https://launch.uplift.app/COVID-19-web?platform=web).
 </div>

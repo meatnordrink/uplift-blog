@@ -46,3 +46,7 @@ If you'd rather avoid the news altogether, this can be helpful strategy.
 
 **10. Use only reliable sources to access news**
 Every news source carries at least some risk of bias and misreported facts. For staying up to date on information related to COVID-19, use the [CDC|https://www.cdc.gov/coronavirus/2019-ncov/index.html], the [World Health Organization|https://www.who.int/emergencies/diseases/novel-coronavirus-2019], and your local government authorities.
+
+<div class='grey_box'>
+For more free, easy tools to de-stress, [download UpLift on iOS](https://apps.apple.com/us/app/uplift-depression-anxiety/id1467988544?ls=1), or if you don't have iOS, check out UpLift's free [COVID-19 De-stress Care Package](https://launch.uplift.app/COVID-19-web?platform=web).
+</div>
