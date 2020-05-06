@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deep Breathing to De-stress"
+title:  "How to Use Simple Deep Breathing for Stress Relief"
 author: aislinn
 tags: []
 image: assets/images/eli-defaria-vCzh1jOyre8-unsplash.jpg
@@ -27,6 +27,9 @@ Do your best to focus on your breath and nothing else.
 
 - Practice deep breathing whenever you feel a little anxious or want to become more present to the moment.
 - Make sure to breathe in through your nose, if you can.
+- Draw your breath deep into your belly, letting it push out as you do (rather than raising your shoulders and puffing out your chest).
+- Try to exhale fully, pushing out every last bit of air.
+- Imagine your in-breath as sweet, pure relaxation and your out-breath as tension and stress flowing out of your body.
 - If your mind wanders, don't worry; simply bring your attention back to your breath.
 
 Regularly doing breath work can help you feel more awake and energized!
