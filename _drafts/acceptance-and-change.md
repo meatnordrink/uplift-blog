@@ -38,5 +38,5 @@ If you have a minute now, you could pull out a piece of paper and a pen and writ
 As you go about your day, try to pause every now and then to practice acceptance.
 
 <div class='grey_box'>
-For more free, easy tools to de-stress, [download UpLift on iOS](https://apps.apple.com/us/app/uplift-depression-anxiety/id1467988544?ls=1), or if you don't have iOS, check out UpLift's free [COVID-19 De-stress Care Package](https://launch.uplift.app/COVID-19-web?platform=web).
+For more free, easy tools to de-stress, <a href="https://apps.apple.com/us/app/uplift-depression-anxiety/id1467988544?ls=1">download UpLift on iOS</a>, or if you don't have iOS, check out UpLift's free <a href="https://launch.uplift.app/COVID-19-web?platform=web">COVID-19 De-stress Care Package</a>.
 </div>
