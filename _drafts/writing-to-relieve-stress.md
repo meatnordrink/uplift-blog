@@ -20,7 +20,7 @@ Here's how to reap the same benefits:
 
 1. Get out a pen and a piece of paper.
 
-2. Choose one of the most wonderful, happiest, or creative moments of your life. (Or on the contrary, one of the most traumatic, if that could be more helpful)
+2. Choose one of the most wonderful, happiest, or creative moments of your life. (Or on the contrary, one of the most traumatic, if that could be more helpful).
 
 3. Take a moment to really imagine what it was like for you to be in that moment. Try to remember the circumstance of the experience, the thoughts you were having, and the emotions you were feeling.
 

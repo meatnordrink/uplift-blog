@@ -3,7 +3,7 @@ layout: post
 title:  "Anxiety and Sleep: A Checklist for a Healthy Mind and Body"
 author: andy
 tags: []
-image: assets/images/peter-conlan-LEgwEaBVGMo-unsplash.jpg
+image: assets/images/T8jOnNY.jpg
 description: ""
 featured: true
 hidden: false
@@ -23,7 +23,7 @@ Use this checklist to find new strategies to improve your sleep.
 - **Put away visible clocks.** Watching the clock when you can’t sleep only leads to heightened emotions that disrupt sleep even more.
 
 ## Strategies that improve both sleep and anxiety
-- **Confront sleep-related [Thinking Errors](https://www.uplift.app/blog/challenging-thinking-errors).** Confront negative thoughts that make it difficult to fall asleep (e.g., “I’m going to be up all night and have a horrible day tomorrow”) or thoughts that might keep you in bed longer than is helpful (e.g., “I can’t deal with today. I’m going to bed”). [UpLift has tools that can help](https://www.uplift.app/).
+- **Try an app that helps with anxiety.** An app such as [UpLift](https://www.uplift.app/) helps users relieve anxiety that can interfere with sleep. For example, UpLift helps you tackle [Thinking Errors](https://www.uplift.app/blog/challenging-thinking-errors) that can keep you up at night (e.g., “I’m going to be up all night and have a horrible day tomorrow”) or keep you in bed longer than is helpful (e.g., “I can’t deal with today. I’m going to bed”).
 - **Set some worry time.** If you're prone to worry at night, set aside some time earlier in the evening to do your worrying. Then, do your best to keep your problems out of your bed by refocusing your attention on a non-worry topic. If you cannot refocus your mind, leave your bedroom and write down a list of things to attend to in the morning. Then, return to bed.
 - **Increase your exercise.** Exercise regularly to help deepen your sleep and make it easier for you to fall asleep. Exercise is also helpful for improving low mood. Aim to do at least 15 minutes of aerobic activity, or whatever feels comfortable to you, such as jogging, brisk walking, or playing an outdoor sport game. Do be sure to exercise no later than 4 hours before bedtime.
 - **Cut down on all caffeine.** Caffeine can worsen anxiety as well as wake you up at night or lead to more shallow sleep, even if you have it earlier in the day. Stop consuming caffeine at *least* 6 hours before bedtime. Some studies have shown that even drinks labeled as "decaf" may have some remaining caffeine that could interfere with sleep. If you're especially sensitive to caffeine, you may also want to abstain from decaf.
@@ -36,6 +36,7 @@ Use this checklist to find new strategies to improve your sleep.
 - **Avoid electronic media for 2+ hours before bed.** Using things like phones or computers can cause sleep disturbances. This is because the blue-spectrum light in screens, which mimics the spectrum of the sun, can fool your brain into thinking the sun's out, and disrupt the release of a chemical called melatonin in your brain, which helps to regulate your sleep cycle. [One study](https://www.pnas.org/content/112/4/1232) found that reading an E-book within four hours of going to bed caused a significant delay in sleep, less restful sleep, and reduced alertness the next morning.
 - **Download f.lux or a similar app for your device.** If you must use your computer near bedtime, try a program like [f.lux](https://justgetflux.com/), a free program for smartphones or computers that adjusts the blue-light level emitted by your screen to match the time of day. When the sun sets, it will adjust the light coming from the screen to a warmer spectrum, with more of an orange hue, to help cue the brain that it's nighttime.
 
+![Cat nap](https://www.uplift.app/blog/assets/images/cat-4189697_640.jpg)
 ## Control how much you sleep
 - **Sleep the proper amount.** Sleep only as much as you need to feel refreshed the next day. Sleeping only this much helps you sleep more deeply when you are asleep. It you're tempted to oversleep, start stretching and get yourself out of bed.
 - **Try to wake up at the same time each day.** Get up at the same time everyday, no matter how much you have slept. This helps set and regulate your sleep cycle.
