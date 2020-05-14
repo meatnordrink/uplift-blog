@@ -3,7 +3,7 @@ layout: post
 title:  "Writing to Relieve Stress"
 author: aislinn
 tags: []
-image: assets/images/peter-conlan-LEgwEaBVGMo-unsplash.jpg
+image: assets/images/Brief_Writing_Blog_Top_Image.png
 description: ""
 featured: true
 hidden: false
