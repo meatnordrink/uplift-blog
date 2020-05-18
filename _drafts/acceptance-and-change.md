@@ -24,7 +24,7 @@ While there's a lot that's out of our control during the time of coronavirus, it
 
 A few slow, [deep breaths](https://www.uplift.app/blog/deep-breathing) can help as you shift your focus from what worries you, to what you can do about those worries. For example, if you're worried about your finances, you can refocus on steps you can take to increase your income, such as networking or job searching, or exploring [ways to ask for help during COVID-19](https://www.uplift.app/blog/asking-for-help-during-coronavirus).
 
-It may also be helpful to [take a break from social media](), which can often trigger or worsen feelings of uncertainty.
+It may also be helpful to [take a break from social media](https://www.uplift.app/blog/social-media-break), which can often trigger or worsen feelings of uncertainty.
 
 ## Accepting anxiety
 Acknowledging things like "I feel scared right now" can also be powerful. See if you can shift your thoughts to be more accepting:
