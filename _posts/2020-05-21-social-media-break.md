@@ -38,7 +38,7 @@ Social media can paint a rosier-than-reality picture of others and lead to envy,
 **7. Be mindful of what YOU share**
 Sharing inaccurate pieces of news can inadvertently spread fear. Focus on sharing reputable news sources or just things that are positive and uplifting.
 
-**8. Consider a social media break**
+**8. Consider de-activating a social media account**
 You can de-activate your account without deleting it. Some people even make a practice of de-activating their accounts for the weekend.
 
 **9. Ask a trustworthy friend to relay important news**
