@@ -4,7 +4,7 @@ title:  "How to Accept the Things You Cannot Change"
 author: aislinn
 tags: []
 image: assets/images/aaron-burden-fbYdyMBN460-unsplash.jpg
-description: ""
+description: "Acceptance can help you feel calmer and more in control. Here's how you can practice acceptance."
 featured: true
 hidden: false
 comments: false
