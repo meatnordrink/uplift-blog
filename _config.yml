@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 image: 'assets/images/logo.png'
 favicon: 'assets/images/logo.svg'
 # IF LOCAL SERVE DOESN'T WORK, ENABLE THE baseurl VALUE BELOW AND COMMENT OUT THE OTHER TEMPORARILY.
-# baseurl:
+#baseurl:
 baseurl: 'https://www.uplift.app/blog'
 # google_analytics: 'UA-46278016-1'
 # disqus: 'demowebsite'
@@ -69,7 +69,7 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
 
-# Pagination
+# Pagination / Paginator
 paginate: 6
 paginate_path: /page:num/
 
