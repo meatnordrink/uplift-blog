@@ -28,7 +28,8 @@ Want to view this guide offline or as a PDF?
 [![ultimate guide to finding therapy banner download][2]][1]
 
 
-![therapist and client](https://www.uplift.app/blog/assets/images/types_of_therapy.png)
+<!-- ![therapist and client](https://www.uplift.app/blog/assets/images/types_of_therapy.png) -->
+<amp-img alt="therapist and client" src="https://www.uplift.app/blog/assets/images/types_of_therapy.png" width="285" height="154" layout="responsive"></amp-img>
 # Types of Therapy
 There are many different types of therapy. Learning a little about each can help you decide which approach will likely work best for you.
 
@@ -284,6 +285,7 @@ You can also ask your doctor for a referral. They likely know the therapists ava
 [Back to top](#shortcuts)
 
 ![therapist and client mismatch](https://www.uplift.app/blog/assets/images/selecting_therapist.png)
+<amp-img></amp-img>
 # Tips for Selecting the Right Therapist
 
 Selecting a therapist you’re comfortable with can make a big difference, and this process may take time. Here are some tips for finding a therapist you’re compatible with.
