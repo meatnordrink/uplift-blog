@@ -72,7 +72,7 @@ Here are some questions you can ask.
 
 
 ## Watch out for warning signs
-![warning sign on door](http://www.uplift.app/blog/assets/images/therapist-warning-sign.jpg)
+<amp-img alt="warning sign on door caution two steps down inside" src="http://www.uplift.app/blog/assets/images/therapist-warning-sign.jpg" width="1000" height="540" layout="responsive"></amp-img>
 
 There _is_ such a thing as a quack therapist. Watch out for:
   - **Therapists advertising "miracle cures" or "spiritual transformations."** Therapy can be very helpful, but it isn't usually miraculous. Anyone advertising it as such is probably unscrupulous.

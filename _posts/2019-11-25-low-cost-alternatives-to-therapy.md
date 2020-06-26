@@ -23,7 +23,7 @@ There are several ways you might be able to get in-person therapy at significant
   - **Call 211**. By calling 211, the most comprehensive source of locally curated social services information in the US and most of Canada, you can likely speak to someone who is knowledgeable about low-cost mental health services in your area.
 
 ## Group Therapy
-![group therapy](https://1317562338.rsc.cdn77.org/images/getHelp/YRjUn5N.jpg)
+<amp-img alt="group therapy" src="https://1317562338.rsc.cdn77.org/images/getHelp/YRjUn5N.jpg" width="724" height="398" layout="responsive"></amp-img>
 Group therapy is an alternative to individual therapy and is sometimes offered through centers or run by therapists in private practice. Groups vary widely in style and structure, but are almost always less expensive than individual therapy.
 
 In group therapy, a therapist will lead the group, but much of the session consists of discussion amongst the group. You won’t have a therapist to yourself, but you may learn as much or more from the other group members.
@@ -66,7 +66,7 @@ Although the laws on video therapy are still somewhat unclear, generally the the
   - **Ask a local therapist if they offer video or tele-therapy.** Many therapists offer video or tele-therapy on their own, but are not registered with one of these directories. If you find a therapist licensed in your state that you'd like to work with, but travel to them is inconvenient, ask them if they offer therapy by video or phone.
 
 ## Text Therapy
-![text therapy](https://1317562338.rsc.cdn77.org/images/getHelp/2reVr7C.jpg)
+<amp-img alt="text therapy" src="https://1317562338.rsc.cdn77.org/images/getHelp/2reVr7C.jpg" width="724" height="359" layout="responsive"></amp-img>
 In text therapy you're matched with a licensed therapist and communicate with them by leaving messages in a sort of private "chat room," to which your therapist then leaves responses. It's sort of like texting back and forth with a therapist.
 
 Pros:

@@ -18,15 +18,14 @@ Each drug works slightly differently, and not all drugs will work for you.
 ## How Antidepressants Work
 Your brain contains several billion neurons, which send chemical messages back and forth to each other about your movements, emotions, temperature and more.
 
-![neurons in the brain](https://1317562338.rsc.cdn77.org/images/sess3/zg4b4RB.jpg)
+<amp-img alt="neurons in the brain" src="https://1317562338.rsc.cdn77.org/images/sess3/zg4b4RB.jpg" width="680" height="317" layout="responsive"></amp-img>
 
 Neurotransmitters, like serotonin and norepinephrine, are the chemicals that help send messages from your neurons. Low levels of these two neurotransmitters are commonly associated with sad feelings and depression.
 
 Many antidepressants are thought to work by influencing the neurotransmitters in your brain, particularly serotonin and norepinephrine. By keeping more of these neurotransmitters in the space between your neurons (the "synapse"), communication is thought to improve between neurons, and mood is better regulated.
 
 Though extensive research is ongoing, the exact mechanisms of how antidepressants work are not yet fully understood.
-![The inner workings of your astounding brain](https://1317562338.rsc.cdn77.org/images/sess3/O0hvVYI.png)
-
+<amp-img alt="The inner workings of your astounding brain" src="https://1317562338.rsc.cdn77.org/images/sess3/O0hvVYI.png" width="550" height="401" layout="responsive"></amp-img>
 
 ## Are antidepressants effective?
 Antidepressants have been shown to be effective for many people, about equally effective as psychotherapy (like [CBT](https://www.uplift.app/blog/what-is-cognitive-behavioral-therapy), though for some people one or the other may be more effective. They may help relieve certain depressive symptoms faster than therapy, particularly in severe depression, though the effects may not generally be as long-lasting as the effects of psychotherapy.

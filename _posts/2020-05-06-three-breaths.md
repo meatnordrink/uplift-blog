@@ -16,14 +16,14 @@ As simple as it sounds, taking deep breaths throughout the day can reduce stress
 Deep breathing is at the core of one of the oldest and most-proven practices of wellbeing - meditation. Meditation practitioners and yogis have incorporated this technique into their practices for millennia. Buddha was pretty calm right? The secret (don't tell) is all in breathing.
 
 ## Take three deep breaths
-![breathe with the image](https://media.giphy.com/media/krP2NRkLqnKEg/giphy.gif)
+<amp-img alt="breathe with the image" src="https://media.giphy.com/media/krP2NRkLqnKEg/giphy.gif" width="287" height="311" layout="intrinsic"></amp-img>
 
 Simply take three deep breaths, fully filling up your lungs and slowly breathing out.
 
 Do your best to focus on your breath and nothing else.
 
 ## Pointers for future practice
-![beautiful pink flower](https://1317562338.rsc.cdn77.org/images/bonusMissions/luke-braswell-9l_uA5gz4X8-unsplash.jpg)
+<amp-img alt="beautiful pink flower" src="https://1317562338.rsc.cdn77.org/images/bonusMissions/luke-braswell-9l_uA5gz4X8-unsplash.jpg" width="1400" height="636" layout="responsive"></amp-img>
 
 - Practice deep breathing whenever you feel a little anxious or want to become more present to the moment.
 - Make sure to breathe in through your nose, if you can.

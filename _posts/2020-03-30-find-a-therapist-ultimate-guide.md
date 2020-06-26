@@ -28,7 +28,6 @@ Want to view this guide offline or as a PDF?
 [![ultimate guide to finding therapy banner download][2]][1]
 
 
-<!-- ![therapist and client](https://www.uplift.app/blog/assets/images/types_of_therapy.png) -->
 <amp-img alt="therapist and client" src="https://www.uplift.app/blog/assets/images/types_of_therapy.png" width="285" height="154" layout="responsive"></amp-img>
 # Types of Therapy
 There are many different types of therapy. Learning a little about each can help you decide which approach will likely work best for you.
@@ -83,7 +82,7 @@ The term "psychodynamic therapy" is basically a more modern term for psychoanaly
 
 [Back to top](#shortcuts)
 
-![paying for therapy](https://www.uplift.app/blog/assets/images/How_to_pay.png)
+<amp-img alt="paying for therapy" src="https://www.uplift.app/blog/assets/images/How_to_pay.png" width="1000" height="540" layout="responsive"></amp-img>
 # How to Pay for Therapy and Deal with Insurance
 
 Paying for therapy is one of the biggest obstacles for many people. In the US, a single session of in-person therapy can cost anywhere from $60-$300, though the average is closer to between $80-$120. If this is more than you can afford, don't give up yet! Whether you have insurance or not, there are many options to explore that may help you pay for therapy.
@@ -172,7 +171,7 @@ Besides the health benefits, high wellbeing is a desirable state in its own righ
 
 [Back to top](#shortcuts)
 
-![helping hands for affording therapy](https://www.uplift.app/blog/assets/images/alternative_pay.png)
+<amp-img alt="helping hands for affording therapy" src="https://www.uplift.app/blog/assets/images/alternative_pay.png" width="1000" height="540" layout="responsive"></amp-img>
 # Low-Cost Alternatives to Therapy
 
 If you’re unable to afford therapy after exploring the options in the previous section, there are still many avenues you can try! Below is a list of more affordable alternatives to standard in-person therapy.
@@ -269,7 +268,7 @@ While traditional face-to-face therapy can be pricey, there are many alternative
 
 [Back to top](#shortcuts)
 
-![therapist near me computer search](https://www.uplift.app/blog/assets/images/Therapist_Directories.png)
+<amp-img alt="therapist near me computer search" src="https://www.uplift.app/blog/assets/images/Therapist_Directories.png" width="1000" height="540" layout="responsive"></amp-img>
 # Directories of Therapists
 
 Finding a therapist in your area, that you can afford and is taking patients, can sometimes be difficult. Here are a few websites with good, comprehensive listings that can help in your search.
@@ -284,8 +283,7 @@ You can also ask your doctor for a referral. They likely know the therapists ava
 
 [Back to top](#shortcuts)
 
-![therapist and client mismatch](https://www.uplift.app/blog/assets/images/selecting_therapist.png)
-<amp-img></amp-img>
+<amp-img alt="therapist and client mismatch" src="https://www.uplift.app/blog/assets/images/selecting_therapist.png" width="1000" height="540" layout="responsive"></amp-img>
 # Tips for Selecting the Right Therapist
 
 Selecting a therapist you’re comfortable with can make a big difference, and this process may take time. Here are some tips for finding a therapist you’re compatible with.
@@ -367,7 +365,7 @@ If you're just uncomfortable with the idea of therapy, you may not like any ther
 
 [Back to top](#shortcuts)
 
-![writing worrisome thoughts in journal](https://www.uplift.app/blog/assets/images/preparing_for_therapy.png)
+<amp-img alt="writing worrisome thoughts in journal" src="https://www.uplift.app/blog/assets/images/preparing_for_therapy.png" width="1000" height="686" layout="responsive"></amp-img>
 # Preparing for Your First Therapy Appointment
 
 For many people the first appointment with a therapist can be somewhat nerve-wracking. If that's true for you, remember that many, many people who have been in your shoes have gone on to have productive, comfortable relationships with a therapist. The following tips will help you know how to prepare and what to expect.
@@ -445,7 +443,7 @@ You'll get the most out of your session if you approach it with an open mind, en
 
 [Back to top](#shortcuts)
 
-![strong female boxer despite fingers pointing and criticizing](https://www.uplift.app/blog/assets/images/fighting_stigma.png)
+<amp-img alt="strong female boxer despite fingers pointing and criticizing" src="https://www.uplift.app/blog/assets/images/fighting_stigma.png" width="1000" height="540" layout="responsive"></amp-img>
 # Conquering Stigma Around Seeing a Therapist
 
 Many people worry about what it will mean or how it will look to others if they go to therapy. There's a lot of stigma out there about therapy.

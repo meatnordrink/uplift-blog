@@ -19,7 +19,7 @@ Below we’ll discuss how you can practice emotional hygiene to tend to an emoti
 
 ## Putting Together Your Emotional First Aid Kit
 
-![first-aid-kit-hiking-boots-wood](assets/images/shutterstock_88413559.jpg)
+<amp-img alt="first-aid-kit-hiking-boots-wood" src="https://www.uplift.app/blog/assets/images/shutterstock_88413559.jpg" width="1200" height="800" layout="responsive"></amp-img>
 
 Just as personal hygiene is necessary to physical health, emotional hygiene is equally important to psychological health. And when something causes us anxiety or distress, there are steps we can take to practice emotional first aid—much like how we would put an antibiotic ointment and a band-aid over a cut.
 
@@ -55,7 +55,7 @@ Consider emotional hygiene as a part of holistic self-care. Moreover, maintainin
     - Establish and maintain healthy boundaries for yourself.
     - [Nurture your self-esteem](https://www.psychologytoday.com/us/blog/nurturing-self-compassion/201703/8-steps-improving-your-self-esteem) and [practice](https://self-compassion.org/tips-for-practice/) [self-compassion](https://self-compassion.org/the-three-elements-of-self-compassion-2/).
 
-![gratitude-journal-red-tulips](assets/images/gratitude_journal_tulips.jpg)
+<amp-img alt="gratitude-journal-red-tulips" src="https://www.uplift.app/blog/assets/images/gratitude_journal_tulips.jpg" width="1030" height="688" layout="responsive"></amp-img>
 
 It’s also important to take initiative in improving your well-being by actively steering yourself toward fulfillment. That can mean anything from making time for hobbies or a dream project like learning a language, volunteering, doing a thorough assessment of your finances, or investing in career development.
 

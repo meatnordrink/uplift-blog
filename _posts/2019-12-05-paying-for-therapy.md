@@ -50,7 +50,7 @@ Ask therapists if they work with Medicare clients, or if they're willing to. You
 Medicare also pays for one depression screening per year from your primary care physician.
 
 ## Other Ways to Pay
-![truck stacking money](http://www.uplift.app/blog/assets/images/truck-stacking-money_shutterstock_618642809.jpg)
+<amp-img alt="truck stacking money" src="http://www.uplift.app/blog/assets/images/truck-stacking-money_shutterstock_618642809.jpg" width="1000" height="540" layout="responsive"></amp-img>
 
 There are a number of options besides insurance for getting help paying for therapy.
 

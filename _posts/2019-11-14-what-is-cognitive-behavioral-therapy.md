@@ -28,7 +28,7 @@ While CBT doesn't deny the importance of the past, it focuses on the present.
 
 CBT disrupts the causes of unhappiness by helping people learn new, more helpful patterns of thought and behavior.
 
-![happy girl watermelon smile](http://www.uplift.app/blog/assets/images/happy_girl_watermelon-1515023115689-589c33041d3c.jpeg)
+<amp-img alt="happy girl watermelon smile" src="http://www.uplift.app/blog/assets/images/happy_girl_watermelon-1515023115689-589c33041d3c.jpeg" width="912" height="800" layout="responsive"></amp-img>
 
 ## Characteristics of CBT
 
@@ -39,7 +39,7 @@ A CBT therapist works with the client to figure out their goals and how to reach
 In traditional talk-therapy, which is based on the client exploring deep and sensitive issues with their therapist, the client-therapist relationship is considered of extreme importance.
 
 While a good relationship is necessary for CBT as well, CBT is focused on helping the client learn the skills to overcome their challenges _themselves_, and therefore the relationship with the therapist is of secondary importance. (This is one reason CBT is such an excellent therapy for use in [online depression apps](https://www.uplift.app/blog/compare-icbt-depression-apps), like [UpLift](http://www.uplift.app).)
-![mental health app](http://www.uplift.app/blog/assets/images/mental_health-shutterstock_599959877.jpg)
+<amp-img alt="mental health app" src="http://www.uplift.app/blog/assets/images/mental_health-shutterstock_599959877.jpg" width="1000" height="1000" layout="responsive"></amp-img>
 
 **CBT uses 'homework.'**
 Because CBT is about teaching the _client_ skills, rather than relying on the skills of the therapist, CBT utilizes extensive out-of-session assignments, asking the client to apply and practice concepts and follow through on plans made in-session.

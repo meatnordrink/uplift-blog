@@ -20,7 +20,7 @@ There are 4 sections to this guide — feel free to skip to whichever one yo
 - [Socializing](#socializing)
 - [Productivity](#productivity)
 
-![We're all in this together](https://1317562338.rsc.cdn77.org/images/blog/wereallinthistogether.jpeg)
+<amp-img alt="Hands in center - we're all in this together" src="https://1317562338.rsc.cdn77.org/images/bonusMissions/luke-braswell-9l_uA5gz4X8-unsplash.jpg" width="1400" height="933" layout="responsive"></amp-img>
 
 ## Mental Health
 
@@ -47,7 +47,7 @@ Being stuck at home can definitely take a toll on your mental health, especially
 
 **Sleep Hygiene**  — With all of the stressors and loss of structure that this time brings, you might be experiencing lower sleep quality than before. Learning proper sleep hygiene can help you stay well rested as well as guard against depression, anxiety, and irritability. Here are [12 simple tips](http://healthysleep.med.harvard.edu/healthy/getting/overcoming/tips) from Harvard.
 
-![Hiking while social distancing](https://1317562338.rsc.cdn77.org/images/blog/hikingwhilesocialdistancing.jpeg)
+<amp-img alt="Hiking while social distancing" src="https://1317562338.rsc.cdn77.org/images/blog/hikingwhilesocialdistancing.jpeg" width="1000" height="667" layout="responsive"></amp-img>
 
 ## Physical Health
 
@@ -79,7 +79,7 @@ Social distancing means no more gyms, no more in-person workout classes, and no 
 - [Ring Fit Adventure](https://amzn.to/2VBcvFa) (Nintendo Switch) combines an RPG with exercise. However, it is hard to find in stock as of April 2020.
 - VR Games — [Beat Saber](https://beatsaber.com/) is Dance Dance Revolution x Star Wars. [Pistol Whip](https://cloudheadgames.com/pistol-whip/) is Beat Saber with guns. Hardest part here is you have to own a VR headset — I recommend the [Oculus Quest](https://amzn.to/2RLwDTN).
 
-![](https://1317562338.rsc.cdn77.org/images/blog/babiesvideochatting.jpeg)
+<amp-img alt="Mom with toddler baby and laptop" src="https://1317562338.rsc.cdn77.org/images/blog/babiesvideochatting.jpeg" width="1400" height="934" layout="responsive"></amp-img>
 
 ## Socializing
 
@@ -117,7 +117,7 @@ Just because we're all stuck in our homes doesn't mean that we can't stay social
 - [AirPods](https://amzn.to/2VNQEKT) or [gaming headphones](https://amzn.to/2yjSYB1) if you're having trouble with your mic quality.
 - If you're struggling with an old laptop, now might be a good time to upgrade! For the average person, I'd recommend the new [MacBook Air](https://amzn.to/2VxrAYc) (with i5 processor) or the new [Dell XPS 9300](https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/new-xps-13-laptop/spd/xps-13-9300-laptop) (1080p screen), or a [good budget laptop](https://thewirecutter.com/reviews/best-laptop-under-500/).
 
-![Cute dog looking at laptop](https://1317562338.rsc.cdn77.org/images/blog/cutedog.jpeg)
+<amp-img alt="Cute dog looking at laptop" src="https://1317562338.rsc.cdn77.org/images/blog/cutedog.jpeg" width="1400" height="896" layout="responsive"></amp-img>
 
 ## Productivity
 
