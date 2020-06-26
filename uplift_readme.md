@@ -16,7 +16,8 @@
 ## Pushing to the live repo.
 
 1. Either make your changes to the `public/blog` submodule, or, if you're using the old repo as a sandbox:
-    * Make your changes, push them as usual. When you're satisfied;
+    * In the terminal navigate to `cd ~/Documents/uplift-website/public/blog` (Aislinn's Mac)
+		* Make your changes, push them as usual. When you're satisfied;
     * Navigate to `/public/blog` and `git pull` the changes.
 2. Push the changes.
 3. SSH into the server. From the home directory the syntax for this is:
