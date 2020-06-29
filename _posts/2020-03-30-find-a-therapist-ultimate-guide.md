@@ -219,9 +219,9 @@ Video therapy is similar to traditional in-person therapy; it's simply conducted
 
 Although the laws on video therapy are still somewhat unclear, generally the therapist must be in your state to legally offer therapy. However, laws vary from state to state. Here are a few sites that list therapists set up to do video-sessions.
 
-  - **[Breakthrough](https://www.breakthrough.com])** lists therapists licensed in your state available for video therapy. The prices are similar to in-person therapy, and generally range from $80-$200.
+  - **[Breakthrough](https://www.breakthrough.com)** lists therapists licensed in your state available for video therapy. The prices are similar to in-person therapy, and generally range from $80-$200.
   - **[iCouch](https://icouch.me/find-a-therapist)** lists therapists available in North America and across the world. Prices range from $50-$200. iCouch does allow you to select therapists from any state. Note that some of the therapists listed are coaches, not licensed counselors or psychologists.
-  - **[Virtual Therapy Connect](https://virtualtherapyconnect.com])** This site is not nearly as nicely set up or as helpful as Breakthrough, but can be another source for contact information for therapists who practice video therapy.
+  - **[Virtual Therapy Connect](https://virtualtherapyconnect.com)** This site is not nearly as nicely set up or as helpful as Breakthrough, but can be another source for contact information for therapists who practice video therapy.
   - **Ask a local therapist if they offer video or tele-therapy.** Many therapists offer video or tele-therapy on their own, but are not registered with one of these directories. If you find a therapist licensed in your state that you'd like to work with, but travel to them is inconvenient, ask them if they offer therapy by video or phone.
 
 ## Text Therapy
@@ -249,7 +249,7 @@ Unfortunately, several attempts at creating social-networking apps specifically 
   - **[Elevatr](http://www.elevatr.com)** This is a smartphone app designed to create a safe space to express issues and challenges relating to mental health, for both those struggling with mental health challenges and those supporting them in their struggles. Elevatr's unique feature is 'expert verified answers.' A team of doctors and therapists verify user-provided answers, to make sure that the information within is medically correct. (For example, if someone asks about the side effects of an anti-depressant, one of the doctors or therapists will verify whatever answers the user receives for medical accuracy.)
 
 ## Mental Health Apps
-While most mental health apps lack scientific backing, there are a few quality options out there. For example, programs based on [Cognitive Behavioral Therapy](https://www.uplift.app/blog/what-is-cognitive-behavioral-therapy) have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy for depression.
+While most mental health apps lack scientific backing, there are a few quality options out there. For example, programs based on [Cognitive Behavioral Therapy](http://www.uplift.app/blog/what-is-cognitive-behavioral-therapy) have a mounting body of evidence to suggest they work as well as, or nearly as well as face-to-face therapy for depression.
 
 Mental health apps vary widely in their techniques. Costs vary depending on the quality and comprehensiveness of the content offered, from free to about $40/month. Some offer a complete course that mirrors traditional therapy, while others offer a chatbot or individual tools. Here are a few examples:
   - **Complete Cognitive Behavioral Therapy course**: Modify your thoughts and behaviors in ways that reduce negative moods and increase wellbeing. Example: [UpLift](http://www.uplift.app?utm_source=therapy_guide)
