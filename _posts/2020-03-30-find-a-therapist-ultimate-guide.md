@@ -25,8 +25,7 @@ With all the positives therapy can bring, getting started can be difficult. Navi
 - [Conquering Stigma Around Seeing a Therapist](#conquering-stigma-around-seeing-a-therapist)
 
 Want to view this guide offline or as a PDF?
-[![ultimate guide to finding therapy banner download][2]][1]
-
+<a href="https://www.uplift.app/blog/download"><amp-img alt="ultimate guide to finding therapy banner download" src="https://www.uplift.app/blog/assets/images/find_a_therapist_banner.png" width="643" height="226" layout="responsive"></amp-img></a>
 
 <amp-img alt="therapist and client" src="https://www.uplift.app/blog/assets/images/types_of_therapy.png" width="285" height="154" layout="responsive"></amp-img>
 # Types of Therapy
