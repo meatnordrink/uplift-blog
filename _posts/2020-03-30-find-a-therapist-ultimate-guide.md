@@ -263,7 +263,7 @@ Read more tips for [comparing mental health apps here](https://www.uplift.app/bl
 ## Summary
 While traditional face-to-face therapy can be pricey, there are many alternatives out there that can nevertheless provide relief. From [group therapy](https://groups.psychologytoday.com/rms/), to [depression apps](https://www.uplift.app/blog/compare-icbt-depression-apps), to a combination of efforts, you _can_ and _deserve_ to feel better.
 
-[![ultimate guide to finding therapy banner download][3]][1]
+<a href="https://www.uplift.app/blog/download"><amp-img alt="ultimate guide to finding therapy banner download" src="https://www.uplift.app/blog/assets/images/find_a_therapist_sideAd.png" width="200" height="347" layout="intrinsic"></amp-img></a>
 
 [Back to top](#shortcuts)
 
@@ -483,8 +483,7 @@ Some people do stay in therapy for years, because they find that it's a part of 
 In a given year, around one in every four people experience a mental health issue. Seeking treatment doesn't mean you're unique because you're affected by a mental health issue; it means you're unique because you're _doing_ something about it.
 
 **Get this guide as a PDF**
-[![ultimate guide to finding therapy banner download][2]][1]
-
+<a href="https://www.uplift.app/blog/download"><amp-img alt="ultimate guide to finding therapy banner download" src="https://www.uplift.app/blog/assets/images/find_a_therapist_banner.png" width="643" height="226" layout="responsive"></amp-img></a>
 
 <div class='grey_box'>
 
@@ -503,7 +502,3 @@ Outside of the US:
   <li>Use your local emergency services.</li>
 </ul>
 </div>
-
-[1]: https://www.uplift.app/blog/download
-[2]: https://www.uplift.app/blog/assets/images/find_a_therapist_banner.png
-[3]: https://www.uplift.app/blog/assets/images/find_a_therapist_sideAd.png
