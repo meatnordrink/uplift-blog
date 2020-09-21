@@ -17,5 +17,6 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'jekyll-redirect-from'
     gem 'kramdown'
+    gem 'kramdown-parser-gfm'
     gem 'rouge'
 end
