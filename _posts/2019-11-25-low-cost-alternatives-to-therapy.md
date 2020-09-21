@@ -60,9 +60,9 @@ Video therapy is similar to traditional in-person therapy; it's simply conducted
 
 Although the laws on video therapy are still somewhat unclear, generally the therapist must be in your state to legally offer therapy. However, laws vary from state to state. Here are a few sites that list therapists set up to do video-sessions.
 
-  - **[Breakthrough](https://www.breakthrough.com])** lists therapists licensed in your state available for video therapy. The prices are similar to in-person therapy, and generally range from $80-$200.
+  - **[Breakthrough](https://www.breakthrough.com)** lists therapists licensed in your state available for video therapy. The prices are similar to in-person therapy, and generally range from $80-$200.
   - **[iCouch](https://icouch.me/find-a-therapist)** lists therapists available in North America and across the world. Prices range from $50-$200. iCouch does allow you to select therapists from any state. Note that some of the therapists listed are coaches, not licensed counselors or psychologists.
-  - **[Virtual Therapy Connect](https://virtualtherapyconnect.com])** This site is not nearly as nicely set up or as helpful as Breakthrough, but can be another source for contact information for therapists who practice video therapy.
+  - **[Virtual Therapy Connect](https://virtualtherapyconnect.com)** This site is not nearly as nicely set up or as helpful as Breakthrough, but can be another source for contact information for therapists who practice video therapy.
   - **Ask a local therapist if they offer video or tele-therapy.** Many therapists offer video or tele-therapy on their own, but are not registered with one of these directories. If you find a therapist licensed in your state that you'd like to work with, but travel to them is inconvenient, ask them if they offer therapy by video or phone.
 
 ## Text Therapy
