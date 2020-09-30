@@ -130,8 +130,6 @@ However, do first consider more traditional forms of care such as in-person ther
 
 To give a depression app a try, receive the first session and tool of UpLift for free. [Get started here](http://uplift.app?utm_source=blog).
 
-{% include call_to_action.html %}
-
 <div class='grey_box'>
 
 <strong>If you're having suicidal thoughts, or who need help right away, please reach out to someone. You don’t have to feel alone.</strong>
