@@ -17,11 +17,11 @@ Sometimes brains get mired in a web of negative thoughts that cause a bad mood. 
 
 When brains get going, they can fall into many common thinking traps, things like:
 - **Catastrophizing**: Imagining the worst-case scenario ("During this eulogy, what if I just fart like, really loudly and everyone gapes at me in horror!")
-- **Should statements**: Thinking you "should" or "shouldn't" do something ("I should seriously stop eating this entire tub of nutella")
 - **Overgeneralizing**: Using "always" or "never" statements ("My face always succeeds at making the most awkwardly deranged expression in photos")
-- **Negative filter**: Focusing on the bad aspects of something while ignoring what's good. ("I did a gazillion loads of laundry and missed this dirty sock - UGH!")
+- **Should statements**: Thinking you "should" or "shouldn't" do something ("I should seriously stop eating this entire tub of nutella")
+- **Negative filter**: Focusing on the bad aspects of something while ignoring what's good. ("I did a gazillion loads of laundry but missed this dirty sock - UGH!")
 
-Thinking errors like these are usually untrue and unhelpful.
+Thinking errors like these are usually untrue and unhelpful (well... maybe I /could/ cut back on the nutella).
 
 Taking time to examine whether a thought is fact or fiction, and coming up with a better alternative, can build resilience.
 
@@ -32,7 +32,7 @@ Got it? Okay. Now...
 
 2. What's an alternative thought you could have that's more reasonable or helpful?
 
-Now...
+Don't skimp on this step!
 
 3. What evidence do you have that supports the thought error? How about the alternative thought?
 
