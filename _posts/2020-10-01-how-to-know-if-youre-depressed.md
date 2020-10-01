@@ -84,7 +84,6 @@ Those outside of the US:
 <div class='references'>
 <ul>
 <li><sup>i</sup>: http://www.ncbi.nlm.nih.gov/pubmed/15756910</li>
-</ul>
 <li><sup>i</sup>: https://onlinelibrary.wiley.com/doi/abs/10.1002/1520-6394(2000)12:1+%3C69::AID-DA9%3E3.0.CO;2-K</li>
 <li><sup>iii</sup>: Liu, E., & Pluta, A., & Dobson, K. (2018, November). Pilot Study on UpLift---A Computerized Cognitive Behavioral Therapy Mobile App for Depression. Poster session presented at the 52nd Annual Convention for the Association for Behavioral and Cognitive Therapies (ABCT), Washington, D.C.</li>
 </ul>
