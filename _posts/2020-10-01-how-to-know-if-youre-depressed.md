@@ -47,7 +47,7 @@ Many people who feel depressed also feel anxious. There’s a lot of overlap bet
 ## How do depression symptoms affect people?
 The symptoms of depression aren’t just uncomfortable, they affect your life. They may get in the way of relationships, work, and meeting goals.
 
-The interference of depression varies person to person. Sometimes, depression just lowers someone’s overall enjoyment of life.
+Depression's impacts vary person to person. Sometimes, depression just lowers someone’s overall enjoyment of life.
 
 In other cases, symptoms of depression are very intense and even daily activities are very difficult to complete.
 
@@ -60,7 +60,7 @@ Not sure who to talk to? [This comprehensive guide can help you find a therapist
 
 Some people find it helpful to take an [online depression self-assessment](https://www.uplift.app/depression-test/) to get a better idea of their symptoms, though talking to a doctor or mental health professional is the best way to learn if you have depression, and the only way to get a diagnosis and treatment plan.
 
-If you do have depression, [UpLift](https://www.uplift.app/) can be a supplement professional care. It's a complete course based on Cognitive Behavioral Therapy, one of the most helpful therapies for depression. In a trial of UpLift, users reduced their depression by 50% in one month<sup>iii</sup>.
+If you do have depression, [UpLift](https://www.uplift.app/) can be a supplement to professional care. It's a complete course based on Cognitive Behavioral Therapy, one of the most helpful therapies for depression. In a trial of UpLift, users reduced their depression by 50% in one month<sup>iii</sup>.
 
 
 <div class='grey_box'>
